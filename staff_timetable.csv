@@ -1,0 +1,1288 @@
+Staff Name,Staff ID,Subject Code and Name,Size,Type,Course/Stage,Group,Duration,Part time indicator,Room,Day,Time
+_ Another / SP,_ Another / SP,comp-0542 p12 Physics 1,4,P,KCMSC_B_Y1,kcmsc_b1-W_P1,1,,W03,TUE,15:15
+_ Another / SP,_ Another / SP,comp-0542 p12 Physics 1,5,P,KCOFO_B_Y1,kcofo_b1-W_P1,1,,W03,TUE,15:15
+_ Another / SP,_ Another / SP,comp-0542 p09 Physics 1,4,P,KCMSC_B_Y1,kcmsc_b1-W_P1,1,,W03,TUE,16:15
+_ Another / SP,_ Another / SP,comp-0542 p09 Physics 1,5,P,KCOFO_B_Y1,kcofo_b1-W_P1,1,,W03,TUE,16:15
+"Arumadura, Tharusha",201040,comp-0129 p03 Network Forensics,3,P,KCMSC_B_Y3,kcmsc_b3-W_CLN,1,,IT102,MON,15:15
+"Arumadura, Tharusha",201040,comp-0129 p03 Network Forensics,4,P,KCMSC_B_Y3,kcmsc_b3-W_FOR,1,,IT102,MON,15:15
+"Arumadura, Tharusha",201040,comp-0129 p03 Network Forensics,3,P,KCOFO_B_Y3,kcofo_b3-W_W,1,,IT102,MON,15:15
+"Arumadura, Tharusha",201040,comp-0129 p01 Network Forensics,3,P,KCMSC_B_Y3,kcmsc_b3-W_CLN,1,,IT102,MON,16:15
+"Arumadura, Tharusha",201040,comp-0129 p01 Network Forensics,4,P,KCMSC_B_Y3,kcmsc_b3-W_FOR,1,,IT102,MON,16:15
+"Arumadura, Tharusha",201040,comp-0129 p01 Network Forensics,3,P,KCOFO_B_Y3,kcofo_b3-W_W,1,,IT102,MON,16:15
+"Bamigade, Opeyemi",12329,comp-0119 p03 File System Forensics,2,P,KCMSC_B_Y2,kcmsc_b2-X_FOR,1,,IT102,THU,15:15
+"Bamigade, Opeyemi",12329,comp-0119 p03 File System Forensics,5,P,KCOFO_B_Y2,kcofo_b2-W_W,1,,IT102,THU,15:15
+"Bamigade, Opeyemi",12329,comp-0119 p02 File System Forensics,2,P,KCMSC_B_Y2,kcmsc_b2-X_FOR1,1,,IT102,THU,16:15
+"Bamigade, Opeyemi",12329,comp-0119 p02 File System Forensics,5,P,KCOFO_B_Y2,kcofo_b2-W_W,1,,IT102,THU,16:15
+"Barry, Ruth",4226,comp-0603 l01 Enterprise Applications,18,L,KCOMC_D_Y2,kcomc_d2-W_W,1,,TL158,MON,15:15
+"Barry, Ruth",4226,comp-0603 l01 Enterprise Applications,18,L,KDEVP_B_Y2,kdevp_b2-W_W,1,,TL158,MON,15:15
+"Barry, Ruth",4226,comp-0603 l01 Enterprise Applications,28,L,KINFT_D_Y2,kinft_d2-W_W,1,,TL158,MON,15:15
+"Barry, Ruth",4226,comp-0603 p02 Enterprise Applications,6,P,KCOMC_D_Y2,kcomc_d2-W_W1,1,,IT119,TUE,09:15
+"Barry, Ruth",4226,comp-0603 p02 Enterprise Applications,6,P,KDEVP_B_Y2,kdevp_b2-W_W1,1,,IT119,TUE,09:15
+"Barry, Ruth",4226,comp-0603 p02 Enterprise Applications,28,P,KINFT_D_Y2,kinft_d2-W_W,1,,IT119,TUE,09:15
+"Barry, Ruth",4226,comp-0603 p02 Enterprise Applications,6,P,KCOMC_D_Y2,kcomc_d2-W_W1,1,,IT119,TUE,10:15
+"Barry, Ruth",4226,comp-0603 p02 Enterprise Applications,6,P,KDEVP_B_Y2,kdevp_b2-W_W1,1,,IT119,TUE,10:15
+"Barry, Ruth",4226,comp-0603 p02 Enterprise Applications,28,P,KINFT_D_Y2,kinft_d2-W_W,1,,IT119,TUE,10:15
+"Barry, Ruth",4226,comp-0584 p01 Graphic Design 1,54,P,KCRCO_B_Y1,kcrco_b1-W_W,1,,IT118,TUE,13:15
+"Barry, Ruth",4226,comp-0584 p01 Graphic Design 1,4,P,KCREA_D_Y1,kcrea_d1-W_W,1,,IT118,TUE,13:15
+"Barry, Ruth",4226,comp-0584 p02 Graphic Design 1,54,P,KCRCO_B_Y1,kcrco_b1-W_W,1,,IT118,TUE,14:15
+"Barry, Ruth",4226,comp-0584 p02 Graphic Design 1,4,P,KCREA_D_Y1,kcrea_d1-W_W,1,,IT118,TUE,14:15
+"Barry, Ruth",4226,comp-0603 p02 Enterprise Applications,6,P,KCOMC_D_Y2,kcomc_d2-W_W2,1,,IT120,TUE,15:15
+"Barry, Ruth",4226,comp-0603 p02 Enterprise Applications,6,P,KDEVP_B_Y2,kdevp_b2-W_W2,1,,IT120,TUE,15:15
+"Barry, Ruth",4226,comp-0603 p05 Enterprise Applications,6,P,KCOMC_D_Y2,kcomc_d2-W_W2,1,,IT120,TUE,16:15
+"Barry, Ruth",4226,comp-0603 p05 Enterprise Applications,6,P,KDEVP_B_Y2,kdevp_b2-W_W2,1,,IT120,TUE,16:15
+"Barry, Ruth",4226,comp-0584 p05 Graphic Design 1,54,P,KCRCO_B_Y1,kcrco_b1-W_W,1,,IT118,THU,10:15
+"Barry, Ruth",4226,comp-0584 p05 Graphic Design 1,4,P,KCREA_D_Y1,kcrea_d1-W_W,1,,IT118,THU,10:15
+"Barry, Ruth",4226,comp-0584 p03 Graphic Design 1,54,P,KCRCO_B_Y1,kcrco_b1-W_W,1,,IT118,THU,11:15
+"Barry, Ruth",4226,comp-0584 p03 Graphic Design 1,4,P,KCREA_D_Y1,kcrea_d1-W_W,1,,IT118,THU,11:15
+"Barry, Ruth",4226,buss-0057 l01 Business Intelligence,32,L,KCESS_R_Y5,kcess_r_y5_W,1,,IT119,THU,13:15
+"Barry, Ruth",4226,buss-0057 l02 Business Intelligence,32,L,KCESS_R_Y5,kcess_r_y5_W,1,,IT119,THU,14:15
+"Barry, Ruth",4226,buss-0057 p01 Business Intelligence,32,P,KCESS_R_Y5,kcess_r_y5_W,1,,IT119,THU,15:15
+"Barry, Ruth",4226,buss-0057 p02 Business Intelligence,32,P,KCESS_R_Y5,kcess_r_y5_W,1,,IT119,THU,16:15
+"Barry, Ruth",4226,comp-0603 l02 Enterprise Applications,18,L,KCOMC_D_Y2,kcomc_d2-W_W,1,,TL158,FRI,11:15
+"Barry, Ruth",4226,comp-0603 l02 Enterprise Applications,18,L,KDEVP_B_Y2,kdevp_b2-W_W,1,,TL158,FRI,11:15
+"Barry, Ruth",4226,comp-0603 l02 Enterprise Applications,28,L,KINFT_D_Y2,kinft_d2-W_W,1,,TL158,FRI,11:15
+"Birney, Rosanne",1908,comp-0590 l01 Website Development 1,26,L,KCMSC_B_Y1,kcmsc_b1-W_W1/W,1,,E19B,MON,11:15
+"Birney, Rosanne",1908,comp-0590 l01 Website Development 1,5,L,KCOFO_B_Y1,kcofo_b1-W_W1/W2,1,,E19B,MON,11:15
+"Birney, Rosanne",1908,comp-0961 l01 Web App Development,1,RL,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,MON,12:15
+"Birney, Rosanne",1908,comp-0961 l02 Web App Development,1,RL,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,MON,13:15
+"Birney, Rosanne",1908,comp-0590 p11 Website Development 1,4,P,KCMSC_B_Y1,kcmsc_b1-W_W2,1,,IT220,MON,14:15
+"Birney, Rosanne",1908,comp-0590 p11 Website Development 1,5,P,KCOFO_B_Y1,kcofo_b1-W_W2,1,,IT220,MON,14:15
+"Birney, Rosanne",1908,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,_MC,AA Office-SP,TUE,10:15
+"Birney, Rosanne",1908,comp-0611 l01 Web App Development 2,26,RL,KSOFE_B_Y4,ksofe_b4_W,1,,NUIST,TUE,11:15
+"Birney, Rosanne",1908,comp-0961 p01 Web App Development,1,RP,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,TUE,12:15
+"Birney, Rosanne",1908,comp-0961 p02 Web App Development,1,RP,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,TUE,13:15
+"Birney, Rosanne",1908,comp-0611 p03 Web App Development 2,13,P,KDEVP_B_Y4,kdevp_b4-W_W,1,,IT101,WED,09:15
+"Birney, Rosanne",1908,comp-0611 p04 Web App Development 2,13,P,KDEVP_B_Y4,kdevp_b4-W_W,1,,IT101,WED,10:15
+"Birney, Rosanne",1908,comp-0611 l02 Web App Development 2,9,L,KCMSC_B_Y3,kcmsc_b3-W_W,1,,E07,WED,13:15
+"Birney, Rosanne",1908,comp-0611 l02 Web App Development 2,3,L,KCOFO_B_Y3,kcofo_b3-W_W,1,,E07,WED,13:15
+"Birney, Rosanne",1908,comp-0611 l01 Web App Development 2,9,L,KCMSC_B_Y3,kcmsc_b3-W_W,1,,E07,WED,14:15
+"Birney, Rosanne",1908,comp-0611 l01 Web App Development 2,3,L,KCOFO_B_Y3,kcofo_b3-W_W,1,,E07,WED,14:15
+"Birney, Rosanne",1908,comp-0611 l02 Web App Development 2,13,L,KDEVP_B_Y4,kdevp_b4-W_W,1,,FTG20,FRI,09:15
+"Birney, Rosanne",1908,comp-0611 l01 Web App Development 2,13,L,KDEVP_B_Y4,kdevp_b4-W_W,1,,FTG20,FRI,10:15
+"Birney, Rosanne",1908,comp-0590 p09 Website Development 1,4,P,KCMSC_B_Y1,kcmsc_b1-W_W2,1,,IT222,FRI,11:15
+"Birney, Rosanne",1908,comp-0590 p09 Website Development 1,5,P,KCOFO_B_Y1,kcofo_b1-W_W2,1,,IT222,FRI,11:15
+"Birney, Rosanne",1908,comp-0590 p10 Website Development 1,4,P,KCMSC_B_Y1,kcmsc_b1-W_W2,1,,IT222,FRI,12:15
+"Birney, Rosanne",1908,comp-0590 p10 Website Development 1,5,P,KCOFO_B_Y1,kcofo_b1-W_W2,1,,IT222,FRI,12:15
+"Butler, Bernard",5842,data-0027 p01 Machine Learning,32,RP,KCESS_R_Y5,kcess_r_y5_W,1,_SP,Online,MON,15:15
+"Butler, Bernard",5842,data-0027 p02 Machine Learning,32,RP,KCESS_R_Y5,kcess_r_y5_W,1,_SP,Online,MON,16:15
+"Butler, Bernard",5842,comp-1002 l02 Artificial Intelligence Engineeri,10,L,KACCM_B_Y4,kaccm_b4-W_W,1,,W13,TUE,12:15
+"Butler, Bernard",5842,comp-1002 l02 Artificial Intelligence Engineeri,2,L,KCOFO_B_Y4,kcofo_b4-W_W,1,,W13,TUE,12:15
+"Butler, Bernard",5842,comp-1002 p02 Artifical Intelligence Engineeri,10,P,KACCM_B_Y4,kaccm_b4-W_W1,1,,D04,TUE,13:15
+"Butler, Bernard",5842,comp-1002 p02 Artifical Intelligence Engineeri,2,P,KCOFO_B_Y4,kcofo_b4-W_W1,1,,D04,TUE,13:15
+"Butler, Bernard",5842,comp-1002 p01 Artificial Intelligence Engineeri,10,P,KACCM_B_Y4,kaccm_b4-W_W1,1,,D04,TUE,14:15
+"Butler, Bernard",5842,comp-1002 p01 Artificial Intelligence Engineeri,2,P,KCOFO_B_Y4,kcofo_b4-W_W1,1,,D04,TUE,14:15
+"Butler, Bernard",5842,comp-0563 l01 Data Mining I,26,RL,KACMI_B_Y4,kacmi_b4-W_W,1,,NUIST,WED,13:15
+"Butler, Bernard",5842,data-0027 l01 Machine Learning,32,L,KCESS_R_Y5,kcess_r_y5_W,1,,D05,THU,09:15
+"Butler, Bernard",5842,data-0027 l02 Machine Learning,32,L,KCESS_R_Y5,kcess_r_y5_W,1,,D05,THU,10:15
+"Butler, Bernard",5842,data-0027 p03 Machine Learning,32,P,KCESS_R_Y5,kcess_r_y5_W,1,,D05,THU,11:15
+"Butler, Bernard",5842,data-0027 p04 Machine Learning,32,P,KCESS_R_Y5,kcess_r_y5_W,1,,D05,THU,12:15
+"Butler, Bernard",5842,comp-1002 l01 Artificial Intelligence Engineeri,10,L,KACCM_B_Y4,kaccm_b4-W_W,1,,TL159,THU,14:15
+"Butler, Bernard",5842,comp-1002 l01 Artificial Intelligence Engineeri,2,L,KCOFO_B_Y4,kcofo_b4-W_W,1,,TL159,THU,14:15
+"Butler, Bernard",5842,comp-1002 p01 Artificial Intelligence Engineeri,10,P,KACCM_B_Y4,kaccm_b4-W_W2,1,,D04,THU,15:15
+"Butler, Bernard",5842,comp-1002 p01 Artificial Intelligence Engineeri,2,P,KCOFO_B_Y4,kcofo_b4-W_W2,1,,D04,THU,15:15
+"Butler, Bernard",5842,comp-1002 p01 Artificial Intelligence Engineeri,10,P,KACCM_B_Y4,kaccm_b4-W_W2,1,,D04,THU,16:15
+"Butler, Bernard",5842,comp-1002 p01 Artificial Intelligence Engineeri,2,P,KCOFO_B_Y4,kcofo_b4-W_W2,1,,D04,THU,16:15
+"Cahill, Caroline",3901,comp-0578 l01 Communication Skills CA,33,L,SHORT_B_Y1,short_b1-W_W,1,,ITG18,MON,09:15
+"Cahill, Caroline",3901,comp-0578 l01 Communication Skills CA,33,L,SHORT_D_Y1,short_d1-W_W,1,,ITG18,MON,09:15
+"Cahill, Caroline",3901,comp-0578 l02 Communication Skills CA,33,L,SHORT_B_Y1,short_b1-W_W,1,,ITG18,MON,10:15
+"Cahill, Caroline",3901,comp-0578 l02 Communication Skills CA,33,L,SHORT_D_Y1,short_d1-W_W,1,,ITG18,MON,10:15
+"Cahill, Caroline",3901,comp-0578 p01 Communication Skills CA,21,L,SFORS_B_Y1,sfors_b1-W_W,1,,ITG02,MON,14:15
+"Cahill, Caroline",3901,comp-0578 p01 Communication Skills CA,21,L,SFORS_D_Y1,sfors_d1-W_W,1,,ITG02,MON,14:15
+"Cahill, Caroline",3901,comp-0599 l01 Professional Practice,9,L,KCMSC_B_Y3,kcmsc_b3-W_W,1,,FTG23,TUE,13:15
+"Cahill, Caroline",3901,comp-0599 l01 Professional Practice,3,L,KCOFO_B_Y3,kcofo_b3-W_W,1,,FTG23,TUE,13:15
+"Cahill, Caroline",3901,comp-0578 p02 Communication Skills CA,21,L,SFORS_B_Y1,sfors_b1-W_W,1,,ITG01,TUE,14:15
+"Cahill, Caroline",3901,comp-0578 p02 Communication Skills CA,21,L,SFORS_D_Y1,sfors_d1-W_W,1,,ITG01,TUE,14:15
+"Cahill, Caroline",3901,comp-0578 p04 Communication Skills CA,21,P,SFORS_B_Y1,sfors_b1-W_W,1,,ITG01,TUE,15:15
+"Cahill, Caroline",3901,comp-0578 p04 Communication Skills CA,21,P,SFORS_D_Y1,sfors_d1-W_W,1,,ITG01,TUE,15:15
+"Cahill, Caroline",3901,comp-0578 p03 Communication Skills CA,21,P,SFORS_B_Y1,sfors_b1-W_W,1,,ITG01,TUE,16:15
+"Cahill, Caroline",3901,comp-0578 p03 Communication Skills CA,21,P,SFORS_D_Y1,sfors_d1-W_W,1,,ITG01,TUE,16:15
+"Cahill, Caroline",3901,deve-0006 l01 Career Development Skills,8,RL,KBUSY_G_Y5,kbusy_g5-W_W,1,_SP,Online,WED,09:15
+"Cahill, Caroline",3901,deve-0006 l01 Career Development Skills,8,RL,KBUSY_G_Y5,kbusy_g5-W_W,1,_SP,Online,WED,10:15
+"Cahill, Caroline",3901,deve-0006 l01 Career Development Skills,8,RL,KBUSY_G_Y5,kbusy_g5-W_W,1,_SP,Online,WED,11:15
+"Cahill, Caroline",3901,comp-0599 l01 Professional Practice,26,RL,KSOFE_B_Y3,ksofe_b3_W,1,,NUIST,WED,16:15
+"Cahill, Caroline",3901,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,_MC,AA Office-SP,THU,11:15
+"Cahill, Caroline",3901,comp-0599 p03 Professional Practice,9,P,KCMSC_B_Y3,kcmsc_b3-W_W1,1,,ITG18,FRI,09:15
+"Cahill, Caroline",3901,comp-0599 p03 Professional Practice,7,P,KCOFO_B_Y3,kcofo_b3-W_W1,1,,ITG18,FRI,09:15
+"Cahill, Caroline",3901,comp-0599 p04 Professional Practice,9,P,KCMSC_B_Y3,kcmsc_b3-W_W1,1,,ITG18,FRI,10:15
+"Cahill, Caroline",3901,comp-0599 p04 Professional Practice,7,P,KCOFO_B_Y3,kcofo_b3-W_W1,1,,ITG18,FRI,10:15
+"Cahill, Caroline",3901,comp-0578 p02 Communication Skills CA,33,P,SHORT_B_Y1,short_b1-W_W,1,,ITG18,FRI,11:15
+"Cahill, Caroline",3901,comp-0578 p02 Communication Skills CA,33,P,SHORT_D_Y1,short_d1-W_W,1,,ITG18,FRI,11:15
+"Cahill, Caroline",3901,comp-0578 p01 Communication Skills CA,33,P,SHORT_B_Y1,short_b1-W_W,1,,ITG18,FRI,12:15
+"Cahill, Caroline",3901,comp-0578 p01 Communication Skills CA,33,P,SHORT_D_Y1,short_d1-W_W,1,,ITG18,FRI,12:15
+"Cahill, Caroline",3901,comp-0599 p01 Professional Practice,9,P,KCMSC_B_Y3,kcmsc_b3-W_W2,1,,ITG19,FRI,14:15
+"Cahill, Caroline",3901,comp-0599 p01 Professional Practice,7,P,KCOFO_B_Y3,kcofo_b3-W_W2,1,,ITG19,FRI,14:15
+"Cahill, Maria",2299,comm-0075 l01 Communication Skills for Agri,8,L,SAGUL_B_Y1,sagul_b1-W_W,1,,TL159,MON,09:15
+"Cahill, Maria",2299,comm-0075 l01 Communication Skills for Agri,29,L,SAGUL_D_Y1,sagul_d1-W_W,1,,TL159,MON,09:15
+"Cahill, Maria",2299,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,_MC,AA Office-SP,TUE,14:15
+"Cahill, Maria",2299,sp authorised insi SLL Peer Mentor,1,AI,AIP-SP,SP Authorised Insititu,3,_MC,AA Office-SP,WED,09:15
+"Cahill, Maria",2299,comp-0644 p02 Professional Communications,4,P,KCMSC_B_Y2,kcmsc_b2-X_AUT,1,,ITG17,THU,09:15
+"Cahill, Maria",2299,comp-0644 p02 Professional Communications,4,P,KCMSC_B_Y2,kcmsc_b2-X_CLN,1,,ITG17,THU,09:15
+"Cahill, Maria",2299,comp-0644 p01 Professional Communications,4,P,KCMSC_B_Y2,kcmsc_b2-X_AUT,1,,ITG17,THU,10:15
+"Cahill, Maria",2299,comp-0644 p01 Professional Communications,4,P,KCMSC_B_Y2,kcmsc_b2-X_CLN,1,,ITG17,THU,10:15
+"Cahill, Maria",2299,comm-0075 p01 Communication Skills for Agri,8,P,SAGUL_B_Y1,sagul_b1-W_C,1,,IT221,THU,11:15
+"Cahill, Maria",2299,comm-0075 p01 Communication Skills for Agri,8,P,SAGUL_B_Y1,sagul_b1-W_D,1,,IT221,THU,11:15
+"Cahill, Maria",2299,comm-0075 p01 Communication Skills for Agri,7,P,SAGUL_D_Y1,sagul_d1-W_C,1,,IT221,THU,11:15
+"Cahill, Maria",2299,comm-0075 p01 Communication Skills for Agri,7,P,SAGUL_D_Y1,sagul_d1-W_D,1,,IT221,THU,11:15
+"Cahill, Maria",2299,comm-0075 p03 Communication Skills for Agri,8,P,SAGUL_B_Y1,sagul_b1-W_C,1,,IT221,THU,12:15
+"Cahill, Maria",2299,comm-0075 p03 Communication Skills for Agri,8,P,SAGUL_B_Y1,sagul_b1-W_D,1,,IT221,THU,12:15
+"Cahill, Maria",2299,comm-0075 p03 Communication Skills for Agri,7,P,SAGUL_D_Y1,sagul_d1-W_C,1,,IT221,THU,12:15
+"Cahill, Maria",2299,comm-0075 p03 Communication Skills for Agri,7,P,SAGUL_D_Y1,sagul_d1-W_D,1,,IT221,THU,12:15
+"Cahill, Maria",2299,comp-0288 l03 Socio-Technical Entrepren,16,L,KISYP_R_Y5,kisyp_r5-W_W,1,,D05,THU,15:15
+"Cahill, Maria",2299,comp-0288 l02 Socio-Technical Entrepren,16,L,KISYP_R_Y5,kisyp_r5-W_W,1,,D05,THU,16:15
+"Cahill, Maria",2299,comp-0644 p04 Professional Communications,2,P,KCMSC_B_Y2,kcmsc_b2-X_FOR,1,,ITG02,FRI,09:15
+"Cahill, Maria",2299,comp-0644 p03 Professional Communications,2,P,KCMSC_B_Y2,kcmsc_b2-X_FOR,1,,ITG02,FRI,10:15
+"Cahill, Maria",2299,comp-0644 l02 Professional Communications,4,L,KCMSC_B_Y2,kcmsc_b2-X_AUT,1,,ITG03,FRI,11:15
+"Cahill, Maria",2299,comp-0644 l02 Professional Communications,4,L,KCMSC_B_Y2,kcmsc_b2-X_CLN,1,,ITG03,FRI,11:15
+"Cahill, Maria",2299,comp-0644 l02 Professional Communications,2,L,KCMSC_B_Y2,kcmsc_b2-X_FOR,1,,ITG03,FRI,11:15
+"Cahill, Maria",2299,comp-0644 l01 Professional Communications,4,L,KCMSC_B_Y2,kcmsc_b2-X_AUT,1,,ITG03,FRI,12:15
+"Cahill, Maria",2299,comp-0644 l01 Professional Communications,4,L,KCMSC_B_Y2,kcmsc_b2-X_CLN,1,,ITG03,FRI,12:15
+"Cahill, Maria",2299,comp-0644 l01 Professional Communications,2,L,KCMSC_B_Y2,kcmsc_b2-X_FOR,1,,ITG03,FRI,12:15
+"Carew, Peter",0544,comp-0602 p07 Data Structures & Algo,25,P,KCMSC_B_Y2,kcmsc_b2-X_W3,1,,IT221,MON,09:15
+"Carew, Peter",0544,comp-0602 p07 Data Structures & Algo,3,P,KCOFO_B_Y2,kcofo_b2-W_W3,1,,IT221,MON,09:15
+"Carew, Peter",0544,comp-0602 p04 Data Structures & Algo,25,P,KCMSC_B_Y2,kcmsc_b2-X_W3,1,,IT221,MON,10:15
+"Carew, Peter",0544,comp-0602 p04 Data Structures & Algo,3,P,KCOFO_B_Y2,kcofo_b2-W_W3,1,,IT221,MON,10:15
+"Carew, Peter",0544,comp-0602 p05 Data Structures & Algo,25,P,KCMSC_B_Y2,kcmsc_b2-X_W2,1,,IT118,MON,15:15
+"Carew, Peter",0544,comp-0602 p05 Data Structures & Algo,3,P,KCOFO_B_Y2,kcofo_b2-W_W2,1,,IT118,MON,15:15
+"Carew, Peter",0544,comp-0602 p03 Data Structures & Algo,25,P,KCMSC_B_Y2,kcmsc_b2-X_W2,1,,IT118,MON,16:15
+"Carew, Peter",0544,comp-0602 p03 Data Structures & Algo,3,P,KCOFO_B_Y2,kcofo_b2-W_W2,1,,IT118,MON,16:15
+"Carew, Peter",0544,comp-0602 l01 Data Structures & Algorithms,26,RL,KACMI_B_Y2,kacmi_b2-W_W,1,,NUIST,TUE,09:15
+"Carew, Peter",0544,comp-0602 l01 Data Structures & Algorithms,26,RL,KSOFE_B_Y2,ksofe_b2_W,1,,NUIST,TUE,09:15
+"Carew, Peter",0544,comp-0602 l01 Data Structures & Algo,17,L,KCMSC_B_Y2,kcmsc_b2-X_W,1,,FTG13,TUE,12:15
+"Carew, Peter",0544,comp-0602 l01 Data Structures & Algo,5,L,KCOFO_B_Y2,kcofo_b2-W_W,1,,FTG13,TUE,12:15
+"Carew, Peter",0544,comp-0602 l02 Data Structures & Algo,17,L,KCMSC_B_Y2,kcmsc_b2-X_W,1,,FTG13,TUE,13:15
+"Carew, Peter",0544,comp-0602 l02 Data Structures & Algo,5,L,KCOFO_B_Y2,kcofo_b2-W_W,1,,FTG13,TUE,13:15
+"Carew, Peter",0544,proj-0160 p01 Project Semester 5,3,P,KCMSC_B_Y3,kcmsc_b3-W_IOT,1,,FTG24,TUE,15:15
+"Carew, Peter",0544,proj-0160 p03 Project Semester 5,3,P,KCMSC_B_Y3,kcmsc_b3-W_IOT,1,,FTG24,TUE,16:15
+"Carew, Peter",0544,comp-0602 p09 Data Structures & Algo,25,P,KCMSC_B_Y2,kcmsc_b2-X_W2,1,,IT221,WED,09:15
+"Carew, Peter",0544,comp-0602 p09 Data Structures & Algo,3,P,KCOFO_B_Y2,kcofo_b2-W_W2,1,,IT221,WED,09:15
+"Carew, Peter",0544,proj-0160 p02 Project Semester 5,3,P,KCMSC_B_Y3,kcmsc_b3-W_IOT,1,,IT118,WED,11:15
+"Carew, Peter",0544,comp-0602 p08 Data Structures & Algo,25,P,KCMSC_B_Y2,kcmsc_b2-X_W3,1,,IT120,WED,14:15
+"Carew, Peter",0544,comp-0602 p08 Data Structures & Algo,3,P,KCOFO_B_Y2,kcofo_b2-W_W3,1,,IT120,WED,14:15
+"Carew, Peter",0544,comp-0602 p06 Data Structures & Algo,25,P,KCMSC_B_Y2,kcmsc_b2-X_W1,1,,IT118,WED,15:15
+"Carew, Peter",0544,comp-0602 p06 Data Structures & Algo,3,P,KCOFO_B_Y2,kcofo_b2-W_W1,1,,IT118,WED,15:15
+"Carew, Peter",0544,comp-0602 p01 Data Structures & Algo,25,P,KCMSC_B_Y2,kcmsc_b2-X_W1,1,,IT118,WED,16:15
+"Carew, Peter",0544,comp-0602 p01 Data Structures & Algo,3,P,KCOFO_B_Y2,kcofo_b2-W_W1,1,,IT118,WED,16:15
+"Carew, Peter",0544,proj-0160 p04 Project Semester 5,3,P,KCMSC_B_Y3,kcmsc_b3-W_IOT,1,,IT101,THU,09:15
+"Carew, Peter",0544,comp-0602 p02 Data Structures & Algo,25,P,KCMSC_B_Y2,kcmsc_b2-X_W1,1,,IT220,THU,11:15
+"Carew, Peter",0544,comp-0602 p02 Data Structures & Algo,3,P,KCOFO_B_Y2,kcofo_b2-W_W1,1,,IT220,THU,11:15
+"Carew, Peter",0544,comp-0639 l01 Data Structures & Algorithms,26,RL,KSOFE_B_Y3,ksofe_b3_W,1,,NUIST,THU,13:15
+"Carew, Peter",0544,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,_MC,AA Office-SP,FRI,10:15
+"Catak, Nursin",12792,mthe-0066 l02 Built Environment Eng Maths,13,L,ESCIV_B_Y2,esciv_b2_W_W,1,,C30,TUE,10:15
+"Catak, Nursin",12792,mthe-0066 l02 Built Environment Eng Maths,3,L,ESERG_B_Y2,eserg_b2_W_W,1,,C30,TUE,10:15
+"Catak, Nursin",12792,mthe-0066 l01 Built Environment Eng Maths,13,L,ESCIV_B_Y2,esciv_b2_W_W,1,,C35,TUE,11:15
+"Catak, Nursin",12792,mthe-0066 l01 Built Environment Eng Maths,3,L,ESERG_B_Y2,eserg_b2_W_W,1,,C35,TUE,11:15
+"Catak, Nursin",12792,engr-0148 l02 Engineering Maths 8.5,13,L,ESCIV_B_Y3,esciv_b3_W_W,1,,D16,TUE,13:15
+"Catak, Nursin",12792,engr-0148 l01 Engineering Maths 8.5,13,L,ESCIV_B_Y3,esciv_b3_W_W,1,,C42,WED,09:15
+"Catak, Nursin",12792,engr-0148 l03 Engineering Maths 8.5,13,L,ESCIV_B_Y3,esciv_b3_W_W,1,,C42,WED,10:15
+"Catak, Nursin",12792,scie-0015 p03 Statistics for Scientists,7,P,SPHSC_B_Y2,sphsc_b2_W_E,1,,ITG19,WED,12:15
+"Catak, Nursin",12792,scie-0015 p03 Statistics for Scientists,7,P,SPHSC_B_Y2,sphsc_b2_W_G,1,,ITG19,WED,12:15
+"Catak, Nursin",12792,scie-0015 p03 Statistics for Scientists,4,P,SPHSC_D_Y2,sphsc_d2_W_E,1,,ITG19,WED,12:15
+"Catak, Nursin",12792,scie-0015 p03 Statistics for Scientists,4,P,SPHSC_D_Y2,sphsc_d2_W_G,1,,ITG19,WED,12:15
+"Catak, Nursin",12792,scie-0015 p02 Statistics for Scientists,7,P,SPHSC_B_Y2,sphsc_b2_W_F,1,,ITG18,WED,13:15
+"Catak, Nursin",12792,scie-0015 p02 Statistics for Scientists,7,P,SPHSC_B_Y2,sphsc_b2_W_H,1,,ITG18,WED,13:15
+"Catak, Nursin",12792,scie-0015 p02 Statistics for Scientists,4,P,SPHSC_D_Y2,sphsc_d2_W_F,1,,ITG18,WED,13:15
+"Catak, Nursin",12792,scie-0015 p02 Statistics for Scientists,4,P,SPHSC_D_Y2,sphsc_d2_W_H,1,,ITG18,WED,13:15
+"Catak, Nursin",12792,mthe-0066 l04 Built Environment Eng Maths,13,L,ESCIV_B_Y2,esciv_b2_W_W,1,,F07,WED,16:15
+"Catak, Nursin",12792,mthe-0066 l04 Built Environment Eng Maths,3,L,ESERG_B_Y2,eserg_b2_W_W,1,,F07,WED,16:15
+"Catak, Nursin",12792,mthe-0066 l03 Built Environment Eng Maths,13,L,ESCIV_B_Y2,esciv_b2_W_W,1,,C42,THU,10:15
+"Catak, Nursin",12792,mthe-0066 l03 Built Environment Eng Maths,3,L,ESERG_B_Y2,eserg_b2_W_W,1,,C42,THU,10:15
+"Catak, Nursin",12792,scie-0015 p01 Statistics for Scientists,13,P,SMBIO_D_Y2,smbio_d2_W_W,1,,ITG19,THU,11:15
+"Catak, Nursin",12792,scie-0015 p03 Statistics for Scientists,7,P,SPHSC_B_Y2,sphsc_b2_W_D,1,,ITG17,THU,15:15
+"Catak, Nursin",12792,scie-0015 p03 Statistics for Scientists,4,P,SPHSC_D_Y2,sphsc_d2_W_D,1,,ITG17,THU,15:15
+"Catak, Nursin",12792,mths-0001 t03 Introductory Mathematics,4,T,SPHSC_B_Y1,sphsc_b1_W_E,1,,IT202,THU,16:15
+"Catak, Nursin",12792,mths-0001 t03 Introductory Mathematics,18,T,SSCCM_B_Y1,ssccm_b1-W_E,1,,IT202,THU,16:15
+"Catak, Nursin",12792,mths-0001 t03 Introductory Mathematics,18,T,SSCCM_B_Y1,ssccm_b1-W_M,1,,IT202,THU,16:15
+"Catak, Nursin",12792,mths-0001 t04 Introductory Mathematics,36,T,SAGRI_B_Y1,sagri_b1-W_F,1,,ITG03,FRI,10:15
+"Catak, Nursin",12792,mths-0001 t04 Introductory Mathematics,36,T,SAGRI_B_Y1,sagri_b1-W_G,1,,ITG03,FRI,10:15
+"De Francesco, Giuseppe",201104,comp-0671 p04 Mobile Game Development,4,P,KACCM_B_Y4,kaccm_b4-W_GAM,1,PT,IT103,MON,15:15
+"De Francesco, Giuseppe",201104,comp-0671 p01 Mobile Game Development,4,P,KACCM_B_Y4,kaccm_b4-W_GAM,1,PT,IT103,MON,16:15
+"De Francesco, Giuseppe",201104,comp-0671 p02 Mobile Game Development,4,P,KACCM_B_Y4,kaccm_b4-W_GAM,1,PT,IT103,WED,15:15
+"De Francesco, Giuseppe",201104,comp-0671 p03 Mobile Game Development,4,P,KACCM_B_Y4,kaccm_b4-W_GAM,1,PT,IT103,WED,16:15
+"De Leaster, Eamonn",0322,comp-0961 l01 Web App Development,1,RL,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,TUE,09:15
+"De Leaster, Eamonn",0322,comp-0961 l01 Web App Development,1,RL,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,TUE,10:15
+"De Leaster, Eamonn",0322,comp-0961 p01 Web App Development,1,RP,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,TUE,11:15
+"De Leaster, Eamonn",0322,comp-0961 p02 Web App Development,1,RP,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,TUE,12:15
+"De Leaster, Eamonn",0322,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,_MC,AA Office-SP,THU,10:15
+"Dey, Indrakshi",12247,comp-0987 l01 AI Principles and Practice,32,L,KAINT_MA_Y1,kaint_ma_y1,1,,IT120,THU,09:15
+"Dey, Indrakshi",12247,comp-0987 l01 AI Principles and Practice,32,L,KCESS_R_Y5,kcess_r_y5_W,1,,IT120,THU,09:15
+"Dey, Indrakshi",12247,comp-0987 l02 AI Principles and Practice,32,L,KAINT_MA_Y1,kaint_ma_y1,1,,IT120,THU,10:15
+"Dey, Indrakshi",12247,comp-0987 l02 AI Principles and Practice,32,L,KCESS_R_Y5,kcess_r_y5_W,1,,IT120,THU,10:15
+"Dey, Indrakshi",12247,comp-0987 p01 AI Principles and Practice,32,P,KAINT_MA_Y1,kaint_ma_y1,1,,IT102,THU,11:15
+"Dey, Indrakshi",12247,comp-0987 p01 AI Principles and Practice,32,P,KCESS_R_Y5,kcess_r_y5_W,1,,IT102,THU,11:15
+"Dey, Indrakshi",12247,comp-0987 p02 AI Principles and Practice,32,L,KAINT_MA_Y1,kaint_ma_y1,1,,IT102,THU,12:15
+"Dey, Indrakshi",12247,comp-0987 p02 AI Principles and Practice,32,L,KCESS_R_Y5,kcess_r_y5_W,1,,IT102,THU,12:15
+"Doyle, William",1124,comp-0610 l03 Enterprise Systems Arch,13,L,KDEVP_B_Y4,kdevp_b4-W_W,1,,TL221,MON,09:15
+"Doyle, William",1124,comp-0629 l03 Data Visualisation,54,L,KCRCO_B_Y4,kcrco_b4-W_W,1,,W14,TUE,13:15
+"Doyle, William",1124,comp-0629 l04 Data Visualisation,54,L,KCRCO_B_Y4,kcrco_b4-W_W,1,,F23,WED,12:15
+"Doyle, William",1124,comp-0610 l02 Enterprise Systems Arch,13,L,KDEVP_B_Y4,kdevp_b4-W_W,1,,F27,WED,13:15
+"Doyle, William",1124,comp-0610 l01 Enterprise Systems Arch,13,L,KDEVP_B_Y4,kdevp_b4-W_W,1,,F27,WED,14:15
+"Doyle, William",1124,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,_MC,AA Office-SP,THU,10:15
+"Doyle, William",1124,comp-0610 p01 Enterprise Systems Arch,13,P,KDEVP_B_Y4,kdevp_b4-W_W,1,,IT101,THU,11:15
+"Doyle, William",1124,busi-0004 l02 Bus Proc Analysis & Design,16,L,KISYP_R_Y5,kisyp_r5-W_W,1,,D05,THU,13:15
+"Doyle, William",1124,busi-0004 l01 Bus Proc Analysis & Design,16,L,KISYP_R_Y5,kisyp_r5-W_W,1,,D05,THU,14:15
+"Doyle, William",1124,comp-0629 l02 Data Visualisation,54,P,KCRCO_B_Y4,kcrco_b4-W_W,1,,IT101,FRI,09:15
+"Doyle, William",1124,comp-0629 l01 Data Visualisation,54,P,KCRCO_B_Y4,kcrco_b4-W_W,1,,IT101,FRI,10:15
+"Doyle, William",1124,busi-0004 t02 Bus Proc Analysis & Design,16,P,KISYP_R_Y5,kisyp_r5-W_W,1,,D05,FRI,14:15
+"Doyle, William",1124,busi-0004 t02 Bus Proc Analysis & Design,16,P,KISYP_R_Y5,kisyp_r5-W_W,1,,D05,FRI,15:15
+"Drohan, David A",2202,sp authorised insi NUIST,1,AI,AIP-SP,SP Authorised Insititu,6,_MC,AA Office-SP,MON,09:15
+"Drohan, David A",2202,comp-0523 l01 Mobile Application Dev ICT,1,RL,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,TUE,10:15
+"Drohan, David A",2202,comp-0523 l02 Mobile Application Dev ICT,1,RL,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,TUE,11:15
+"Drohan, David A",2202,comp-0523 l03 Mobile Application Dev ICT,1,RL,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,TUE,12:15
+"Drohan, David A",2202,comp-0523 l04 Mobile Application Dev ICT,1,RL,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,TUE,13:15
+"Drohan, David A",2202,comp-0630 l01 Mobile App Development 1,26,RL,KACMI_B_Y4,kacmi_b4-W_W,1,,NUIST,TUE,15:15
+"Drohan, David A",2202,comp-0008 l01 Programming Fundamentals I,36,RL,EINFE_B_Y1,einfe_b1_W,1,PT,NUIST,WED,12:15
+"Drohan, David A",2202,comp-0008 l02 Programming Fundamentals I,36,RL,EINFE_B_Y1,einfe_b1_W,1,PT,NUIST,WED,13:15
+"Drohan, David A",2202,comp-0008 l02 Programming Fundamentals I,36,RP,EINFE_B_Y1,einfe_b1_W,1,PT,NUIST,WED,14:15
+"Drohan, David A",2202,comp-0008 p02 Programming Fundamentals I,36,RP,EINFE_B_Y1,einfe_b1_W,1,PT,NUIST,WED,15:15
+"Drohan, David A",2202,comp-0523 p03 Mobile Application Dev ICT,1,RP,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,THU,10:15
+"Drohan, David A",2202,comp-0523 p04 Mobile Application Dev ICT,1,RP,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,THU,11:15
+"Drohan, David A",2202,comp-0523 p02 Mobile Application Dev ICT,1,RP,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,THU,12:15
+"Drohan, David A",2202,comp-0523 p01 Mobile Application Dev ICT,1,RP,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,THU,13:15
+"Drohan, David A",2202,comp-0008 l01 Programming Fundamentals I,26,RL,KACMI_B_Y1,kacmi_b1-W_W,1,PT,NUIST,FRI,12:15
+"Drohan, David A",2202,comp-0008 l01 Programming Fundamentals I,26,RL,KSOFE_B_Y1,ksofe_b1_w,1,PT,NUIST,FRI,12:15
+"Drohan, David A",2202,comp-0008 l02 Programming Fundamentals I,26,RL,KACMI_B_Y1,kacmi_b1-W_W,1,PT,NUIST,FRI,13:15
+"Drohan, David A",2202,comp-0008 l02 Programming Fundamentals I,26,RL,KSOFE_B_Y1,ksofe_b1_w,1,PT,NUIST,FRI,13:15
+"Drohan, David A",2202,comp-0008 p01 Programming Fundamentals I,26,RP,KACMI_B_Y1,kacmi_b1-W_W,1,PT,NUIST,FRI,14:15
+"Drohan, David A",2202,comp-0008 p01 Programming Fundamentals I,26,RP,KSOFE_B_Y1,ksofe_b1_w,1,PT,NUIST,FRI,14:15
+"Drohan, David A",2202,comp-0008 p02 Programming Fundamentals I,26,RP,KACMI_B_Y1,kacmi_b1-W_W,1,PT,NUIST,FRI,15:15
+"Drohan, David A",2202,comp-0008 p02 Programming Fundamentals I,26,RP,KSOFE_B_Y1,ksofe_b1_w,1,PT,NUIST,FRI,15:15
+"Drohan, David A",2202,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,FRI,16:15
+"Drohan, Siobhan",4636,comp-0982 l01 Software Development Tools,26,RL,KSOFE_B_Y2,ksofe_b2_W,1,,NUIST,MON,11:15
+"Drohan, Siobhan",4636,comp-0055 l01 Agile Software Development,32,L,KCESS_R_Y5,kcess_r_y5_W,1,,D05,TUE,09:15
+"Drohan, Siobhan",4636,comp-0055 l02 Agile Software Development,32,L,KCESS_R_Y5,kcess_r_y5_W,1,,D05,TUE,10:15
+"Drohan, Siobhan",4636,comp-0055 p02 Agile Software Development,32,P,KCESS_R_Y5,kcess_r_y5_W,1,,D05,TUE,11:15
+"Drohan, Siobhan",4636,comp-0055 p01 Agile Software Development,32,P,KCESS_R_Y5,kcess_r_y5_W,1,,D05,TUE,12:15
+"Drohan, Siobhan",4636,comp-0982 p01 Software Development Tools,6,P,KCOMC_D_Y2,kcomc_d2-W_W2,1,,IT120,WED,11:15
+"Drohan, Siobhan",4636,comp-0982 p01 Software Development Tools,6,P,KDEVP_B_Y2,kdevp_b2-W_W2,1,,IT120,WED,11:15
+"Drohan, Siobhan",4636,comp-0982 p02 Software Development Tools,6,P,KCOMC_D_Y2,kcomc_d2-W_W2,1,,IT120,WED,12:15
+"Drohan, Siobhan",4636,comp-0982 p02 Software Development Tools,6,P,KDEVP_B_Y2,kdevp_b2-W_W2,1,,IT120,WED,12:15
+"Drohan, Siobhan",4636,comp-0982 p03 Software Development Tools,6,P,KCOMC_D_Y2,kcomc_d2-W_W2,1,,IT120,WED,13:15
+"Drohan, Siobhan",4636,comp-0982 p03 Software Development Tools,6,P,KDEVP_B_Y2,kdevp_b2-W_W2,1,,IT120,WED,13:15
+"Drohan, Siobhan",4636,comp-0982 l01 Software Development Tools,18,L,KCOMC_D_Y2,kcomc_d2-W_W,1,,F26,THU,09:15
+"Drohan, Siobhan",4636,comp-0982 l01 Software Development Tools,54,L,KCRCO_B_Y4,kcrco_b4-W_W,1,,F26,THU,09:15
+"Drohan, Siobhan",4636,comp-0982 l01 Software Development Tools,18,L,KDEVP_B_Y2,kdevp_b2-W_W,1,,F26,THU,09:15
+"Drohan, Siobhan",4636,comp-0982 l02 Software Development Tools,18,L,KCOMC_D_Y2,kcomc_d2-W_W,1,,F26,THU,10:15
+"Drohan, Siobhan",4636,comp-0982 l02 Software Development Tools,54,L,KCRCO_B_Y4,kcrco_b4-W_W,1,,F26,THU,10:15
+"Drohan, Siobhan",4636,comp-0982 l02 Software Development Tools,18,L,KDEVP_B_Y2,kdevp_b2-W_W,1,,F26,THU,10:15
+"Drohan, Siobhan",4636,comp-0982 p06 Software Development Tools,6,P,KCOMC_D_Y2,kcomc_d2-W_W1,1,,IT120,FRI,13:15
+"Drohan, Siobhan",4636,comp-0982 p06 Software Development Tools,54,P,KCRCO_B_Y4,kcrco_b4-W_W,1,,IT120,FRI,13:15
+"Drohan, Siobhan",4636,comp-0982 p06 Software Development Tools,6,P,KDEVP_B_Y2,kdevp_b2-W_W1,1,,IT120,FRI,13:15
+"Drohan, Siobhan",4636,comp-0982 p04 Software Development Tools,6,P,KCOMC_D_Y2,kcomc_d2-W_W1,1,,IT120,FRI,14:15
+"Drohan, Siobhan",4636,comp-0982 p04 Software Development Tools,54,P,KCRCO_B_Y4,kcrco_b4-W_W,1,,IT120,FRI,14:15
+"Drohan, Siobhan",4636,comp-0982 p04 Software Development Tools,6,P,KDEVP_B_Y2,kdevp_b2-W_W1,1,,IT120,FRI,14:15
+"Drohan, Siobhan",4636,comp-0982 p05 Software Development Tools,6,P,KCOMC_D_Y2,kcomc_d2-W_W1,1,,IT120,FRI,15:15
+"Felicia, Patrick",5882,proj-0150 l02 Project and Change Manage,8,RP,KBUSY_G_Y5,kbusy_g5-W_W,1,PT _SP,Online,FRI,12:15
+"Felicia, Patrick",5882,proj-0150 l03 Project and Change Manage,8,RP,KBUSY_G_Y5,kbusy_g5-W_W,1,PT _SP,Online,FRI,13:15
+"Felicia, Patrick",5882,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,FRI,15:15
+"Fitzgerald, Mary T",3155,comp-0001 p06 Intro. to ICT for scientists,36,P,SAGRI_B_Y1,sagri_b1_W-W,1,,IT222,MON,09:15
+"Fitzgerald, Mary T",3155,comp-0001 p02 Intro. to ICT for scientists,36,P,SAGRI_B_Y1,sagri_b1_W-W,1,,IT222,MON,10:15
+"Fitzgerald, Mary T",3155,comp-0001 p03 Intro. to ICT for scientists,36,P,SAGRI_B_Y1,sagri_b1_W-W,1,,IT222,MON,11:15
+"Fitzgerald, Mary T",3155,comp-0585 p02 Int to Creative Media,54,L,KCRCO_B_Y1,kcrco_b1-W_W,1,,IT120,MON,13:15
+"Fitzgerald, Mary T",3155,comp-0585 p02 Int to Creative Media,4,L,KCREA_D_Y1,kcrea_d1-W_W,1,,IT120,MON,13:15
+"Fitzgerald, Mary T",3155,comp-0585 p01 Int to Creative Media,54,L,KCRCO_B_Y1,kcrco_b1-W_W,1,,IT120,MON,14:15
+"Fitzgerald, Mary T",3155,comp-0585 p01 Int to Creative Media,4,L,KCREA_D_Y1,kcrea_d1-W_W,1,,IT120,MON,14:15
+"Fitzgerald, Mary T",3155,coms-0012 l02 Communication Skills,49,L,KINFT_D_Y1,kinft_d1-W_W,1,,FTG20,MON,16:15
+"Fitzgerald, Mary T",3155,comp-0585 p03 Int to Creative Media,54,P,KCRCO_B_Y1,kcrco_b1-W_W,1,,IT102,TUE,10:15
+"Fitzgerald, Mary T",3155,comp-0585 p03 Int to Creative Media,4,P,KCREA_D_Y1,kcrea_d1-W_W,1,,IT102,TUE,10:15
+"Fitzgerald, Mary T",3155,syst-0023 l02 Systems Analysis Design,52,L,KCOMC_D_Y1,kcomc_d1-W_W,1,,E19B,TUE,11:15
+"Fitzgerald, Mary T",3155,syst-0023 l02 Systems Analysis Design,52,L,KDEVP_B_Y1,kdevp_b1-W_W,1,,E19B,TUE,11:15
+"Fitzgerald, Mary T",3155,syst-0023 l01 Systems Analysis Design,52,L,KCOMC_D_Y1,kcomc_d1-W_W,1,,E19B,TUE,12:15
+"Fitzgerald, Mary T",3155,syst-0023 l01 Systems Analysis Design,52,L,KDEVP_B_Y1,kdevp_b1-W_W,1,,E19B,TUE,12:15
+"Fitzgerald, Mary T",3155,syst-0023 p01 Systems Analysis Design,52,P,KCOMC_D_Y1,kcomc_d1-W_W,1,,IT222,TUE,14:15
+"Fitzgerald, Mary T",3155,syst-0023 p01 Systems Analysis Design,52,P,KDEVP_B_Y1,kdevp_b1-W_W,1,,IT222,TUE,14:15
+"Fitzgerald, Mary T",3155,syst-0023 p02 Systems Analysis Design,52,P,KCOMC_D_Y1,kcomc_d1-W_W,1,,IT222,TUE,15:15
+"Fitzgerald, Mary T",3155,syst-0023 p02 Systems Analysis Design,52,P,KDEVP_B_Y1,kdevp_b1-W_W,1,,IT222,TUE,15:15
+"Fitzgerald, Mary T",3155,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,WED,11:15
+"Fitzgerald, Mary T",3155,comp-0585 l01 Int to Creative Media,54,L,KCRCO_B_Y1,kcrco_b1-W_W,1,,ITG03,THU,09:15
+"Fitzgerald, Mary T",3155,comp-0585 l01 Int to Creative Media,4,L,KCREA_D_Y1,kcrea_d1-W_W,1,,ITG03,THU,09:15
+"Fitzgerald, Mary T",3155,coms-0012 p01 Communication Skills,49,P,KINFT_D_Y1,kinft_d1-W_W,1,,ITG02,THU,11:15
+"Fitzgerald, Mary T",3155,coms-0012 p02 Communication Skills,49,P,KINFT_D_Y1,kinft_d1-W_W,1,,ITG02,THU,12:15
+"Fitzgerald, Mary T",3155,coms-0012 p03 Communication Skills,54,P,KCRCO_B_Y1,kcrco_b1-W_W,1,,ITG01,THU,13:15
+"Fitzgerald, Mary T",3155,coms-0012 p03 Communication Skills,4,P,KCREA_D_Y1,kcrea_d1-W_W,1,,ITG01,THU,13:15
+"Fitzgerald, Mary T",3155,coms-0012 p06 Communication Skills,54,P,KCRCO_B_Y1,kcrco_b1-W_W,1,,ITG01,THU,14:15
+"Fitzgerald, Mary T",3155,coms-0012 p06 Communication Skills,4,P,KCREA_D_Y1,kcrea_d1-W_W,1,,ITG01,THU,14:15
+"Fitzgerald, Mary T",3155,coms-0012 l01 Communication Skills,54,L,KCRCO_B_Y1,kcrco_b1-W_W,1,,IT201,FRI,12:15
+"Fitzgerald, Mary T",3155,coms-0012 l01 Communication Skills,4,L,KCREA_D_Y1,kcrea_d1-W_W,1,,IT201,FRI,12:15
+"Fitzgerald, Mary T",3155,comp-0001 p06 Intro. to ICT for scientists,18,P,SSCCM_B_Y1,ssccm_b1-W_X,1,,ITG03,FRI,14:15
+"Fitzgerald, Mary T",3155,comp-0001 p01 Intro. to ICT for scientists,18,P,SSCCM_B_Y1,ssccm_b1-W_X,1,,ITG03,FRI,15:15
+"Fitzpatrick, Catherine",2662,comp-0008 p05 Programming Fundamentals I,52,P,KCOMC_D_Y1,kcomc_d1-W_W,1,,IT201,MON,09:15
+"Fitzpatrick, Catherine",2662,comp-0008 p05 Programming Fundamentals I,52,P,KDEVP_B_Y1,kdevp_b1-W_W,1,,IT201,MON,09:15
+"Fitzpatrick, Catherine",2662,comp-0008 p04 Programming Fundamentals I,52,P,KCOMC_D_Y1,kcomc_d1-W_W,1,,IT201,MON,10:15
+"Fitzpatrick, Catherine",2662,comp-0008 p04 Programming Fundamentals I,52,P,KDEVP_B_Y1,kdevp_b1-W_W,1,,IT201,MON,10:15
+"Fitzpatrick, Catherine",2662,comp-0586 p01 User Experience Design,6,P,KCOMC_D_Y2,kcomc_d2-W_W2,1,,IT101,MON,13:15
+"Fitzpatrick, Catherine",2662,comp-0586 p01 User Experience Design,6,P,KDEVP_B_Y2,kdevp_b2-W_W2,1,,IT101,MON,13:15
+"Fitzpatrick, Catherine",2662,comp-0586 p01 User Experience Design,6,P,KCOMC_D_Y2,kcomc_d2-W_W2,1,,IT101,MON,14:15
+"Fitzpatrick, Catherine",2662,comp-0586 p01 User Experience Design,6,P,KDEVP_B_Y2,kdevp_b2-W_W2,1,,IT101,MON,14:15
+"Fitzpatrick, Catherine",2662,comp-0586 l01 User Experience Design,54,L,KCRCO_B_Y1,kcrco_b1-W_W,1,,IT201,MON,16:15
+"Fitzpatrick, Catherine",2662,comp-0586 l01 User Experience Design,4,L,KCREA_D_Y1,kcrea_d1-W_W,1,,IT201,MON,16:15
+"Fitzpatrick, Catherine",2662,comp-0008 l01 Programming Fundamentals I,52,L,KCOMC_D_Y1,kcomc_d1-W_W,1,,TL158,WED,09:15
+"Fitzpatrick, Catherine",2662,comp-0008 l01 Programming Fundamentals I,52,L,KDEVP_B_Y1,kdevp_b1-W_W,1,,TL158,WED,09:15
+"Fitzpatrick, Catherine",2662,comp-0008 p02 Programming Fundamentals I,52,P,KCOMC_D_Y1,kcomc_d1-W_W,1,,IT221,WED,10:15
+"Fitzpatrick, Catherine",2662,comp-0008 p02 Programming Fundamentals I,52,P,KDEVP_B_Y1,kdevp_b1-W_W,1,,IT221,WED,10:15
+"Fitzpatrick, Catherine",2662,comp-0586 p01 User Experience Design,6,P,KCOMC_D_Y2,kcomc_d2-W_W1,1,,IT221,WED,11:15
+"Fitzpatrick, Catherine",2662,comp-0586 p01 User Experience Design,6,P,KDEVP_B_Y2,kdevp_b2-W_W1,1,,IT221,WED,11:15
+"Fitzpatrick, Catherine",2662,comp-0586 p02 User Experience Design,6,P,KCOMC_D_Y2,kcomc_d2-W_W1,1,,IT221,WED,12:15
+"Fitzpatrick, Catherine",2662,comp-0586 p02 User Experience Design,6,P,KDEVP_B_Y2,kdevp_b2-W_W1,1,,IT221,WED,12:15
+"Fitzpatrick, Catherine",2662,comp-0541 p04 Computer Systems I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W3,1,,IT221,WED,14:15
+"Fitzpatrick, Catherine",2662,comp-0541 p04 Computer Systems I,5,P,KCOFO_B_Y1,kcofo_b1-W_W3,1,,IT221,WED,14:15
+"Fitzpatrick, Catherine",2662,comp-0541 p08 Computer Systems I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W3,1,,IT221,WED,15:15
+"Fitzpatrick, Catherine",2662,comp-0541 p08 Computer Systems I,5,P,KCOFO_B_Y1,kcofo_b1-W_W3,1,,IT221,WED,15:15
+"Fitzpatrick, Catherine",2662,comp-0541 p09 Computer Systems I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W3,1,,IT221,WED,16:15
+"Fitzpatrick, Catherine",2662,comp-0541 p09 Computer Systems I,5,P,KCOFO_B_Y1,kcofo_b1-W_W3,1,,IT221,WED,16:15
+"Fitzpatrick, Catherine",2662,comp-0008 l02 Programming Fundamentals I,52,L,KCOMC_D_Y1,kcomc_d1-W_W,1,,F03,THU,12:15
+"Fitzpatrick, Catherine",2662,comp-0008 l02 Programming Fundamentals I,52,L,KDEVP_B_Y1,kdevp_b1-W_W,1,,F03,THU,12:15
+"Fitzpatrick, Catherine",2662,comp-0586 l02 User Experience Design,18,L,KCOMC_D_Y2,kcomc_d2-W_W,1,,E04,THU,15:15
+"Fitzpatrick, Catherine",2662,comp-0586 l02 User Experience Design,18,L,KDEVP_B_Y2,kdevp_b2-W_W,1,,E04,THU,15:15
+"Fitzpatrick, Catherine",2662,comp-0586 l01 User Experience Design,18,L,KCOMC_D_Y2,kcomc_d2-W_W,1,,E04,THU,16:15
+"Fitzpatrick, Catherine",2662,comp-0586 l01 User Experience Design,18,L,KDEVP_B_Y2,kdevp_b2-W_W,1,,E04,THU,16:15
+"Fitzpatrick, Catherine",2662,comp-0586 l02 User Experience Design,54,L,KCRCO_B_Y1,kcrco_b1-W_W,1,,FTG10,FRI,09:15
+"Fitzpatrick, Catherine",2662,comp-0586 l02 User Experience Design,4,L,KCREA_D_Y1,kcrea_d1-W_W,1,,FTG10,FRI,09:15
+"Fitzpatrick, Catherine",2662,comp-0586 p04 User Experience Design,54,P,KCRCO_B_Y1,kcrco_b1-W_W,1,,ITG19,FRI,10:15
+"Flynn, Denis",6900,game-0008 p03 Game Development in C++,4,P,KACCM_B_Y4,kaccm_b4-W_GAM,1,,IT120,MON,09:15
+"Flynn, Denis",6900,game-0008 p04 Game Development in C++,4,P,KACCM_B_Y4,kaccm_b4-W_GAM,1,,IT120,MON,10:15
+"Flynn, Denis",6900,math-0001 p04 Discrete Mathematics,4,P,KCMSC_B_Y1,kcmsc_b1-W_W2,1,,IT118,MON,12:15
+"Flynn, Denis",6900,math-0001 p04 Discrete Mathematics,5,P,KCOFO_B_Y1,kcofo_b1-W_W2,1,,IT118,MON,12:15
+"Flynn, Denis",6900,math-0001 p03 Discrete Mathematics,4,P,KCMSC_B_Y1,kcmsc_b1-W_W1,1,,IT222,MON,13:15
+"Flynn, Denis",6900,math-0001 p03 Discrete Mathematics,5,P,KCOFO_B_Y1,kcofo_b1-W_W1,1,,IT222,MON,13:15
+"Flynn, Denis",6900,math-0001 l06 Discrete Mathematics,26,L,KCMSC_B_Y1,kcmsc_b1-W_W1/W,1,,TL158,TUE,10:15
+"Flynn, Denis",6900,math-0001 l06 Discrete Mathematics,5,L,KCOFO_B_Y1,kcofo_b1-W_W1/W2,1,,TL158,TUE,10:15
+"Flynn, Denis",6900,math-0001 l05 Discrete Mathematics,26,L,KCMSC_B_Y1,kcmsc_b1-W_W1/W,1,,TL158,TUE,11:15
+"Flynn, Denis",6900,math-0001 l05 Discrete Mathematics,5,L,KCOFO_B_Y1,kcofo_b1-W_W1/W2,1,,TL158,TUE,11:15
+"Flynn, Denis",6900,mthe-0059 l03 Maths Transform Methods,4,L,EEENG_D_Y3,eeeng_d3_W,1,,D17,WED,09:15
+"Flynn, Denis",6900,mthe-0059 l03 Maths Transform Methods,10,L,EELCT_D_Y3,eelct_d3-W_W,1,,D17,WED,09:15
+"Flynn, Denis",6900,mthe-0059 t01 Maths Transform Methods,4,T,EEENG_D_Y3,eeeng_d3_W,1,,IT118,WED,10:15
+"Flynn, Denis",6900,mthe-0059 t01 Maths Transform Methods,10,T,EELCT_D_Y3,eelct_d3-W_W,1,,IT118,WED,10:15
+"Flynn, Denis",6900,game-0008 p02 Game Development in C++,4,P,KACCM_B_Y4,kaccm_b4-W_GAM,1,,IT103,WED,11:15
+"Flynn, Denis",6900,game-0008 p01 Game Development in C++,4,P,KACCM_B_Y4,kaccm_b4-W_GAM,1,,IT103,WED,12:15
+"Flynn, Denis",6900,mthe-0059 l01 Maths Transform Methods,4,L,EEENG_D_Y3,eeeng_d3_W,1,,AT109,THU,09:15
+"Flynn, Denis",6900,mthe-0059 l01 Maths Transform Methods,10,L,EELCT_D_Y3,eelct_d3-W_W,1,,AT109,THU,09:15
+"Flynn, Denis",6900,mthe-0059 l02 Maths Transform Methods,4,L,EEENG_D_Y3,eeeng_d3_W,1,,AT109,THU,10:15
+"Flynn, Denis",6900,mthe-0059 l02 Maths Transform Methods,10,L,EELCT_D_Y3,eelct_d3-W_W,1,,AT109,THU,10:15
+"Flynn, Denis",6900,math-0001 l04 Discrete Mathematics,26,L,KCMSC_B_Y1,kcmsc_b1-W_W1/W,1,,TL252,THU,11:15
+"Flynn, Denis",6900,math-0001 l04 Discrete Mathematics,5,L,KCOFO_B_Y1,kcofo_b1-W_W1/W2,1,,TL252,THU,11:15
+"Flynn, Denis",6900,math-0001 t02 Discrete Mathematics,4,T,KCMSC_B_Y1,kcmsc_b1-W_W2,1,,TLG03,FRI,10:15
+"Flynn, Denis",6900,math-0001 t02 Discrete Mathematics,5,T,KCOFO_B_Y1,kcofo_b1-W_W2,1,,TLG03,FRI,10:15
+"Flynn, Denis",6900,math-0001 t01 Discrete Mathematics,4,T,KCMSC_B_Y1,kcmsc_b1-W_W1,1,,E15,FRI,11:15
+"Flynn, Denis",6900,math-0001 t01 Discrete Mathematics,5,T,KCOFO_B_Y1,kcofo_b1-W_W1,1,,E15,FRI,11:15
+"Freeman-Gater, Amanda J.",5106,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,FRI,16:15
+"Frisby, Richard",0103,comp-0650 p01 Cloud Computing 1,5,P,KACCM_B_Y4,kaccm_b4-W_CLN,1,,IT103,TUE,09:15
+"Frisby, Richard",0103,comp-0650 p02 Cloud Computing 1,5,P,KACCM_B_Y4,kaccm_b4-W_CLN,1,,IT103,TUE,10:15
+"Frisby, Richard",0103,comp-0650 l02 Cloud Computing 1,5,L,KACCM_B_Y4,kaccm_b4-W_CLN,1,,F27,TUE,16:15
+"Frisby, Richard",0103,comp-0559 l01 Developer Operations,9,L,KCMSC_B_Y3,kcmsc_b3-W_W,1,TLG21,AUD,WED,10:15
+"Frisby, Richard",0103,comp-0559 l01 Developer Operations,3,L,KCOFO_B_Y3,kcofo_b3-W_W,1,TLG21,AUD,WED,10:15
+"Frisby, Richard",0103,comp-0650 l01 Cloud Computing 1,5,L,KACCM_B_Y4,kaccm_b4-W_CLN,1,,D04,WED,11:15
+"Frisby, Richard",0103,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,WED,15:15
+"Frisby, Richard",0103,comp-0559 p04 Developer Operations,9,P,KCMSC_B_Y3,kcmsc_b3-W_W2,1,,IT103,THU,12:15
+"Frisby, Richard",0103,comp-0559 p04 Developer Operations,7,P,KCOFO_B_Y3,kcofo_b3-W_W2,1,,IT103,THU,12:15
+"Frisby, Richard",0103,comp-0559 p01 Developer Operations,9,P,KCMSC_B_Y3,kcmsc_b3-W_W2,1,,IT103,THU,13:15
+"Frisby, Richard",0103,comp-0559 p01 Developer Operations,7,P,KCOFO_B_Y3,kcofo_b3-W_W2,1,,IT103,THU,13:15
+"Frisby, Richard",0103,comp-0559 p03 Developer Operations,9,P,KCMSC_B_Y3,kcmsc_b3-W_W2,1,,IT103,THU,14:15
+"Frisby, Richard",0103,comp-0559 p03 Developer Operations,7,P,KCOFO_B_Y3,kcofo_b3-W_W2,1,,IT103,THU,14:15
+"Georgiou, Nikos",6983,mths-0051 l01 Mathematics Fundamentals,49,L,KINFT_D_Y1,kinft_d1-W_W,1,,IT120,MON,11:15
+"Georgiou, Nikos",6983,mths-0051 l02 Mathematics Fundamentals,49,T,KINFT_D_Y1,kinft_d1-W_W,1,,IT120,MON,12:15
+"Georgiou, Nikos",6983,mthe-0032 l01 Advanced Engineering Maths,16,L,EAUTO_B_Y3,eauto_b3_W,1,,E15,MON,15:15
+"Georgiou, Nikos",6983,mthe-0032 l01 Advanced Engineering Maths,2,L,EONIC_B_Y3,eonic_b3_W,1,,E15,MON,15:15
+"Georgiou, Nikos",6983,mthe-0032 l01 Advanced Engineering Maths,16,L,ETRIC_B_Y3,etric_b3_W_W,1,,E15,MON,15:15
+"Georgiou, Nikos",6983,mthe-0032 l01 Advanced Engineering Maths,3,L,KPHTE_B_Y3,kphte_b3 W_W,1,,E15,MON,15:15
+"Georgiou, Nikos",6983,mthe-0032 l02 Advanced Engineering Maths,16,L,EAUTO_B_Y3,eauto_b3_W,1,,E15,MON,16:15
+"Georgiou, Nikos",6983,mthe-0032 l02 Advanced Engineering Maths,2,L,EONIC_B_Y3,eonic_b3_W,1,,E15,MON,16:15
+"Georgiou, Nikos",6983,mthe-0032 l02 Advanced Engineering Maths,16,L,ETRIC_B_Y3,etric_b3_W_W,1,,E15,MON,16:15
+"Georgiou, Nikos",6983,mthe-0032 l02 Advanced Engineering Maths,3,L,KPHTE_B_Y3,kphte_b3 W_W,1,,E15,MON,16:15
+"Georgiou, Nikos",6983,mthe-0055 l04 Fundamental Eng Maths,3,L,EEENG_D_Y1,eeeng_d1_W,1,,AT110,TUE,09:15
+"Georgiou, Nikos",6983,mthe-0055 l04 Fundamental Eng Maths,14,L,EELCT_D_Y1,eelct_d1-W_W,1,,AT110,TUE,09:15
+"Georgiou, Nikos",6983,mthe-0055 l04 Fundamental Eng Maths,3,L,EELEC_C_Y1,eelec_c1-W_W,1,,AT110,TUE,09:15
+"Georgiou, Nikos",6983,mthe-0068 l01 Engineering Mathematics 1,41,L,EMSEN_B_Y1,emsen_b1-W_W,1,,F02,TUE,12:15
+"Georgiou, Nikos",6983,mthe-0068 l02 Engineering Mathematics 1,41,L,EMSEN_B_Y1,emsen_b1-W_W,1,,C26,TUE,16:15
+"Georgiou, Nikos",6983,mths-0051 p01 Mathematics Fundamentals,49,P,KINFT_D_Y1,kinft_d1-W_W,1,,TL120,WED,11:15
+"Georgiou, Nikos",6983,mthe-0068 l02 Engineering Mathematics 1,41,L,EMSEN_B_Y1,emsen_b1-W_W,1,,TL249,THU,09:15
+"Georgiou, Nikos",6983,mths-0051 t01 Mathematics Fundamentals,49,L,KINFT_D_Y1,kinft_d1-W_W,1,,D17,THU,10:15
+"Georgiou, Nikos",6983,mthe-0055 p01 Fundamental Eng Maths,3,P,EEENG_D_Y1,eeeng_d1_W,1,,C26,THU,14:15
+"Georgiou, Nikos",6983,mthe-0055 p01 Fundamental Eng Maths,14,P,EELCT_D_Y1,eelct_d1-W_W,1,,C26,THU,14:15
+"Georgiou, Nikos",6983,mthe-0055 p01 Fundamental Eng Maths,3,P,EELEC_C_Y1,eelec_c1-W_W,1,,C26,THU,14:15
+"Georgiou, Nikos",6983,mthe-0055 p02 Fundamental Eng Maths,3,P,EEENG_D_Y1,eeeng_d1_W,1,,C26,THU,15:15
+"Georgiou, Nikos",6983,mthe-0055 p02 Fundamental Eng Maths,14,P,EELCT_D_Y1,eelct_d1-W_W,1,,C26,THU,15:15
+"Georgiou, Nikos",6983,mthe-0055 p02 Fundamental Eng Maths,3,P,EELEC_C_Y1,eelec_c1-W_W,1,,C26,THU,15:15
+"Georgiou, Nikos",6983,mthe-0032 l03 Advanced Engineering Maths,16,L,EAUTO_B_Y3,eauto_b3_W,1,,FTG12,FRI,10:15
+"Georgiou, Nikos",6983,mthe-0032 l03 Advanced Engineering Maths,2,L,EONIC_B_Y3,eonic_b3_W,1,,FTG12,FRI,10:15
+"Georgiou, Nikos",6983,mthe-0032 l03 Advanced Engineering Maths,16,L,ETRIC_B_Y3,etric_b3_W_W,1,,FTG12,FRI,10:15
+"Georgiou, Nikos",6983,mthe-0032 l03 Advanced Engineering Maths,3,L,KPHTE_B_Y3,kphte_b3 W_W,1,,FTG12,FRI,10:15
+"Georgiou, Nikos",6983,mthe-0032 l04 Advanced Engineering Maths,16,L,EAUTO_B_Y3,eauto_b3_W,1,,FTG12,FRI,11:15
+"Georgiou, Nikos",6983,mthe-0055 l02 Fundamental Eng Maths,3,L,EELEC_C_Y1,eelec_c1-W_W,1,,F20,FRI,12:15
+"Grosz, Tamas",12835,comp-0630 p03 Software Development Tools,10,P,KACCM_B_Y4,kaccm_b4-W_W1,1,,IT102,MON,11:15
+"Grosz, Tamas",12835,comp-0630 p03 Software Development Tools,2,P,KCOFO_B_Y4,kcofo_b4-W_W1,1,,IT102,MON,11:15
+"Grosz, Tamas",12835,comp-0630 p01 Mobile App Development,10,P,KACCM_B_Y4,kaccm_b4-W_W1,1,,IT102,MON,12:15
+"Grosz, Tamas",12835,comp-0630 p01 Mobile App Development,2,P,KCOFO_B_Y4,kcofo_b4-W_W1,1,,IT102,MON,12:15
+"Grosz, Tamas",12835,comp-0630 l02 Mobile App Development,10,L,KACCM_B_Y4,kaccm_b4-W_W,1,,TL245,MON,14:15
+"Grosz, Tamas",12835,comp-0630 l02 Mobile App Development,2,L,KCOFO_B_Y4,kcofo_b4-W_W,1,,TL245,MON,14:15
+"Grosz, Tamas",12835,comp-0630 l01 Software Development Tools,10,L,KACCM_B_Y4,kaccm_b4-W_W,1,,F03,TUE,15:15
+"Grosz, Tamas",12835,comp-0630 l01 Software Development Tools,2,L,KCOFO_B_Y4,kcofo_b4-W_W,1,,F03,TUE,15:15
+"Grosz, Tamas",12835,comp-0630 p02 Mobile App Development,10,P,KACCM_B_Y4,kaccm_b4-W_W2,1,,IT201,WED,09:15
+"Grosz, Tamas",12835,comp-0630 p02 Mobile App Development,2,P,KCOFO_B_Y4,kcofo_b4-W_W2,1,,IT201,WED,09:15
+"Grosz, Tamas",12835,comp-0630 p04 Mobile App Development,10,P,KACCM_B_Y4,kaccm_b4-W_W2,1,,IT201,WED,10:15
+"Grosz, Tamas",12835,comp-0630 p04 Mobile App Development,2,P,KCOFO_B_Y4,kcofo_b4-W_W2,1,,IT201,WED,10:15
+"Gupta, Rupa",6746,mthe-0068 p04 Engineering Mathematics 1,11,P,EMSEN_B_Y1,emsen_b1-W_A,1,,ITG18,MON,13:15
+"Gupta, Rupa",6746,engr-0119 t02 Engineering Maths 8.1,22,T,EENCE_B_Y1,eence_b1-A,1,,C25,TUE,13:15
+"Gupta, Rupa",6746,engr-0119 t02 Engineering Maths 8.1,22,T,EENCE_B_Y1,eence_b1-A,1,,C25,TUE,14:15
+"Gupta, Rupa",6746,engr-0119 t02 Engineering Maths 8.1,22,T,EENCE_B_Y1,eence_b1-B,1,,C42,TUE,15:15
+"Gupta, Rupa",6746,engr-0119 t02 Engineering Maths 8.1,22,T,EENCE_B_Y1,eence_b1-B,1,,C42,TUE,16:15
+"Gupta, Rupa",6746,mthe-0068 p02 Engineering Mathematics 1,11,P,EMSEN_B_Y1,emsen_b1-W_B,1,,ITG19,WED,13:15
+"Hennessy, Aoife",6102,scie-0069 l01 Statistics for Land Manageme,8,L,SAGUL_B_Y4,sagul_b4-W_W,1,,E19B,MON,09:15
+"Hennessy, Aoife",6102,scie-0069 l01 Statistics for Land Manageme,21,L,SFORS_B_Y4,sfors_b4-W_W,1,,E19B,MON,09:15
+"Hennessy, Aoife",6102,scie-0069 l01 Statistics for Land Manageme,33,L,SHORT_B_Y4,short_b4-W_W,1,,E19B,MON,09:15
+"Hennessy, Aoife",6102,scie-0069 l02 Statistics for Land Manageme,8,L,SAGUL_B_Y4,sagul_b4-W_W,1,,E19B,MON,10:15
+"Hennessy, Aoife",6102,scie-0069 l02 Statistics for Land Manageme,21,L,SFORS_B_Y4,sfors_b4-W_W,1,,E19B,MON,10:15
+"Hennessy, Aoife",6102,scie-0069 l02 Statistics for Land Manageme,33,L,SHORT_B_Y4,short_b4-W_W,1,,E19B,MON,10:15
+"Hennessy, Aoife",6102,scie-0069 l03 Statistics for Land Manageme,8,L,SAGUL_B_Y4,sagul_b4-W_W,1,,IT103,MON,11:15
+"Hennessy, Aoife",6102,scie-0069 l03 Statistics for Land Manageme,21,L,SFORS_B_Y4,sfors_b4-W_W,1,,IT103,MON,11:15
+"Hennessy, Aoife",6102,scie-0069 l03 Statistics for Land Manageme,33,L,SHORT_B_Y4,short_b4-W_W,1,,IT103,MON,11:15
+"Hennessy, Aoife",6102,mths-0003 l03 Mathematics for Forestry,21,P,SFORS_B_Y1,sfors_b1-W_W,1,,IT221,TUE,09:15
+"Hennessy, Aoife",6102,mths-0003 l03 Mathematics for Forestry,21,P,SFORS_D_Y1,sfors_d1-W_W,1,,IT221,TUE,09:15
+"Hennessy, Aoife",6102,mths-0003 l01 Mathematics for Forestry,21,L,SFORS_B_Y1,sfors_b1-W_W,1,,TL244(A),TUE,10:15
+"Hennessy, Aoife",6102,mths-0003 l01 Mathematics for Forestry,21,L,SFORS_D_Y1,sfors_d1-W_W,1,,TL244(A),TUE,10:15
+"Hennessy, Aoife",6102,scie-0069 p01 Statistics for Land Manageme,8,P,SAGUL_B_Y4,sagul_b4-W_W,1,,IT220,TUE,13:15
+"Hennessy, Aoife",6102,scie-0069 p01 Statistics for Land Manageme,21,P,SFORS_B_Y4,sfors_b4-W_W,1,,IT220,TUE,13:15
+"Hennessy, Aoife",6102,scie-0069 p01 Statistics for Land Manageme,33,P,SHORT_B_Y4,short_b4-W_W,1,,IT220,TUE,13:15
+"Hennessy, Aoife",6102,scie-0069 p02 Statistics for Land Manageme,8,P,SAGUL_B_Y4,sagul_b4-W_W,1,,IT220,TUE,14:15
+"Hennessy, Aoife",6102,scie-0069 p02 Statistics for Land Manageme,21,P,SFORS_B_Y4,sfors_b4-W_W,1,,IT220,TUE,14:15
+"Hennessy, Aoife",6102,scie-0069 p02 Statistics for Land Manageme,33,P,SHORT_B_Y4,short_b4-W_W,1,,IT220,TUE,14:15
+"Hennessy, Aoife",6102,stat-0056 l01 Statistical Analysis for Eng,6,L,ESERG_R_Y5,eserg_r_W,0.5,,C23,THU,14:15
+"Hennessy, Aoife",6102,stat-0056 l02 Statistical Analysis for Eng,6,L,ESERG_R_Y5,eserg_r_W,0.5,,C23,THU,15:15
+"Hennessy, Aoife",6102,mths-0003 l02 Mathematics for Forestry,21,L,SFORS_B_Y1,sfors_b1-W_W,1,,E13,FRI,09:15
+"Hennessy, Aoife",6102,mths-0003 l02 Mathematics for Forestry,21,L,SFORS_D_Y1,sfors_d1-W_W,1,,E13,FRI,09:15
+"Hennessy, Aoife",6102,mths-0003 l04 Mathematics for Forestry,21,L,SFORS_B_Y1,sfors_b1-W_W,1,,E13,FRI,10:15
+"Hennessy, Aoife",6102,mths-0003 l04 Mathematics for Forestry,21,L,SFORS_D_Y1,sfors_d1-W_W,1,,E13,FRI,10:15
+"Hennessy, Aoife",6102,apsc-0022 l01 Stats & Analysis L7 AppAnaly,9,L,APSLA_D_Y3,apsla_d3_W,1,,ITG17,FRI,11:15
+"Hennessy, Aoife",6102,apsc-0022 l01 Stats & Analysis L7 AppAnaly,9,L,APSLA_D_Y3,apsla_d3_W,1,,ITG17,FRI,12:15
+"Hogan, Sonya",5866,comp-0001 p05 Intro. to ICT for scientists,11,P,SFOOD_D_Y1,sfood_d1-W_N,1,,ITG19,MON,09:15
+"Hogan, Sonya",5866,comp-0001 p05 Intro. to ICT for scientists,32,P,SMBIO_D_Y1,smbio_d1-W_J,1,,ITG19,MON,09:15
+"Hogan, Sonya",5866,comp-0001 p05 Intro. to ICT for scientists,2,P,SPHSC_D_Y1,sphsc_d1_W_N,1,,ITG19,MON,09:15
+"Hogan, Sonya",5866,comp-0001 p05 Intro. to ICT for scientists,16,P,SSCIE_D_Y1,sscie_d1-W_J,1,,ITG19,MON,09:15
+"Hogan, Sonya",5866,comp-0001 p10 Intro. to ICT for scientists,11,P,SFOOD_D_Y1,sfood_d1-W_N,1,,ITG19,MON,10:15
+"Hogan, Sonya",5866,comp-0001 p10 Intro. to ICT for scientists,32,P,SMBIO_D_Y1,smbio_d1-W_J,1,,ITG19,MON,10:15
+"Hogan, Sonya",5866,comp-0001 p10 Intro. to ICT for scientists,2,P,SPHSC_D_Y1,sphsc_d1_W_N,1,,ITG19,MON,10:15
+"Hogan, Sonya",5866,comp-0001 p10 Intro. to ICT for scientists,16,P,SSCIE_D_Y1,sscie_d1-W_J,1,,ITG19,MON,10:15
+"Hogan, Sonya",5866,comp-0001 p08 Intro. to ICT for scientists,11,P,SFOOD_D_Y1,sfood_d1-W_N,1,,ITG19,MON,11:15
+"Hogan, Sonya",5866,comp-0001 p08 Intro. to ICT for scientists,32,P,SMBIO_D_Y1,smbio_d1-W_J,1,,ITG19,MON,11:15
+"Hogan, Sonya",5866,comp-0001 p08 Intro. to ICT for scientists,2,P,SPHSC_D_Y1,sphsc_d1_W_N,1,,ITG19,MON,11:15
+"Hogan, Sonya",5866,comp-0001 p08 Intro. to ICT for scientists,16,P,SSCIE_D_Y1,sscie_d1-W_J,1,,ITG19,MON,11:15
+"Hogan, Sonya",5866,coms-0012 l03 Communication Skills,52,L,KCOMC_D_Y1,kcomc_d1-W_W,1,,E04,MON,12:15
+"Hogan, Sonya",5866,coms-0012 l03 Communication Skills,52,L,KDEVP_B_Y1,kdevp_b1-W_W,1,,E04,MON,12:15
+"Hogan, Sonya",5866,coms-0012 p10 Communication Skills,52,P,KCOMC_D_Y1,kcomc_d1-W_W,1,,IT221,MON,15:15
+"Hogan, Sonya",5866,coms-0012 p10 Communication Skills,52,P,KDEVP_B_Y1,kdevp_b1-W_W,1,,IT221,MON,15:15
+"Hogan, Sonya",5866,coms-0012 p09 Communication Skills,52,P,KCOMC_D_Y1,kcomc_d1-W_W,1,,IT221,MON,16:15
+"Hogan, Sonya",5866,coms-0012 p09 Communication Skills,52,P,KDEVP_B_Y1,kdevp_b1-W_W,1,,IT221,MON,16:15
+"Hogan, Sonya",5866,proj-0168 p03 Project Management,16,P,EAUTO_B_Y3,eauto_b3_W,1,,ITG02,WED,15:15
+"Hogan, Sonya",5866,proj-0168 p03 Project Management,54,P,KCRCO_B_Y4,kcrco_b4-W_W,1,,ITG02,WED,15:15
+"Hogan, Sonya",5866,proj-0168 p03 Project Management,13,P,KDEVP_B_Y4,kdevp_b4-W_W,1,,ITG02,WED,15:15
+"Hogan, Sonya",5866,proj-0168 p01 Project Management,16,P,EAUTO_B_Y3,eauto_b3_W,1,,ITG02,WED,16:15
+"Hogan, Sonya",5866,proj-0168 p01 Project Management,54,P,KCRCO_B_Y4,kcrco_b4-W_W,1,,ITG02,WED,16:15
+"Hogan, Sonya",5866,proj-0168 p01 Project Management,13,P,KDEVP_B_Y4,kdevp_b4-W_W,1,,ITG02,WED,16:15
+"Hogan, Sonya",5866,proj-0168 l01 Project Management,16,L,EAUTO_B_Y3,eauto_b3_W,1,,F26,THU,12:15
+"Hogan, Sonya",5866,proj-0168 l01 Project Management,54,L,KCRCO_B_Y4,kcrco_b4-W_W,1,,F26,THU,12:15
+"Hogan, Sonya",5866,proj-0168 l01 Project Management,13,L,KDEVP_B_Y4,kdevp_b4-W_W,1,,F26,THU,12:15
+"Hogan, Sonya",5866,busi-0367 l01 Managing Inf Systems Project,17,L,BBBIS_B_Y3,bbbis_b3-W,1,,F26,THU,13:15
+"Hogan, Sonya",5866,busi-0367 l01 Managing Inf Systems Project,17,L,BBBIS_B_Y3,bbbis_b3-W,1,,F26,THU,14:15
+"Hogan, Sonya",5866,proj-0168 l02 Project Management,13,L,KDEVP_B_Y4,kdevp_b4-W_W,1,,F06,FRI,12:15
+"Horgan, Jerry",4464,comp-0973 l01 Information Security,32,L,KCESS_R_Y5,kcess_r_y5_W,1,,D05,MON,09:15
+"Horgan, Jerry",4464,comp-0973 l02 Information Security,32,L,KCESS_R_Y5,kcess_r_y5_W,1,,D05,MON,10:15
+"Horgan, Jerry",4464,comp-0973 p01 Information Security,32,P,KCESS_R_Y5,kcess_r_y5_W,1,,D05,MON,11:15
+"Horgan, Jerry",4464,comp-0660 l01 Networks Infrastructure,26,RL,KSOFE_B_Y3,ksofe_b3_W,1,,NUIST,TUE,10:15
+"Horgan, Jerry",4464,sp authorised insi Mainframe Cloud Computing,1,AI,AIP-SP,SP Authorised Insititu,2,_MC,AA Office-SP,WED,09:15
+"Horgan, Jerry",4464,sp authorised insi Mainframe Development,1,AI,AIP-SP,SP Authorised Insititu,4,_MC,AA Office-SP,THU,09:15
+"Jackman, Brendan",0256,comp-0568 p01 Adv Driver Assistance Sys,7,P,KACCM_B_Y4,kaccm_b4-W_AUT,1,,FTG24,MON,09:15
+"Jackman, Brendan",0256,comp-0568 p02 Adv Driver Assistance Sys,7,P,KACCM_B_Y4,kaccm_b4-W_AUT,1,,FTG24,MON,10:15
+"Jackman, Brendan",0256,comp-0433 l01 Model Based Development,3,L,KCMSC_B_Y3,kcmsc_b3-W_AUT,1,,FTG24,MON,11:15
+"Jackman, Brendan",0256,comp-0433 p01 Model Based Development,3,P,KCMSC_B_Y3,kcmsc_b3-W_AUT,1,,FTG24,MON,13:15
+"Jackman, Brendan",0256,comp-0433 p01 Model Based Development,3,P,KCMSC_B_Y3,kcmsc_b3-W_AUT,1,,FTG24,MON,14:15
+"Jackman, Brendan",0256,comp-0568 l01 Adv Driver Assistance Sys,7,L,KACCM_B_Y4,kaccm_b4-W_AUT,1,,FTG24,TUE,09:15
+"Jackman, Brendan",0256,comp-0568 l02 Adv Driver Assistance Sys,7,L,KACCM_B_Y4,kaccm_b4-W_AUT,1,,FTG24,TUE,10:15
+"Jackman, Brendan",0256,comp-0195 l01 Embedded Systems,4,L,KCMSC_B_Y2,kcmsc_b2-X_AUT,1,,FTG24,TUE,11:15
+"Jackman, Brendan",0256,comp-0567 l01 Automotive Software Dev,7,L,KACCM_B_Y4,kaccm_b4-W_AUT,1,,FTG24,WED,11:15
+"Jackman, Brendan",0256,comp-0195 p03 Embedded Systems,4,P,KCMSC_B_Y2,kcmsc_b2-X_AUT,1,,FTG24,WED,12:15
+"Jackman, Brendan",0256,comp-0567 p01 Automotive Software Dev,7,P,KACCM_B_Y4,kaccm_b4-W_AUT,1,,FTG24,WED,14:15
+"Jackman, Brendan",0256,comp-0567 p03 Automotive Software Dev,7,P,KACCM_B_Y4,kaccm_b4-W_AUT,1,,FTG24,WED,15:15
+"Jackman, Brendan",0256,comp-0567 p02 Automotive Software Dev,7,P,KACCM_B_Y4,kaccm_b4-W_AUT,1,,FTG24,WED,16:15
+"Jackman, Brendan",0256,comp-0433 p03 Model Based Development,3,P,KCMSC_B_Y3,kcmsc_b3-W_AUT,1,,FTG24,THU,11:15
+"Jackman, Brendan",0256,comp-0195 p01 Embedded Systems,4,P,KCMSC_B_Y2,kcmsc_b2-X_AUT,1,,FTG24,THU,15:15
+"Jackman, Brendan",0256,comp-0195 p02 Embedded Systems,4,P,KCMSC_B_Y2,kcmsc_b2-X_AUT,1,,FTG24,THU,16:15
+"Jackman, Brendan",0256,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,FRI,16:15
+"Kealy, Anita",5756,comp-0185 l03 Database Fundamentals,16,L,EAUTO_B_Y3,eauto_b3_W,1,,F04,MON,14:15
+"Kealy, Anita",5756,comp-0185 l03 Database Fundamentals,54,L,KCRCO_B_Y2,kcrco_b2-W_W,1,,F04,MON,14:15
+"Kealy, Anita",5756,comp-0185 l03 Database Fundamentals,34,L,KCREA_D_Y2,kcrea_d2-W_W,1,,F04,MON,14:15
+"Kealy, Anita",5756,comp-0185 l03 Database Fundamentals,28,L,KINFT_D_Y2,kinft_d2-W_W,1,,F04,MON,14:15
+"Kealy, Anita",5756,comp-0185 p02 Database Fundamentals,54,P,KCRCO_B_Y2,kcrco_b2-W_W,1,,IT221,TUE,10:15
+"Kealy, Anita",5756,comp-0185 p02 Database Fundamentals,34,P,KCREA_D_Y2,kcrea_d2-W_W,1,,IT221,TUE,10:15
+"Kealy, Anita",5756,comp-0185 p01 Database Fundamentals,54,P,KCRCO_B_Y2,kcrco_b2-W_W,1,,IT221,TUE,11:15
+"Kealy, Anita",5756,comp-0185 p01 Database Fundamentals,34,P,KCREA_D_Y2,kcrea_d2-W_W,1,,IT221,TUE,11:15
+"Kealy, Anita",5756,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,0.25,,_MC Office,TUE,15:15
+"Kealy, Anita",5756,comp-0185 p01 Database Fundamentals,16,P,EAUTO_B_Y3,eauto_b3_W,1,,IT222,WED,09:15
+"Kealy, Anita",5756,comp-0185 p03 Database Fundamentals,16,P,EAUTO_B_Y3,eauto_b3_W,1,,IT222,WED,10:15
+"Kealy, Anita",5756,comp-0185 l01 Database Fundamentals,28,P,KINFT_D_Y2,kinft_d2-W_W,1,,IT220,WED,13:15
+"Kealy, Anita",5756,comp-0185 l01 Database Fundamentals,28,P,KINFT_D_Y2,kinft_d2-W_W,1,,IT220,WED,14:15
+"Kealy, Anita",5756,comp-0185 l02 Database Fundamentals,16,L,EAUTO_B_Y3,eauto_b3_W,1,TLG21,AUD,THU,09:15
+"Kealy, Anita",5756,comp-0185 l02 Database Fundamentals,54,L,KCRCO_B_Y2,kcrco_b2-W_W,1,TLG21,AUD,THU,09:15
+"Kealy, Anita",5756,comp-0185 l02 Database Fundamentals,34,L,KCREA_D_Y2,kcrea_d2-W_W,1,TLG21,AUD,THU,09:15
+"Kealy, Anita",5756,comp-0185 l02 Database Fundamentals,28,L,KINFT_D_Y2,kinft_d2-W_W,1,TLG21,AUD,THU,09:15
+"Kealy, Anita",5756,diss-0017 l01 Research Methods,32,L,KCESS_R_Y5,kcess_r_y5_W,1,,D05,FRI,10:15
+"Kealy, Anita",5756,diss-0017 l01 Research Methods,16,L,KISYP_R_Y5,kisyp_r5-W_W,1,,D05,FRI,10:15
+"Kealy, Anita",5756,diss-0017 l03 Research Methods,32,L,KCESS_R_Y5,kcess_r_y5_W,1,,D05,FRI,11:15
+"Kealy, Anita",5756,diss-0017 l03 Research Methods,16,L,KISYP_R_Y5,kisyp_r5-W_W,1,,D05,FRI,11:15
+"Kealy, Anita",5756,diss-0017 l02 Research Methods,32,L,KCESS_R_Y5,kcess_r_y5_W,1,,D05,FRI,12:15
+"Kealy, Anita",5756,diss-0017 l02 Research Methods,16,L,KISYP_R_Y5,kisyp_r5-W_W,1,,D05,FRI,12:15
+"Kealy, Anita",5756,comp-0185 l01 Database Fundamentals,16,L,EAUTO_B_Y3,eauto_b3_W,1,,FTG22,FRI,13:15
+"Kealy, Anita",5756,comp-0185 l01 Database Fundamentals,54,L,KCRCO_B_Y2,kcrco_b2-W_W,1,,FTG22,FRI,13:15
+"Kealy, Anita",5756,comp-0185 l01 Database Fundamentals,34,L,KCREA_D_Y2,kcrea_d2-W_W,1,,FTG22,FRI,13:15
+"Kirwan, Padraig",0214,mthe-0070 l03 Engineering Mathematics 2,16,L,EAUTO_B_Y2,eauto_b2_W,1,,FTG14,MON,10:15
+"Kirwan, Padraig",0214,mthe-0070 l03 Engineering Mathematics 2,20,L,EMSEN_B_Y2,emsen_b2-W_W,1,,FTG14,MON,10:15
+"Kirwan, Padraig",0214,mthb-0012 l05 Applied Quantitative Analysis,18,L,BBUSI_B_Y3,bbusi_b3-A,1,,FTG14,MON,14:15
+"Kirwan, Padraig",0214,mthb-0012 l05 Applied Quantitative Analysis,18,L,BBUSI_B_Y3,bbusi_b3-E,1,,FTG14,MON,14:15
+"Kirwan, Padraig",0214,scie-0015 l01 Statistics for Scientists,36,L,SAGRI_B_Y2,sagri_b2_W_W,1,,F04,MON,15:15
+"Kirwan, Padraig",0214,scie-0015 l01 Statistics for Scientists,6,L,SFOOD_D_Y2,sfood_d2-W_W,1,,F04,MON,15:15
+"Kirwan, Padraig",0214,scie-0015 l01 Statistics for Scientists,17,L,SFSIN_B_Y2,sfsin_b2-W_W,1,,F04,MON,15:15
+"Kirwan, Padraig",0214,scie-0015 l02 Statistics for Scientists,36,L,SAGRI_B_Y2,sagri_b2_W_W,1,,F04,MON,16:15
+"Kirwan, Padraig",0214,scie-0015 l02 Statistics for Scientists,6,L,SFOOD_D_Y2,sfood_d2-W_W,1,,F04,MON,16:15
+"Kirwan, Padraig",0214,scie-0015 l02 Statistics for Scientists,17,L,SFSIN_B_Y2,sfsin_b2-W_W,1,,F04,MON,16:15
+"Kirwan, Padraig",0214,mthb-0012 l07 Applied Quantitative Analysis,18,L,BBUSI_B_Y3,bbusi_b3-A,1,,FTG18,TUE,09:15
+"Kirwan, Padraig",0214,mthb-0012 l07 Applied Quantitative Analysis,18,L,BBUSI_B_Y3,bbusi_b3-E,1,,FTG18,TUE,09:15
+"Kirwan, Padraig",0214,mthe-0070 l04 Engineering Mathematics 2,16,L,EAUTO_B_Y2,eauto_b2_W,1,,F27,TUE,13:15
+"Kirwan, Padraig",0214,mthe-0070 l04 Engineering Mathematics 2,20,L,EMSEN_B_Y2,emsen_b2-W_W,1,,F27,TUE,13:15
+"Kirwan, Padraig",0214,mthe-0070 l02 Engineering Mathematics 2,16,L,EAUTO_B_Y2,eauto_b2_W,1,,F27,TUE,14:15
+"Kirwan, Padraig",0214,mthe-0070 l02 Engineering Mathematics 2,20,L,EMSEN_B_Y2,emsen_b2-W_W,1,,F27,TUE,14:15
+"Kirwan, Padraig",0214,scie-0015 p05 Statistics for Scientists,6,P,SFOOD_D_Y2,sfood_d2-W_W,1,,IT119,WED,13:15
+"Kirwan, Padraig",0214,scie-0015 p05 Statistics for Scientists,17,P,SFSIN_B_Y2,sfsin_b2-W_W,1,,IT119,WED,13:15
+"Kirwan, Padraig",0214,scie-0015 l03 Statistics for Scientists,36,L,SAGRI_B_Y2,sagri_b2_W_W,1,,FTG13,WED,15:15
+"Kirwan, Padraig",0214,scie-0015 l03 Statistics for Scientists,6,L,SFOOD_D_Y2,sfood_d2-W_W,1,,FTG13,WED,15:15
+"Kirwan, Padraig",0214,scie-0015 l03 Statistics for Scientists,17,L,SFSIN_B_Y2,sfsin_b2-W_W,1,,FTG13,WED,15:15
+"Kirwan, Padraig",0214,mthb-0012 l03 Applied Quantitative Analysis,18,L,BBUSI_B_Y3,bbusi_b3-A,1,,F09,WED,16:15
+"Kirwan, Padraig",0214,mthb-0012 l03 Applied Quantitative Analysis,18,L,BBUSI_B_Y3,bbusi_b3-E,1,,F09,WED,16:15
+"Kirwan, Padraig",0214,mthb-0012 l08 Applied Quantitative Analysis,18,L,BBUSI_B_Y3,bbusi_b3-A,1,,F09,THU,09:15
+"Kirwan, Padraig",0214,mthb-0012 l08 Applied Quantitative Analysis,18,L,BBUSI_B_Y3,bbusi_b3-E,1,,F09,THU,09:15
+"Kirwan, Padraig",0214,scie-0015 p02 Statistics for Scientists,36,P,SAGRI_B_Y2,sagri_b2_W_A,1,,IT220,THU,12:15
+"Kirwan, Padraig",0214,scie-0015 p02 Statistics for Scientists,36,P,SAGRI_B_Y2,sagri_b2_W_C,1,,IT220,THU,12:15
+"Kirwan, Padraig",0214,scie-0015 p01 Statistics for Scientists,36,P,SAGRI_B_Y2,sagri_b2_W_B,1,,ITG03,THU,13:15
+"Kirwan, Padraig",0214,scie-0015 p01 Statistics for Scientists,36,P,SAGRI_B_Y2,sagri_b2_W_D,1,,ITG03,THU,13:15
+"Lacey, Richard",0371,comp-0541 p10 Computer Systems I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W1,1,,ITG19,MON,14:15
+"Lacey, Richard",0371,comp-0541 p10 Computer Systems I,5,P,KCOFO_B_Y1,kcofo_b1-W_W1,1,,ITG19,MON,14:15
+"Lacey, Richard",0371,comp-0541 p07 Computer Systems I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W1,1,,ITG19,MON,15:15
+"Lacey, Richard",0371,comp-0541 p07 Computer Systems I,5,P,KCOFO_B_Y1,kcofo_b1-W_W1,1,,ITG19,MON,15:15
+"Lacey, Richard",0371,comp-0541 p12 Computer Systems I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W1,1,,ITG19,MON,16:15
+"Lacey, Richard",0371,comp-0541 p12 Computer Systems I,5,P,KCOFO_B_Y1,kcofo_b1-W_W1,1,,ITG19,MON,16:15
+"Lacey, Richard",0371,comp-0541 l01 Computer Systems I,26,L,KCMSC_B_Y1,kcmsc_b1-W_W1/W,1,,E07,WED,10:15
+"Lacey, Richard",0371,comp-0541 l01 Computer Systems I,5,L,KCOFO_B_Y1,kcofo_b1-W_W1/W2,1,,E07,WED,10:15
+"Lacey, Richard",0371,comp-0541 l02 Computer Systems I,26,L,KCMSC_B_Y1,kcmsc_b1-W_W3/W,1,,FTG13,WED,12:15
+"Lacey, Richard",0371,comp-0541 l02 Computer Systems I,5,L,KCOFO_B_Y1,kcofo_b1-W_W3/W4,1,,FTG13,WED,12:15
+"Lacey, Richard",0371,info-0013 l01 Info Tech & Applications,20,L,HLEGA_C_Y1,hlega_c1-X_X,1,,C014,THU,09:15
+"Lacey, Richard",0371,info-0013 l02 Info Tech & Applications,20,L,HLEGA_C_Y1,hlega_c1-X_X,1,,C014,THU,10:15
+"Lacey, Richard",0371,info-0013 p04 Info Tech & Applications,0,P,HLEGA_C_Y1,hlega_c1-X_X1,1,,HA 22,THU,11:15
+"Lacey, Richard",0371,info-0013 p03 Info Tech & Applications,0,P,HLEGA_C_Y1,hlega_c1-X_X1,1,,HA 22,THU,12:15
+"Lacey, Richard",0371,comp-0541 p02 Computer Systems I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W2,1,,IT201,THU,14:15
+"Lacey, Richard",0371,comp-0541 p02 Computer Systems I,5,P,KCOFO_B_Y1,kcofo_b1-W_W2,1,,IT201,THU,14:15
+"Lacey, Richard",0371,comp-0541 p01 Computer Systems I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W2,1,,IT201,THU,15:15
+"Lacey, Richard",0371,comp-0541 p01 Computer Systems I,5,P,KCOFO_B_Y1,kcofo_b1-W_W2,1,,IT201,THU,15:15
+"Lacey, Richard",0371,comp-0541 p06 Computer Systems I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W2,1,,IT201,THU,16:15
+"Lacey, Richard",0371,comp-0541 p06 Computer Systems I,5,P,KCOFO_B_Y1,kcofo_b1-W_W2,1,,IT201,THU,16:15
+"Lacey, Richard",0371,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,FRI,11:15
+"Lacey, Richard",0371,comp-0001 p11 Intro. to ICT for scientists,18,P,SSCCM_B_Y1,ssccm_b1-W_Y,1,,ITG18,FRI,14:15
+"Lacey, Richard",0371,comp-0001 p02 Intro. to ICT for scientists,18,P,SSCCM_B_Y1,ssccm_b1-W_Y,1,,ITG18,FRI,15:15
+"Lacey, Richard",0371,comp-0001 p03 Intro. to ICT for scientists,18,P,SSCCM_B_Y1,ssccm_b1-W_Y,1,,ITG18,FRI,16:15
+"Lanigan, Michael",3971,mths-0001 t02 Introductory Mathematics,36,T,SAGRI_B_Y1,sagri_b1-W_H,1,,IT201,MON,15:15
+"Lanigan, Michael",3971,mths-0001 t02 Introductory Mathematics,36,T,SAGRI_B_Y1,sagri_b1-W_I,1,,IT201,MON,15:15
+"Lanigan, Michael",3971,mths-0001 t05 Introductory Mathematics,11,T,SFOOD_D_Y1,sfood_d1-W_N,1,,ITG18,MON,16:15
+"Lanigan, Michael",3971,mths-0001 t05 Introductory Mathematics,32,T,SMBIO_D_Y1,smbio_d1-W_J,1,,ITG18,MON,16:15
+"Lanigan, Michael",3971,mths-0001 t05 Introductory Mathematics,2,T,SPHSC_D_Y1,sphsc_d1_W_N,1,,ITG18,MON,16:15
+"Lanigan, Michael",3971,mths-0001 t05 Introductory Mathematics,16,T,SSCIE_D_Y1,sscie_d1-W_J,1,,ITG18,MON,16:15
+"Lanigan, Michael",3971,mths-0001 l02 Introductory Mathematics,36,L,SAGRI_B_Y1,sagri_b1_W-W,1,,F03,TUE,09:15
+"Lanigan, Michael",3971,mths-0001 l02 Introductory Mathematics,17,L,SFOOD_D_Y1,sfood_d1-W_W,1,,D11,TUE,14:15
+"Lanigan, Michael",3971,mths-0001 l02 Introductory Mathematics,9,L,SMBIO_D_Y1,smbio_d1-W_W,1,,D11,TUE,14:15
+"Lanigan, Michael",3971,mths-0001 l02 Introductory Mathematics,11,L,SPHSC_D_Y1,sphsc_d1_W_W,1,,D11,TUE,14:15
+"Lanigan, Michael",3971,mths-0001 l02 Introductory Mathematics,18,L,SSCIE_D_Y1,sscie_d1-W_W,1,,D11,TUE,14:15
+"Lanigan, Michael",3971,mths-0001 l01 Introductory Mathematics,17,L,SFOOD_D_Y1,sfood_d1-W_W,1,,F28,WED,09:15
+"Lanigan, Michael",3971,mths-0001 l01 Introductory Mathematics,9,L,SMBIO_D_Y1,smbio_d1-W_W,1,,F28,WED,09:15
+"Lanigan, Michael",3971,mths-0001 l01 Introductory Mathematics,11,L,SPHSC_D_Y1,sphsc_d1_W_W,1,,F28,WED,09:15
+"Lanigan, Michael",3971,mths-0001 l01 Introductory Mathematics,18,L,SSCIE_D_Y1,sscie_d1-W_W,1,,F28,WED,09:15
+"Lanigan, Michael",3971,mths-0001 l01 Introductory Mathematics,36,L,SAGRI_B_Y1,sagri_b1_W-W,1,,F04,WED,11:15
+"Lanigan, Michael",3971,mths-0001 l03 Introductory Mathematics,17,L,SFOOD_D_Y1,sfood_d1-W_W,1,,C26,THU,11:15
+"Lanigan, Michael",3971,mths-0001 l03 Introductory Mathematics,9,L,SMBIO_D_Y1,smbio_d1-W_W,1,,C26,THU,11:15
+"Lanigan, Michael",3971,mths-0001 l03 Introductory Mathematics,11,L,SPHSC_D_Y1,sphsc_d1_W_W,1,,C26,THU,11:15
+"Lanigan, Michael",3971,mths-0001 l03 Introductory Mathematics,18,L,SSCIE_D_Y1,sscie_d1-W_W,1,,C26,THU,11:15
+"Lanigan, Michael",3971,mths-0001 l03 Introductory Mathematics,36,L,SAGRI_B_Y1,sagri_b1_W-W,1,,F03,THU,14:15
+"Leonard, Francis",2033,fsim-0001 l01 Facility Simulation & Reliabil,19,L,EMSEN_B_Y4,emsen_b4-W_W,1,,C26,TUE,11:15
+"Leonard, Francis",2033,math-0029 l02 Mathematics for Graphics,54,L,KCRCO_B_Y2,kcrco_b2-W_W,1,,TL159,TUE,13:15
+"Leonard, Francis",2033,math-0029 l02 Mathematics for Graphics,34,L,KCREA_D_Y2,kcrea_d2-W_W,1,,TL159,TUE,13:15
+"Leonard, Francis",2033,math-0029 p01 Mathematics for Graphics,54,P,KCRCO_B_Y2,kcrco_b2-W_W,1,,IT101,TUE,14:15
+"Leonard, Francis",2033,math-0029 p01 Mathematics for Graphics,34,P,KCREA_D_Y2,kcrea_d2-W_W,1,,IT101,TUE,14:15
+"Leonard, Francis",2033,math-0029 t01 Mathematics for Graphics,54,T,KCRCO_B_Y2,kcrco_b2-W_W,1,,TL225,WED,10:15
+"Leonard, Francis",2033,math-0029 t01 Mathematics for Graphics,34,T,KCREA_D_Y2,kcrea_d2-W_W,1,,TL225,WED,10:15
+"Leonard, Francis",2033,math-0029 l01 Mathematics for Graphics,54,L,KCRCO_B_Y2,kcrco_b2-W_W,1,,TL225,WED,11:15
+"Leonard, Francis",2033,math-0029 l01 Mathematics for Graphics,34,L,KCREA_D_Y2,kcrea_d2-W_W,1,,TL225,WED,11:15
+"Leonard, Francis",2033,fsim-0001 l02 Facility Simulation & Reliabil,19,L,EMSEN_B_Y4,emsen_b4-W_W,1,,C35,WED,15:15
+"Leonard, Francis",2033,biol-0027 l03 Applications of Microbiology,8,L,SMBIO_B_Y4,smbio_b4-W_W,1,,TL221,WED,16:15
+"Leonard, Francis",2033,math-0029 l03 Mathematics for Graphics,54,L,KCRCO_B_Y2,kcrco_b2-W_W,1,,W13,THU,11:15
+"Leonard, Francis",2033,math-0029 l03 Mathematics for Graphics,34,L,KCREA_D_Y2,kcrea_d2-W_W,1,,W13,THU,11:15
+"Leonard, Francis",2033,fsim-0001 p01 Facility Simulation & Reliabil,19,P,EMSEN_B_Y4,emsen_b4-W_W,1,,IT202,THU,13:15
+"Leonard, Francis",2033,fsim-0001 p02 Facility Simulation & Reliabil,19,P,EMSEN_B_Y4,emsen_b4-W_W,1,,IT202,THU,14:15
+"Leonard, Francis",2033,diss-0017 p01 Research Methods,32,P,KCESS_R_Y5,kcess_r_y5_W,1,,D05,FRI,09:15
+"Leonard, Francis",2033,diss-0017 p01 Research Methods,16,P,KISYP_R_Y5,kisyp_r5-W_W,1,,D05,FRI,09:15
+"Lynch, Fiona M.",4331,busi-0006 p01 MIS & eBus,8,L,SAGUL_B_Y4,sagul_b4-W_W,1,,TL252,TUE,09:15
+"Lynch, Fiona M.",4331,busi-0006 p02 MIS & eBus,8,L,SAGUL_B_Y4,sagul_b4-W_W,1,,TL252,TUE,10:15
+"Lynch, Fiona M.",4331,comp-0291 p01 Information Systems Project,32,P,KCESS_R_Y5,kcess_r_y5_W,1,,D05,WED,09:15
+"Lynch, Fiona M.",4331,comp-0291 p01 Information Systems Project,16,P,KISYP_R_Y5,kisyp_r5-W_W,1,,D05,WED,09:15
+"Lynch, Fiona M.",4331,comp-0291 p01 Information Systems Project,32,P,KCESS_R_Y5,kcess_r_y5_W,1,,D05,WED,10:15
+"Lynch, Fiona M.",4331,comp-0291 p01 Information Systems Project,16,P,KISYP_R_Y5,kisyp_r5-W_W,1,,D05,WED,10:15
+"Lynch, Fiona M.",4331,comp-0291 p01 Information Systems Project,32,L,KCESS_R_Y5,kcess_r_y5_W,1,,D05,WED,11:15
+"Lynch, Fiona M.",4331,comp-0291 p01 Information Systems Project,16,L,KISYP_R_Y5,kisyp_r5-W_W,1,,D05,WED,11:15
+"Lynch, Fiona M.",4331,comp-0291 l02 Information Systems Project,32,L,KCESS_R_Y5,kcess_r_y5_W,1,,D05,WED,12:15
+"Lynch, Fiona M.",4331,comp-0291 l02 Information Systems Project,16,L,KISYP_R_Y5,kisyp_r5-W_W,1,,D05,WED,12:15
+"Lynch, Fiona M.",4331,busi-0006 p03 MIS & eBus,8,P,SAGUL_B_Y4,sagul_b4-W_W,1,,ITG19,THU,15:15
+"Lynch, Fiona M.",4331,busi-0006 p04 MIS & eBus,8,P,SAGUL_B_Y4,sagul_b4-W_W,1,,ITG19,THU,16:15
+"Lynch, Fiona M.",4331,proj-0200 l01 IS Project Mgt and Analytics,9,L,BFIBA_R_Y5,bfiba_r_y5,1,D20,Fintech Lab,FRI,13:15
+"Lynch, Fiona M.",4331,proj-0200 l02 IS Project Mgt and Analytics,9,L,BFIBA_R_Y5,bfiba_r_y5,1,D20,Fintech Lab,FRI,14:15
+"Lynch, Fiona M.",4331,proj-0200 l02 IS Project Mgt and Analytics,9,L,BFIBA_R_Y5,bfiba_r_y5,1,D20,Fintech Lab,FRI,15:15
+"Lyng, Brendan",2472,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,MON,14:15
+"Lyng, Brendan",2472,comp-0669 p03 Introduction to C++ for Games,3,P,KCMSC_B_Y3,kcmsc_b3-W_GAM,1,,IT101,TUE,09:15
+"Lyng, Brendan",2472,comp-0669 p02 Introduction to C++ for Games,3,P,KCMSC_B_Y3,kcmsc_b3-W_GAM,1,,IT101,TUE,10:15
+"Lyng, Brendan",2472,comp-0375 l01 The Computer Industry,26,L,KCMSC_B_Y1,kcmsc_b1-W_W1/W,1,,TL221,TUE,12:15
+"Lyng, Brendan",2472,comp-0375 l01 The Computer Industry,5,L,KCOFO_B_Y1,kcofo_b1-W_W1/W2,1,,TL221,TUE,12:15
+"Lyng, Brendan",2472,comp-0643 l01 Introduction to Game Design,4,L,KCMSC_B_Y2,kcmsc_b2-X_GAM,1,,IT103,TUE,14:15
+"Lyng, Brendan",2472,comp-0643 l02 Introduction to Game Design,4,L,KCMSC_B_Y2,kcmsc_b2-X_GAM,1,,IT103,TUE,15:15
+"Lyng, Brendan",2472,comp-0375 l06 The Computer Industry,26,L,KCMSC_B_Y1,kcmsc_b1-W_W1/W,1,,E19B,WED,11:15
+"Lyng, Brendan",2472,comp-0375 l06 The Computer Industry,5,L,KCOFO_B_Y1,kcofo_b1-W_W1/W2,1,,E19B,WED,11:15
+"Lyng, Brendan",2472,comp-0375 l01 The Computer Industry: NUIS,26,RL,KACMI_B_Y1,kacmi_b1-W_W,1,,NUIST,WED,14:15
+"Lyng, Brendan",2472,comp-0375 l01 The Computer Industry: NUIS,26,RL,KSOFE_B_Y1,ksofe_b1_w,1,,NUIST,WED,14:15
+"Lyng, Brendan",2472,comp-0375 l05 The Computer Industry,26,L,KCMSC_B_Y1,kcmsc_b1-W_W1/W,1,,E19B,THU,09:15
+"Lyng, Brendan",2472,comp-0375 l05 The Computer Industry,5,L,KCOFO_B_Y1,kcofo_b1-W_W1/W2,1,,E19B,THU,09:15
+"Lyng, Brendan",2472,comp-0669 p01 Introduction to C++ for Games,3,L,KCMSC_B_Y3,kcmsc_b3-W_GAM,1,,F09,THU,10:15
+"Lyng, Brendan",2472,comp-0643 p01 Introduction to Game Design,4,P,KCMSC_B_Y2,kcmsc_b2-X_GAM,1,,IT102,FRI,09:15
+"Lyng, Brendan",2472,comp-0643 p02 Introduction to Game Design,4,P,KCMSC_B_Y2,kcmsc_b2-X_GAM,1,,IT102,FRI,10:15
+"Lyng, Brendan",2472,comp-0669 p04 Introduction to C++ for Games,3,P,KCMSC_B_Y3,kcmsc_b3-W_GAM,1,,IT101,FRI,11:15
+"Lyng, Brendan",2472,comp-0669 p01 Introduction to C++ for Games,3,P,KCMSC_B_Y3,kcmsc_b3-W_GAM,1,,IT101,FRI,12:15
+"Lyng, Mary",0381,comp-0185 l02 Database Fundamentals,18,L,KCOMC_D_Y2,kcomc_d2-W_W,1,,TL252,MON,11:15
+"Lyng, Mary",0381,comp-0185 l02 Database Fundamentals,18,L,KDEVP_B_Y2,kdevp_b2-W_W,1,,TL252,MON,11:15
+"Lyng, Mary",0381,comp-0185 p01 Database Fundamentals,6,P,KCOMC_D_Y2,kcomc_d2-W_W1,1,,IT118,MON,13:15
+"Lyng, Mary",0381,comp-0185 p01 Database Fundamentals,6,P,KDEVP_B_Y2,kdevp_b2-W_W1,1,,IT118,MON,13:15
+"Lyng, Mary",0381,comp-0185 p02 Database Fundamentals,6,P,KCOMC_D_Y2,kcomc_d2-W_W1,1,,IT118,MON,14:15
+"Lyng, Mary",0381,comp-0185 p02 Database Fundamentals,6,P,KDEVP_B_Y2,kdevp_b2-W_W1,1,,IT118,MON,14:15
+"Lyng, Mary",0381,comp-0185 p01 Database Fundamentals,6,P,KCOMC_D_Y2,kcomc_d2-W_W2,1,,IT120,TUE,11:15
+"Lyng, Mary",0381,comp-0185 p01 Database Fundamentals,6,P,KDEVP_B_Y2,kdevp_b2-W_W2,1,,IT120,TUE,11:15
+"Lyng, Mary",0381,comp-0185 p01 Database Fundamentals,6,P,KCOMC_D_Y2,kcomc_d2-W_W2,1,,IT120,TUE,12:15
+"Lyng, Mary",0381,comp-0185 p01 Database Fundamentals,6,P,KDEVP_B_Y2,kdevp_b2-W_W2,1,,IT120,TUE,12:15
+"Lyng, Mary",0381,comp-0185 l01 Database Fundamentals,18,L,KCOMC_D_Y2,kcomc_d2-W_W,1,,E13,THU,11:15
+"Lyng, Mary",0381,comp-0185 l01 Database Fundamentals,18,L,KDEVP_B_Y2,kdevp_b2-W_W,1,,E13,THU,11:15
+"Lyng, Mary",0381,comp-0185 l03 Database Fundamentals,18,L,KCOMC_D_Y2,kcomc_d2-W_W,1,,E13,THU,12:15
+"Lyng, Mary",0381,comp-0185 l03 Database Fundamentals,18,L,KDEVP_B_Y2,kdevp_b2-W_W,1,,E13,THU,12:15
+"Lyng, Mary",0381,comp-0590 p02 Website Development 1,4,P,KCMSC_B_Y1,kcmsc_b1-W_W1,1,,IT220,THU,13:15
+"Lyng, Mary",0381,comp-0590 p02 Website Development 1,5,P,KCOFO_B_Y1,kcofo_b1-W_W1,1,,IT220,THU,13:15
+"Lyng, Mary",0381,comp-0590 p08 Website Development 1,4,P,KCMSC_B_Y1,kcmsc_b1-W_W1,1,,IT220,THU,14:15
+"Lyng, Mary",0381,comp-0590 p08 Website Development 1,5,P,KCOFO_B_Y1,kcofo_b1-W_W1,1,,IT220,THU,14:15
+"Lyng, Mary",0381,comp-0590 p01 Website Development 1,4,P,KCMSC_B_Y1,kcmsc_b1-W_W1,1,,IT220,THU,15:15
+"Lyng, Mary",0381,comp-0590 p01 Website Development 1,5,P,KCOFO_B_Y1,kcofo_b1-W_W1,1,,IT220,THU,15:15
+"Lyng, Mary",0381,comp-0590 l05 Website Development 1,52,L,KCOMC_D_Y1,kcomc_d1-W_W,1,,E19B,FRI,09:15
+"Lyng, Mary",0381,comp-0590 l05 Website Development 1,52,L,KDEVP_B_Y1,kdevp_b1-W_W,1,,E19B,FRI,09:15
+"Lyng, Mary",0381,comp-0590 l03 Website Development 1,52,P,KCOMC_D_Y1,kcomc_d1-W_W,1,,IT119,FRI,10:15
+"Lyng, Mary",0381,comp-0590 l03 Website Development 1,52,P,KDEVP_B_Y1,kdevp_b1-W_W,1,,IT119,FRI,10:15
+"Lyng, Mary",0381,comp-0590 l06 Website Development 1,52,P,KCOMC_D_Y1,kcomc_d1-W_W,1,,IT119,FRI,11:15
+"Lyng, Mary",0381,comp-0590 l06 Website Development 1,52,P,KDEVP_B_Y1,kdevp_b1-W_W,1,,IT119,FRI,11:15
+"Lyng, Mary",0381,comp-0590 l04 Website Development 1,52,P,KCOMC_D_Y1,kcomc_d1-W_W,1,,IT119,FRI,12:15
+"Lyng, Mary",0381,comp-0590 l04 Website Development 1,52,P,KDEVP_B_Y1,kdevp_b1-W_W,1,,IT119,FRI,12:15
+"Lyng, Richie",4229,comp-0605 l01 Creative Problem Solving,18,L,KCOMC_D_Y2,kcomc_d2-W_W,1,,E13,MON,09:15
+"Lyng, Richie",4229,comp-0605 l01 Creative Problem Solving,18,L,KDEVP_B_Y2,kdevp_b2-W_W,1,,E13,MON,09:15
+"Lyng, Richie",4229,comp-0605 l01 Creative Problem Solving,28,L,KINFT_D_Y2,kinft_d2-W_W,1,,E13,MON,09:15
+"Lyng, Richie",4229,comp-0605 l01 Creative Problem Solving,18,L,KCOMC_D_Y2,kcomc_d2-W_W,1,,E13,MON,10:15
+"Lyng, Richie",4229,comp-0605 l01 Creative Problem Solving,18,L,KDEVP_B_Y2,kdevp_b2-W_W,1,,E13,MON,10:15
+"Lyng, Richie",4229,comp-0605 l01 Creative Problem Solving,28,L,KINFT_D_Y2,kinft_d2-W_W,1,,E13,MON,10:15
+"Lyng, Richie",4229,medi_0029 p04 Digital Media 1,36,P,BMKDM_B_Y1,bmkdm_b1-W,1,,D12,MON,11:15
+"Lyng, Richie",4229,medi_0029 p03 Digital Media 1,36,P,BMKDM_B_Y1,bmkdm_b1-W,1,,D12,MON,12:15
+"Lyng, Richie",4229,medi_0029 p01 Digital Media 1,36,P,BMKDM_B_Y1,bmkdm_b1-W,1,,D12,TUE,15:15
+"Lyng, Richie",4229,medi_0029 p02 Digital Media 1,36,P,BMKDM_B_Y1,bmkdm_b1-W,1,,D12,TUE,16:15
+"Lyng, Richie",4229,lear-0042 l01 Learning to Learn,5,RP,NGENN_B_Y1,ngenn_b1-W_I,1,,ITG02,WED,12:15
+"Lyng, Richie",4229,lear-0042 l01 Learning to Learn,5,RP,NGENN_B_Y1,ngenn_b1-W_L,1,,ITG02,WED,12:15
+"Lyng, Richie",4229,lear-0042 l01 Learning to Learn,5,RP,NPSYC_B_Y1,npsyc_b1-W_E,1,,ITG02,WED,12:15
+"Lyng, Richie",4229,lear-0042 l01 Learning to Learn,5,RP,NGENN_B_Y1,ngenn_b1-W_K,1,,ITG02,WED,13:15
+"Lyng, Richie",4229,lear-0042 l01 Learning to Learn,5,RP,NPSYC_B_Y1,npsyc_b1-W_F,1,,ITG02,WED,13:15
+"Lyng, Richie",4229,lear-0042 l01 Learning to Learn,5,RP,NPSYC_B_Y1,npsyc_b1-W_G,1,,ITG02,WED,13:15
+"Lyng, Richie",4229,lear-0042 l01 Learning to Learn,5,RP,NPSYC_B_Y1,npsyc_b1-W_H,1,,ITG02,WED,13:15
+"Lyng, Richie",4229,lear-0042 l01 Learning to Learn,5,RP,NPSYC_B_Y1,npsyc_b1-W_I,1,,ITG02,WED,13:15
+"Lyng, Richie",4229,comp-0605 p02 Creative Problem Solving,18,T,KCOMC_D_Y2,kcomc_d2-W_W,1,,ITG19,FRI,09:15
+"Lyng, Richie",4229,comp-0605 p02 Creative Problem Solving,18,T,KDEVP_B_Y2,kdevp_b2-W_W,1,,ITG19,FRI,09:15
+"Lyng, Richie",4229,comp-0605 p02 Creative Problem Solving,28,T,KINFT_D_Y2,kinft_d2-W_W,1,,ITG19,FRI,09:15
+"Lyng, Richie",4229,sp authorised insi Communication,1,AI,AIP-SP,SP Authorised Insititu,1,_MC,AA Office-SP,FRI,14:15
+"Lyons, Tony",6981,apsc-0005 l01 Maths for Apprenticeship Prog,9,L,APSLA_D_Y1,apsla_d1_W,1,,TL244(A),MON,09:15
+"Lyons, Tony",6981,engr-0119 l03 Engineering Maths 8.1,60,L,EENCE_B_Y1,eence_b1-W,1,,F03,MON,10:15
+"Lyons, Tony",6981,engr-0119 t02 Engineering Maths 8.1,11,T,EENCE_B_Y1,eence_b1-D,1,,C25,TUE,11:15
+"Lyons, Tony",6981,engr-0119 t03 Engineering Maths 8.1,11,T,EENCE_B_Y1,eence_b1-D,1,,C25,TUE,12:15
+"Lyons, Tony",6981,mthe-0030 l03 Maths Ord Diff Equations,9,L,EONIC_B_Y2,eonic_b2_W,1,,C26,TUE,14:15
+"Lyons, Tony",6981,mthe-0030 l03 Maths Ord Diff Equations,15,L,ETRIC_B_Y2,etric_b2_W_W,1,,C26,TUE,14:15
+"Lyons, Tony",6981,mthe-0030 l03 Maths Ord Diff Equations,3,L,KPHTE_B_Y2,kphte_b2 W_W,1,,C26,TUE,14:15
+"Lyons, Tony",6981,mthe-0030 l04 Maths Ord Diff Equations,9,L,EONIC_B_Y2,eonic_b2_W,1,,C26,TUE,15:15
+"Lyons, Tony",6981,mthe-0030 l04 Maths Ord Diff Equations,15,L,ETRIC_B_Y2,etric_b2_W_W,1,,C26,TUE,15:15
+"Lyons, Tony",6981,mthe-0030 l04 Maths Ord Diff Equations,3,L,KPHTE_B_Y2,kphte_b2 W_W,1,,C26,TUE,15:15
+"Lyons, Tony",6981,engr-0119 t02 Engineering Maths 8.1,22,T,EENCE_B_Y1,eence_b1-C,1,,C25,WED,09:15
+"Lyons, Tony",6981,engr-0119 t01 Engineering Maths 8.1,22,T,EENCE_B_Y1,eence_b1-C,1,,C25,WED,10:15
+"Lyons, Tony",6981,apsc-0005 l01 Maths for Apprenticeship Prog,9,L,APSLA_D_Y1,apsla_d1_W,1,,C42,WED,13:15
+"Lyons, Tony",6981,engr-0119 l03 Engineering Maths 8.1,60,L,EENCE_B_Y1,eence_b1-W,1,,FTG15,WED,15:15
+"Lyons, Tony",6981,engr-0119 l02 Engineering Maths 8.1,60,L,EENCE_B_Y1,eence_b1-W,1,,FTG15,WED,16:15
+"Lyons, Tony",6981,mthe-0030 l02 Maths Ord Diff Equations,9,L,EONIC_B_Y2,eonic_b2_W,1,,E07,FRI,13:15
+"Lyons, Tony",6981,mthe-0030 l02 Maths Ord Diff Equations,15,L,ETRIC_B_Y2,etric_b2_W_W,1,,E07,FRI,13:15
+"Lyons, Tony",6981,mthe-0030 l02 Maths Ord Diff Equations,3,L,KPHTE_B_Y2,kphte_b2 W_W,1,,E07,FRI,13:15
+"Lyons, Tony",6981,mthe-0030 l01 Maths Ord Diff Equations,9,L,EONIC_B_Y2,eonic_b2_W,1,,E07,FRI,14:15
+"Lyons, Tony",6981,mthe-0030 l01 Maths Ord Diff Equations,15,L,ETRIC_B_Y2,etric_b2_W_W,1,,E07,FRI,14:15
+"Lyons, Tony",6981,mthe-0030 l01 Maths Ord Diff Equations,3,L,KPHTE_B_Y2,kphte_b2 W_W,1,,E07,FRI,14:15
+"Mac Donald, Susan",0341,mths-0016 l01 Mathematical Methods,17,L,KCMSC_B_Y2,kcmsc_b2-X_W,1,TLG21,AUD,MON,11:15
+"Mac Donald, Susan",0341,mths-0016 l01 Mathematical Methods,5,L,KCOFO_B_Y2,kcofo_b2-W_W,1,TLG21,AUD,MON,11:15
+"Mac Donald, Susan",0341,mths-0016 l02 Mathematical Methods,17,L,KCMSC_B_Y2,kcmsc_b2-X_W,1,TLG21,AUD,MON,12:15
+"Mac Donald, Susan",0341,mths-0016 l02 Mathematical Methods,5,L,KCOFO_B_Y2,kcofo_b2-W_W,1,TLG21,AUD,MON,12:15
+"Mac Donald, Susan",0341,mthe-0057 l01 Further Calculus & Probability,4,L,EEENG_D_Y2,eeeng_d2_W,1,,C35,MON,13:15
+"Mac Donald, Susan",0341,mthe-0057 l01 Further Calculus & Probability,14,L,EELCT_D_Y2,eelct_d2-W_W,1,,C35,MON,13:15
+"Mac Donald, Susan",0341,mthe-0057 l01 Further Calculus & Probability,2,L,EELEC_C_Y2,eelec_c2-W_W,1,,C35,MON,13:15
+"Mac Donald, Susan",0341,scie-0015 l01 Statistics for Scientists,13,L,SMBIO_B_Y2,smbio_b2_W_W,1,,F01,MON,15:15
+"Mac Donald, Susan",0341,scie-0015 l01 Statistics for Scientists,13,L,SMBIO_D_Y2,smbio_d2_W_W,1,,F01,MON,15:15
+"Mac Donald, Susan",0341,scie-0015 l01 Statistics for Scientists,7,L,SPHSC_B_Y2,sphsc_b2_W_W,1,,F01,MON,15:15
+"Mac Donald, Susan",0341,scie-0015 l01 Statistics for Scientists,3,L,SPHSC_D_Y2,sphsc_d2_W_W,1,,F01,MON,15:15
+"Mac Donald, Susan",0341,mths-0016 l03 Mathematical Methods,17,L,KCMSC_B_Y2,kcmsc_b2-X_W,1,,FTG14,TUE,10:15
+"Mac Donald, Susan",0341,mths-0016 l03 Mathematical Methods,5,L,KCOFO_B_Y2,kcofo_b2-W_W,1,,FTG14,TUE,10:15
+"Mac Donald, Susan",0341,mthe-0057 l03 Further Calculus & Probability,4,L,EEENG_D_Y2,eeeng_d2_W,1,,TL252,TUE,15:15
+"Mac Donald, Susan",0341,mthe-0057 l03 Further Calculus & Probability,14,L,EELCT_D_Y2,eelct_d2-W_W,1,,TL252,TUE,15:15
+"Mac Donald, Susan",0341,mthe-0057 l03 Further Calculus & Probability,2,L,EELEC_C_Y2,eelec_c2-W_W,1,,TL252,TUE,15:15
+"Mac Donald, Susan",0341,mthe-0057 l02 Further Calculus & Probability,4,L,EEENG_D_Y2,eeeng_d2_W,1,,TL252,TUE,16:15
+"Mac Donald, Susan",0341,mthe-0057 l04 Further Calculus & Probability,14,L,EELCT_D_Y2,eelct_d2-W_W,1,,TL252,TUE,16:15
+"Mac Donald, Susan",0341,mthe-0057 l02 Further Calculus & Probability,2,L,EELEC_C_Y2,eelec_c2-W_W,1,,TL252,TUE,16:15
+"Mac Donald, Susan",0341,mths-0039 p02 Mathematical Methods,25,P,KCMSC_B_Y2,kcmsc_b2-X_W2,1,,ITG01,WED,10:15
+"Mac Donald, Susan",0341,mths-0016 p02 Mathematical Methods,3,P,KCOFO_B_Y2,kcofo_b2-W_W2,1,,ITG01,WED,10:15
+"Mac Donald, Susan",0341,mths-0039 p01 Mathematical Methods,25,P,KCMSC_B_Y2,kcmsc_b2-X_W1,1,,ITG02,WED,11:15
+"Mac Donald, Susan",0341,mths-0016 p01 Mathematical Methods,3,P,KCOFO_B_Y2,kcofo_b2-W_W1,1,,ITG02,WED,11:15
+"Mac Donald, Susan",0341,scie-0015 l03 Statistics for Scientists,13,L,SMBIO_B_Y2,smbio_b2_W_W,1,,F04,WED,15:15
+"Mac Donald, Susan",0341,scie-0015 l03 Statistics for Scientists,13,L,SMBIO_D_Y2,smbio_d2_W_W,1,,F04,WED,15:15
+"Mac Donald, Susan",0341,scie-0015 l03 Statistics for Scientists,7,L,SPHSC_B_Y2,sphsc_b2_W_W,1,,F04,WED,15:15
+"Mac Donald, Susan",0341,scie-0015 l03 Statistics for Scientists,3,L,SPHSC_D_Y2,sphsc_d2_W_W,1,,F04,WED,15:15
+"Mac Donald, Susan",0341,scie-0015 l02 Statistics for Scientists,13,L,SMBIO_B_Y2,smbio_b2_W_W,1,,F04,WED,16:15
+"Mac Donald, Susan",0341,scie-0015 l02 Statistics for Scientists,13,L,SMBIO_D_Y2,smbio_d2_W_W,1,,F04,WED,16:15
+"Mac Donald, Susan",0341,scie-0015 l02 Statistics for Scientists,7,L,SPHSC_B_Y2,sphsc_b2_W_W,1,,F04,WED,16:15
+"Mac Donald, Susan",0341,scie-0015 l02 Statistics for Scientists,3,L,SPHSC_D_Y2,sphsc_d2_W_W,1,,F04,WED,16:15
+"Mac Donald, Susan",0341,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,THU,10:15
+"Mac Donald, Susan",0341,mths-0039 p03 Mathematical Methods,25,P,KCMSC_B_Y2,kcmsc_b2-X_W3,1,,IT222,FRI,13:15
+"Mac Donald, Susan",0341,mths-0016 p03 Mathematical Methods,3,P,KCOFO_B_Y2,kcofo_b2-W_W3,1,,IT222,FRI,13:15
+"Mac Donald, Susan",0341,mthe-0057 l04 Further Calculus & Probability,4,L,EEENG_D_Y2,eeeng_d2_W,1,,C42,FRI,14:15
+"Mac Donald, Susan",0341,mthe-0057 l02 Further Calculus & Probability,14,L,EELCT_D_Y2,eelct_d2-W_W,1,,C42,FRI,14:15
+"Mac Donald, Susan",0341,mthe-0057 l04 Further Calculus & Probability,2,L,EELEC_C_Y2,eelec_c2-W_W,1,,C42,FRI,14:15
+"Mc Donald, T.J.",2046,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,_MC,AA Office-BM,WED,09:15
+"Mc Gibney, Jimmy",3484,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,MON,09:15
+"Mc Gibney, Jimmy",3484,comp-0973 p02 Information Security,32,P,KCESS_R_Y5,kcess_r_y5_W,1,,D05,MON,12:15
+"Mc Gibney, Jimmy",3484,comp-0620 l03 Computer Security & Forensic,1,RL,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,MON,13:15
+"Mc Gibney, Jimmy",3484,comp-0620 l04 Computer Security & Forensic,1,RL,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,MON,14:15
+"Mc Gibney, Jimmy",3484,comp-0612 l01 Application Security,26,RL,KSOFE_B_Y4,ksofe_b4_W,1,,NUIST,TUE,13:15
+"Mc Gibney, Jimmy",3484,comp-0559 l01 Developer Operations,9,L,KCMSC_B_Y3,kcmsc_b3-W_W,1,TLG21,AUD,WED,10:15
+"Mc Gibney, Jimmy",3484,comp-0559 l01 Developer Operations,3,L,KCOFO_B_Y3,kcofo_b3-W_W,1,TLG21,AUD,WED,10:15
+"Mc Gibney, Jimmy",3484,sp authorised insi Module co-ordinator NUIST A,1,AI,AIP-SP,SP Authorised Insititu,1,_MC,AA Office-SP,WED,15:15
+"Mc Gibney, Jimmy",3484,comp-0559 p02 Developer Operations,9,P,KCMSC_B_Y3,kcmsc_b3-W_W1,1,,FTG24,THU,12:15
+"Mc Gibney, Jimmy",3484,comp-0559 p02 Developer Operations,7,P,KCOFO_B_Y3,kcofo_b3-W_W1,1,,FTG24,THU,12:15
+"Mc Gibney, Jimmy",3484,comp-0559 p06 Developer Operations,9,P,KCMSC_B_Y3,kcmsc_b3-W_W1,1,,FTG24,THU,13:15
+"Mc Gibney, Jimmy",3484,comp-0559 p06 Developer Operations,7,P,KCOFO_B_Y3,kcofo_b3-W_W1,1,,FTG24,THU,13:15
+"Mc Gibney, Jimmy",3484,comp-0559 p05 Developer Operations,9,P,KCMSC_B_Y3,kcmsc_b3-W_W1,1,,FTG24,THU,14:15
+"Mc Gibney, Jimmy",3484,comp-0559 p05 Developer Operations,7,P,KCOFO_B_Y3,kcofo_b3-W_W1,1,,FTG24,THU,14:15
+"Mc Gibney, Jimmy",3484,prog mgt Prog Management Task - KC,1,M,PM TASKS-SP,SP Prog Managemen,1,_MC,AA Office-SP,FRI,09:15
+"Mc Gibney, Jimmy",3484,prog mgt Prog Management Task - KC,1,M,PM TASKS-SP,SP Prog Managemen,1,_MC,AA Office-SP,FRI,10:15
+"Mc Gibney, Jimmy",3484,prog mgt Prog Management Task - KC,1,M,PM TASKS-SP,SP Prog Managemen,1,_MC,AA Office-SP,FRI,11:15
+"Mc Gibney, Jimmy",3484,comp-0620 p01 Computer Security & Forensic,1,RP,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,FRI,15:15
+"Mc Gibney, Jimmy",3484,comp-0620 p02 Computer Security & Forensic,1,RP,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,FRI,16:15
+"Mc Inerney, Patrick T.",3388,comp-0591 p04 2D Animation,54,P,KCRCO_B_Y2,kcrco_b2-W_W,1,,IT101,MON,11:15
+"Mc Inerney, Patrick T.",3388,comp-0591 p04 2D Animation,34,P,KCREA_D_Y2,kcrea_d2-W_W,1,,IT101,MON,11:15
+"Mc Inerney, Patrick T.",3388,comp-0591 p03 2D Animation,54,P,KCRCO_B_Y2,kcrco_b2-W_W,1,,IT101,MON,12:15
+"Mc Inerney, Patrick T.",3388,comp-0591 p03 2D Animation,34,P,KCREA_D_Y2,kcrea_d2-W_W,1,,IT101,MON,12:15
+"Mc Inerney, Patrick T.",3388,comp-0631 l03 3D Lighting & Rendering,13,P,KCRCO_B_Y4,kcrco_b4-W_AN,1,,IT101,MON,15:15
+"Mc Inerney, Patrick T.",3388,comp-0631 l02 3D Lighting & Rendering,13,P,KCRCO_B_Y4,kcrco_b4-W_AN,1,,IT101,MON,16:15
+"Mc Inerney, Patrick T.",3388,comp-0631 l01 3D Lighting & Rendering,13,L,KCRCO_B_Y4,kcrco_b4-W_AN,1,,C35,TUE,12:15
+"Mc Inerney, Patrick T.",3388,comp-0668 p02 Game Development Practicu,3,P,KCMSC_B_Y3,kcmsc_b3-W_GAM,1,,IT102,TUE,15:15
+"Mc Inerney, Patrick T.",3388,comp-0668 p01 Game Development Practicu,3,P,KCMSC_B_Y3,kcmsc_b3-W_GAM,1,,IT102,TUE,16:15
+"Mc Inerney, Patrick T.",3388,comp-0668 l01 Game Development Practicu,3,L,KCMSC_B_Y3,kcmsc_b3-W_GAM,1,,IT102,WED,12:15
+"Mc Inerney, Patrick T.",3388,comp-0591 p01 2D Animation,54,P,KCRCO_B_Y2,kcrco_b2-W_W,1,,IT101,WED,13:15
+"Mc Inerney, Patrick T.",3388,comp-0591 p01 2D Animation,34,P,KCREA_D_Y2,kcrea_d2-W_W,1,,IT101,WED,13:15
+"Mc Inerney, Patrick T.",3388,comp-0591 p02 2D Animation,54,P,KCRCO_B_Y2,kcrco_b2-W_W,1,,IT101,WED,14:15
+"Mc Inerney, Patrick T.",3388,comp-0591 p02 2D Animation,34,P,KCREA_D_Y2,kcrea_d2-W_W,1,,IT101,WED,14:15
+"Mc Inerney, Patrick T.",3388,comp-0631 l04 3D Lighting & Rendering,13,P,KCRCO_B_Y4,kcrco_b4-W_AN,1,,IT101,THU,13:15
+"Mc Inerney, Patrick T.",3388,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,THU,16:15
+"Mc Keown, Bernie",5946,entr-0043 l01 Enterprise App for Business,8,RL,KBUSY_G_Y5,kbusy_g5-W_W,1,_SP,Online,TUE,12:15
+"Mc Keown, Bernie",5946,entr-0043 l02 Enterprise App for Business,8,RL,KBUSY_G_Y5,kbusy_g5-W_W,1,_SP,Online,TUE,13:15
+"Mc Mahon, Michael",0292,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,MON,09:15
+"Mc Mahon, Michael",0292,comp-0678 l01 Python Programming,26,RL,KACMI_B_Y2,kacmi_b2-W_W,1,,NUIST,WED,09:15
+"Mc Mahon, Michael",0292,comp-0678 l02 Python Programming,26,RL,KACMI_B_Y2,kacmi_b2-W_W,1,,NUIST,WED,10:15
+"Mc Mahon, Michael",0292,comp-0678 p01 Python Programming,26,RP,KACMI_B_Y2,kacmi_b2-W_W,1,,NUIST,WED,11:15
+"Mc Mahon, Michael",0292,comp-0678 p02 Python Programming,26,RP,KACMI_B_Y2,kacmi_b2-W_W,1,,NUIST,WED,12:15
+"Mc Mahon, Michael",0292,comp-0650 l01 Cloud Computing 1,26,RL,KACMI_B_Y4,kacmi_b4-W_W,1,,NUIST,FRI,09:15
+"Mc Mahon, Michael",0292,comp-0650 l02 Cloud Computing 1,26,RL,KACMI_B_Y4,kacmi_b4-W_W,1,,NUIST,FRI,10:15
+"Mc Mahon, Michael",0292,comp-0650 p01 Cloud Computing 1,26,RP,KACMI_B_Y4,kacmi_b4-W_W,1,,NUIST,FRI,11:15
+"Mc Mahon, Michael",0292,comp-0650 p02 Cloud Computing 1,26,RP,KACMI_B_Y4,kacmi_b4-W_W,1,,NUIST,FRI,12:15
+"Mc Mahon, Michael",0292,sp authorised insi SETU FYP Projec,1,AI,AIP-SP,SP Authorised Insititu,2,_MC,AA Office-SP,FRI,15:15
+"Meagher, Mairead",0235,comp-0008 l01 Programming Fundamentals I,26,L,KCMSC_B_Y1,kcmsc_b1-W_W1/W,1,,F02,MON,09:15
+"Meagher, Mairead",0235,comp-0008 l01 Programming Fundamentals I,5,L,KCOFO_B_Y1,kcofo_b1-W_W1/W2,1,,F02,MON,09:15
+"Meagher, Mairead",0235,comp-0008 l01 Programming Fundamentals I,3,L,KPHTE_B_Y2,kphte_b2 W_W,1,,F02,MON,09:15
+"Meagher, Mairead",0235,comp-0008 l02 Programming Fundamentals I,26,L,KCMSC_B_Y1,kcmsc_b1-W_W1/W,1,,F02,MON,10:15
+"Meagher, Mairead",0235,comp-0008 l02 Programming Fundamentals I,5,L,KCOFO_B_Y1,kcofo_b1-W_W1/W2,1,,F02,MON,10:15
+"Meagher, Mairead",0235,comp-0008 l02 Programming Fundamentals I,3,L,KPHTE_B_Y2,kphte_b2 W_W,1,,F02,MON,10:15
+"Meagher, Mairead",0235,comp-0008 p03 Programming Fundamentals I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W2,1,,IT222,MON,15:15
+"Meagher, Mairead",0235,comp-0008 p03 Programming Fundamentals I,5,P,KCOFO_B_Y1,kcofo_b1-W_W2,1,,IT222,MON,15:15
+"Meagher, Mairead",0235,comp-0008 p08 Programming Fundamentals I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W2,1,,IT222,MON,16:15
+"Meagher, Mairead",0235,comp-0008 p08 Programming Fundamentals I,5,P,KCOFO_B_Y1,kcofo_b1-W_W2,1,,IT222,MON,16:15
+"Meagher, Mairead",0235,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,WED,09:15
+"Meagher, Mairead",0235,comp-0008 p12 Programming Fundamentals I,3,P,KPHTE_B_Y2,kphte_b2 W_W,1,,IT101,THU,12:15
+"Meagher, Mairead",0235,comp-0008 p05 Programming Fundamentals I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W2,1,,IT222,THU,13:15
+"Meagher, Mairead",0235,comp-0008 p05 Programming Fundamentals I,5,P,KCOFO_B_Y1,kcofo_b1-W_W2,1,,IT222,THU,13:15
+"Meagher, Mairead",0235,comp-0008 p10 Programming Fundamentals I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W1,1,,IT220,THU,16:15
+"Meagher, Mairead",0235,comp-0008 p10 Programming Fundamentals I,5,P,KCOFO_B_Y1,kcofo_b1-W_W1,1,,IT220,THU,16:15
+"Meagher, Mairead",0235,comp-0008 p11 Programming Fundamentals I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W1,1,,IT118,FRI,09:15
+"Meagher, Mairead",0235,comp-0008 p11 Programming Fundamentals I,5,P,KCOFO_B_Y1,kcofo_b1-W_W1,1,,IT118,FRI,09:15
+"Meagher, Mairead",0235,comp-0008 p12 Programming Fundamentals I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W1,1,,IT118,FRI,10:15
+"Meagher, Mairead",0235,comp-0008 p12 Programming Fundamentals I,5,P,KCOFO_B_Y1,kcofo_b1-W_W1,1,,IT118,FRI,10:15
+"Meagher, Mairead",0235,comp-0008 p12 Programming Fundamentals I,3,P,KPHTE_B_Y2,kphte_b2 W_W,1,,IT118,FRI,11:15
+"Meagher, Mairead",0235,comp-0008 p12 Programming Fundamentals I,3,P,KPHTE_B_Y2,kphte_b2 W_W,1,,IT118,FRI,12:15
+"Meagher, Mairead",0235,comp-0001 p12 Intro. to ICT for scientists,4,P,SPHSC_B_Y1,sphsc_b1_W_W,1,,ITG17,FRI,14:15
+"Meagher, Mairead",0235,comp-0001 p12 Intro. to ICT for scientists,18,P,SSCCM_B_Y1,ssccm_b1-W_Z,1,,ITG17,FRI,14:15
+"Meagher, Mairead",0235,comp-0001 p04 Intro. to ICT for scientists,4,P,SPHSC_B_Y1,sphsc_b1_W_W,1,,ITG17,FRI,15:15
+"Mullally, Brenda",#SPLUS9AD5E,comp-0638 l01 Relational Databases,26,RL,KACMI_B_Y2,kacmi_b2-W_W,1,,NUIST,MON,10:15
+"Mullally, Brenda",#SPLUS9AD5E,comp-0609 l01 Business Analytics 1,26,RL,KSOFE_B_Y4,ksofe_b4_W,1,,NUIST,TUE,12:15
+"Murphy, Kieran",0160,math-0001 l01 Discrete Mathematics,26,L,KCMSC_B_Y1,kcmsc_b1-W_W3/W,1,,FTG10,MON,09:15
+"Murphy, Kieran",0160,math-0001 l01 Discrete Mathematics,5,L,KCOFO_B_Y1,kcofo_b1-W_W3/W4,1,,FTG10,MON,09:15
+"Murphy, Kieran",0160,math-0001 t04 Discrete Mathematics,4,T,KCMSC_B_Y1,kcmsc_b1-W_W4,1,,IT119,MON,13:15
+"Murphy, Kieran",0160,math-0001 t04 Discrete Mathematics,5,T,KCOFO_B_Y1,kcofo_b1-W_W4,1,,IT119,MON,13:15
+"Murphy, Kieran",0160,math-0001 l01 Discrete Mathematics,26,RL,KACMI_B_Y2,kacmi_b2-W_W,1,,NUIST,MON,16:15
+"Murphy, Kieran",0160,math-0001 l01 Discrete Mathematics,26,L,KCMSC_B_Y1,kcmsc_b1-W_W3/W,1,,TL251,TUE,09:15
+"Murphy, Kieran",0160,math-0001 l01 Discrete Mathematics,5,L,KCOFO_B_Y1,kcofo_b1-W_W3/W4,1,,TL251,TUE,09:15
+"Murphy, Kieran",0160,phyi-0038 l03 Computational Physics,3,L,KPHTE_B_Y4,kphte_b4 W_W,1,,W05,TUE,10:15
+"Murphy, Kieran",0160,phyi-0038 l01 Computational Physics,3,L,KPHTE_B_Y4,kphte_b4 W_W,1,,W05,TUE,11:15
+"Murphy, Kieran",0160,phyi-0038 l02 Computational Physics,3,L,KPHTE_B_Y4,kphte_b4 W_W,1,,W05,TUE,12:15
+"Murphy, Kieran",0160,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,TUE,16:15
+"Murphy, Kieran",0160,math-0001 p02 Discrete Mathematics,4,P,KCMSC_B_Y1,kcmsc_b1-W_W4,1,,IT119,WED,14:15
+"Murphy, Kieran",0160,math-0001 p02 Discrete Mathematics,5,P,KCOFO_B_Y1,kcofo_b1-W_W4,1,,IT119,WED,14:15
+"Murphy, Kieran",0160,data-0027 l01 Machine Learning,32,L,KCESS_R_Y5,kcess_r_y5_W,1,,D05,THU,09:15
+"Murphy, Kieran",0160,data-0027 l02 Machine Learning,32,L,KCESS_R_Y5,kcess_r_y5_W,1,,D05,THU,10:15
+"Murphy, Kieran",0160,data-0027 p03 Machine Learning,32,P,KCESS_R_Y5,kcess_r_y5_W,1,,D05,THU,11:15
+"Murphy, Kieran",0160,data-0027 p04 Machine Learning,32,P,KCESS_R_Y5,kcess_r_y5_W,1,,D05,THU,12:15
+"Murphy, Kieran",0160,math-0001 p01 Discrete Mathematics,4,P,KCMSC_B_Y1,kcmsc_b1-W_W3,1,,IT118,THU,15:15
+"Murphy, Kieran",0160,math-0001 p01 Discrete Mathematics,5,P,KCOFO_B_Y1,kcofo_b1-W_W3,1,,IT118,THU,15:15
+"Murphy, Kieran",0160,math-0001 l02 Discrete Mathematics,26,L,KCMSC_B_Y1,kcmsc_b1-W_W3/W,1,,F02,THU,16:15
+"Murphy, Kieran",0160,math-0001 l02 Discrete Mathematics,5,L,KCOFO_B_Y1,kcofo_b1-W_W3/W4,1,,F02,THU,16:15
+"Murphy, Kieran",0160,math-0001 t03 Discrete Mathematics,4,T,KCMSC_B_Y1,kcmsc_b1-W_W3,1,,FTG10,FRI,10:15
+"Murphy, Kieran",0160,math-0001 t03 Discrete Mathematics,5,T,KCOFO_B_Y1,kcofo_b1-W_W3,1,,FTG10,FRI,10:15
+"O Connor, Diarmuid",0338,comp-0984 l01 DevOps Practice,13,L,KDEVP_B_Y4,kdevp_b4-W_W,1,,TL238,MON,10:15
+"O Connor, Diarmuid",0338,comp-0562 p03 Distributed Systems,10,P,KACCM_B_Y4,kaccm_b4-W_W2,1,,ITG17,MON,11:15
+"O Connor, Diarmuid",0338,comp-0562 p03 Distributed Systems,2,P,KCOFO_B_Y4,kcofo_b4-W_W2,1,,ITG17,MON,11:15
+"O Connor, Diarmuid",0338,comp-0562 p04 Distributed Systems,10,P,KACCM_B_Y4,kaccm_b4-W_W2,1,,ITG17,MON,12:15
+"O Connor, Diarmuid",0338,comp-0562 p04 Distributed Systems,2,P,KCOFO_B_Y4,kcofo_b4-W_W2,1,,ITG17,MON,12:15
+"O Connor, Diarmuid",0338,comp-0984 p01 DevOps Practice,13,RP,KDEVP_B_Y4,kdevp_b4-W_W,1,_SP,Online,TUE,09:15
+"O Connor, Diarmuid",0338,comp-0984 p03 DevOps Practice,13,RP,KDEVP_B_Y4,kdevp_b4-W_W,1,_SP,Online,TUE,10:15
+"O Connor, Diarmuid",0338,comp-0562 p02 Distributed Systems,10,P,KACCM_B_Y4,kaccm_b4-W_W1,1,,IT103,WED,09:15
+"O Connor, Diarmuid",0338,comp-0562 p02 Distributed Systems,2,P,KCOFO_B_Y4,kcofo_b4-W_W1,1,,IT103,WED,09:15
+"O Connor, Diarmuid",0338,comp-0562 p01 Distributed Systems,10,P,KACCM_B_Y4,kaccm_b4-W_W1,1,PT,IT103,WED,10:15
+"O Connor, Diarmuid",0338,comp-0562 p01 Distributed Systems,2,P,KCOFO_B_Y4,kcofo_b4-W_W1,1,PT,IT103,WED,10:15
+"O Connor, Diarmuid",0338,comp-0614 l01 Distributed Systems,26,RL,KACMI_B_Y4,kacmi_b4-W_W,1,,NUIST,WED,11:15
+"O Connor, Diarmuid",0338,comp-0614 l01 Distributed Systems,26,RL,KSOFE_B_Y4,ksofe_b4_W,1,,NUIST,WED,11:15
+"O Connor, Diarmuid",0338,comp-0608 l01 Agile Software Practice,26,RL,KSOFE_B_Y4,ksofe_b4_W,1,,NUIST,WED,12:15
+"O Connor, Diarmuid",0338,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,WED,16:15
+"O Connor, Diarmuid",0338,comp-0562 l01 Distributed Systems,10,L,KACCM_B_Y4,kaccm_b4-W_W,1,,TL245,THU,11:15
+"O Connor, Diarmuid",0338,comp-0562 l01 Distributed Systems,2,L,KCOFO_B_Y4,kcofo_b4-W_W,1,,TL245,THU,11:15
+"O Connor, Diarmuid",0338,comp-0562 l02 Distributed Systems,10,L,KACCM_B_Y4,kaccm_b4-W_W,1,,TL245,THU,12:15
+"O Connor, Diarmuid",0338,comp-0562 l02 Distributed Systems,2,L,KCOFO_B_Y4,kcofo_b4-W_W,1,,TL245,THU,12:15
+"O Connor, Diarmuid",0338,comp-0984 p02 DevOps Practice,13,RP,KDEVP_B_Y4,kdevp_b4-W_W,1,_SP,Online,THU,15:15
+"O Connor, Robert",4152,prog mgt Prog Mgt: Computer Science,1,M,PM TASKS-SP,SP Prog Managemen,1,_MC,AA Office-SP,WED,11:15
+"O Connor, Robert",4152,prog mgt Prog Mgt: Computer Science,1,M,PM TASKS-SP,SP Prog Managemen,1,_MC,AA Office-SP,WED,12:15
+"O Connor, Robert",4152,prog mgt Prog Mgt: Computer Science,1,M,PM TASKS-SP,SP Prog Managemen,1,_MC,AA Office-SP,WED,13:15
+"O Connor, Robert",4152,prog mgt Prog Mgt: Computer Science,1,M,PM TASKS-SP,SP Prog Managemen,1,_MC,AA Office-SP,WED,14:15
+"O Connor, Robert",4152,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,THU,09:15
+"O Halloran, Deirdre",0579,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,MON,16:15
+"O Halloran, Deirdre",0579,comp-0611 p01 Web App Development 2,9,P,KCMSC_B_Y3,kcmsc_b3-W_W2,1,,IT220,TUE,11:15
+"O Halloran, Deirdre",0579,comp-0611 p01 Web App Development 2,7,P,KCOFO_B_Y3,kcofo_b3-W_W2,1,,IT220,TUE,11:15
+"O Halloran, Deirdre",0579,comp-0611 p03 Web App Development 2,9,P,KCMSC_B_Y3,kcmsc_b3-W_W2,1,,IT220,TUE,12:15
+"O Halloran, Deirdre",0579,comp-0611 p03 Web App Development 2,7,P,KCOFO_B_Y3,kcofo_b3-W_W2,1,,IT220,TUE,12:15
+"O Halloran, Deirdre",0579,comp-0594 l01 Website Development 2,54,L,KCRCO_B_Y2,kcrco_b2-W_W,1,,F27,TUE,15:15
+"O Halloran, Deirdre",0579,comp-0594 l01 Website Development 2,34,L,KCREA_D_Y2,kcrea_d2-W_W,1,,F27,TUE,15:15
+"O Halloran, Deirdre",0579,comp-0590 l01 Website Development 1,49,L,KINFT_D_Y1,kinft_d1-W_W,1,,TL235,WED,09:15
+"O Halloran, Deirdre",0579,comp-0594 p01 Website Development 2,54,L,KCRCO_B_Y2,kcrco_b2-W_W,1,,TL235,WED,15:15
+"O Halloran, Deirdre",0579,comp-0594 p01 Website Development 2,34,L,KCREA_D_Y2,kcrea_d2-W_W,1,,TL235,WED,15:15
+"O Halloran, Deirdre",0579,comp-0594 p03 Website Development 2,54,P,KCRCO_B_Y2,kcrco_b2-W_W,1,,IT220,WED,16:15
+"O Halloran, Deirdre",0579,comp-0594 p03 Website Development 2,34,P,KCREA_D_Y2,kcrea_d2-W_W,1,,IT220,WED,16:15
+"O Halloran, Deirdre",0579,comp-0590 p03 Website Development 1,49,P,KINFT_D_Y1,kinft_d1-W_W,1,,IT120,THU,14:15
+"O Halloran, Deirdre",0579,comp-0590 p01 Website Development 1,49,P,KINFT_D_Y1,kinft_d1-W_W,1,,IT120,THU,15:15
+"O Halloran, Deirdre",0579,comp-0590 p02 Website Development 1,49,P,KINFT_D_Y1,kinft_d1-W_W,1,,IT120,THU,16:15
+"O Halloran, Deirdre",0579,comp-0594 l02 Website Development 2,54,P,KCRCO_B_Y2,kcrco_b2-W_W,1,,IT220,FRI,11:15
+"O Halloran, Deirdre",0579,comp-0594 l02 Website Development 2,34,P,KCREA_D_Y2,kcrea_d2-W_W,1,,IT220,FRI,11:15
+"O Halloran, Deirdre",0579,comp-0594 p02 Website Development 2,54,P,KCRCO_B_Y2,kcrco_b2-W_W,1,,IT220,FRI,12:15
+"O Halloran, Deirdre",0579,comp-0594 p02 Website Development 2,34,P,KCREA_D_Y2,kcrea_d2-W_W,1,,IT220,FRI,12:15
+"O Halloran, Deirdre",0579,comp-0611 p04 Web App Development 2,9,P,KCMSC_B_Y3,kcmsc_b3-W_W1,1,,IT201,FRI,14:15
+"O Halloran, Deirdre",0579,comp-0611 p04 Web App Development 2,7,P,KCOFO_B_Y3,kcofo_b3-W_W1,1,,IT201,FRI,14:15
+"O Halloran, Deirdre",0579,comp-0611 p02 Web App Development 2,9,P,KCMSC_B_Y3,kcmsc_b3-W_W1,1,,IT201,FRI,15:15
+"O Halloran, Deirdre",0579,comp-0611 p02 Web App Development 2,7,P,KCOFO_B_Y3,kcofo_b3-W_W1,1,,IT201,FRI,15:15
+"O Neill, Brenda",3122,entr-0044 l01 Enterprise Data Interchange,8,RL,KBUSY_G_Y5,kbusy_g5-W_W,1,_SP,Online,MON,12:15
+"O Neill, Brenda",3122,entr-0044 l02 Enterprise Data Interchange,8,RL,KBUSY_G_Y5,kbusy_g5-W_W,1,_SP,Online,MON,13:15
+"O Neill, Brenda",3122,comp-0593 p02 Graphic Design 2,54,P,KCRCO_B_Y2,kcrco_b2-W_W,1,,IT120,MON,15:15
+"O Neill, Brenda",3122,comp-0593 p02 Graphic Design 2,34,P,KCREA_D_Y2,kcrea_d2-W_W,1,,IT120,MON,15:15
+"O Neill, Brenda",3122,comp-0593 p01 Graphic Design 2,54,P,KCRCO_B_Y2,kcrco_b2-W_W,1,,IT120,MON,16:15
+"O Neill, Brenda",3122,comp-0593 p01 Graphic Design 2,34,P,KCREA_D_Y2,kcrea_d2-W_W,1,,IT120,MON,16:15
+"O Neill, Brenda",3122,comp-0583 l03 Creative Programming,54,L,KCRCO_B_Y1,kcrco_b1-W_W,1,,TL250,TUE,11:15
+"O Neill, Brenda",3122,comp-0583 l03 Creative Programming,4,L,KCREA_D_Y1,kcrea_d1-W_W,1,,TL250,TUE,11:15
+"O Neill, Brenda",3122,comp-0593 p03 Graphic Design 2,54,P,KCRCO_B_Y2,kcrco_b2-W_W,1,,IT101,TUE,16:15
+"O Neill, Brenda",3122,comp-0593 p03 Graphic Design 2,34,P,KCREA_D_Y2,kcrea_d2-W_W,1,,IT101,TUE,16:15
+"O Neill, Brenda",3122,comp-0583 p02 Creative Programming,54,P,KCRCO_B_Y1,kcrco_b1-W_W,1,,IT102,WED,09:15
+"O Neill, Brenda",3122,comp-0583 p02 Creative Programming,4,P,KCREA_D_Y1,kcrea_d1-W_W,1,,IT102,WED,09:15
+"O Neill, Brenda",3122,comp-0583 p03 Creative Programming,54,P,KCRCO_B_Y1,kcrco_b1-W_W,1,,IT102,WED,10:15
+"O Neill, Brenda",3122,comp-0583 p03 Creative Programming,4,P,KCREA_D_Y1,kcrea_d1-W_W,1,,IT102,WED,10:15
+"O Neill, Brenda",3122,comp-0583 l01 Creative Programming,54,L,KCRCO_B_Y1,kcrco_b1-W_W,1,,E13,WED,12:15
+"O Neill, Brenda",3122,comp-0583 l01 Creative Programming,4,L,KCREA_D_Y1,kcrea_d1-W_W,1,,E13,WED,12:15
+"O Neill, Brenda",3122,comp-0583 l02 Creative Programming,54,L,KCRCO_B_Y1,kcrco_b1-W_W,1,,E13,WED,13:15
+"O Neill, Brenda",3122,comp-0583 l02 Creative Programming,4,L,KCREA_D_Y1,kcrea_d1-W_W,1,,E13,WED,13:15
+"O Neill, Brenda",3122,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,WED,16:15
+"O Neill, Brenda",3122,comp-0593 l01 Graphic Design 2,54,L,KCRCO_B_Y2,kcrco_b2-W_W,1,,F23,FRI,09:15
+"O Neill, Brenda",3122,comp-0593 l01 Graphic Design 2,34,L,KCREA_D_Y2,kcrea_d2-W_W,1,,F23,FRI,09:15
+"O Neill, Patricia M.",3707,comp-0590 l02 Website Development 1,26,L,KCMSC_B_Y1,kcmsc_b1-W_W3/W,1,,FTG10,MON,10:15
+"O Neill, Patricia M.",3707,comp-0590 l02 Website Development 1,5,L,KCOFO_B_Y1,kcofo_b1-W_W3/W4,1,,FTG10,MON,10:15
+"O Neill, Patricia M.",3707,comp-0590 p12 Website Development 1,4,P,KCMSC_B_Y1,kcmsc_b1-W_W3,1,,IT221,MON,13:15
+"O Neill, Patricia M.",3707,comp-0590 p12 Website Development 1,5,P,KCOFO_B_Y1,kcofo_b1-W_W3,1,,IT221,MON,13:15
+"O Neill, Patricia M.",3707,comp-0590 p03 Website Development 1,4,P,KCMSC_B_Y1,kcmsc_b1-W_W3,1,,IT221,MON,14:15
+"O Neill, Patricia M.",3707,comp-0590 p03 Website Development 1,5,P,KCOFO_B_Y1,kcofo_b1-W_W3,1,,IT221,MON,14:15
+"O Neill, Patricia M.",3707,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,TUE,13:15
+"O Neill, Patricia M.",3707,comp-0590 p07 Website Development 1,4,P,KCMSC_B_Y1,kcmsc_b1-W_W4,1,,IT120,WED,15:15
+"O Neill, Patricia M.",3707,comp-0590 p07 Website Development 1,5,P,KCOFO_B_Y1,kcofo_b1-W_W4,1,,IT120,WED,15:15
+"O Neill, Patricia M.",3707,comp-0590 p04 Website Development 1,4,P,KCMSC_B_Y1,kcmsc_b1-W_W4,1,,IT120,WED,16:15
+"O Neill, Patricia M.",3707,comp-0590 p04 Website Development 1,5,P,KCOFO_B_Y1,kcofo_b1-W_W4,1,,IT120,WED,16:15
+"O Neill, Patricia M.",3707,comp-0590 p06 Website Development 1,4,P,KCMSC_B_Y1,kcmsc_b1-W_W4,1,,IT120,FRI,12:15
+"O Neill, Patricia M.",3707,comp-0590 p06 Website Development 1,5,P,KCOFO_B_Y1,kcofo_b1-W_W4,1,,IT120,FRI,12:15
+"O Neill, Patricia M.",3707,comp-0590 p05 Website Development 1,4,P,KCMSC_B_Y1,kcmsc_b1-W_W3,1,,IT201,FRI,13:15
+"O Neill, Patricia M.",3707,comp-0590 p05 Website Development 1,5,P,KCOFO_B_Y1,kcofo_b1-W_W3,1,,IT201,FRI,13:15
+"O Neill, Sinead M,",2792,prog mgt Prog Mgt: NUISTWI-KACMI-1,1,M,PM TASKS-SP,SP Prog Managemen,1,_MC,AA Office-SP,MON,13:15
+"O Neill, Sinead M,",2792,prog mgt Prog Mgt: NUISTWI-KACMI-1,1,M,PM TASKS-SP,SP Prog Managemen,1,_MC,AA Office-SP,MON,14:15
+"O Neill, Sinead M,",2792,lear-0042 l05 Learning to Learn,5,P,NGENN_B_Y1,ngenn_b1-W_J,1,,230,MON,16:15
+"O Neill, Sinead M,",2792,lear-0042 l05 Learning to Learn,5,P,NPSYC_B_Y1,npsyc_b1-W_A,1,,230,MON,16:15
+"O Neill, Sinead M,",2792,lear-0042 l05 Learning to Learn,5,P,NPSYC_B_Y1,npsyc_b1-W_B,1,,230,MON,16:15
+"O Neill, Sinead M,",2792,lear-0042 l05 Learning to Learn,5,P,NPSYC_B_Y1,npsyc_b1-W_C,1,,230,MON,16:15
+"O Neill, Sinead M,",2792,lear-0042 l05 Learning to Learn,5,P,NPSYC_B_Y1,npsyc_b1-W_D,1,,230,MON,16:15
+"O Neill, Sinead M,",2792,syst-0023 l02 Systems Analysis Design,49,L,KINFT_D_Y1,kinft_d1-W_W,1,,D11,TUE,09:15
+"O Neill, Sinead M,",2792,comp-0541 p02 Computer Systems I,49,P,KINFT_D_Y1,kinft_d1-W_W,1,,IT119,TUE,11:15
+"O Neill, Sinead M,",2792,comp-0541 p03 Computer Systems I,49,P,KINFT_D_Y1,kinft_d1-W_W,1,,IT119,TUE,12:15
+"O Neill, Sinead M,",2792,comp-0541 p04 Computer Systems I,49,P,KINFT_D_Y1,kinft_d1-W_W,1,,IT119,TUE,13:15
+"O Neill, Sinead M,",2792,syst-0023 p01 Systems Analysis Design,49,P,KINFT_D_Y1,kinft_d1-W_W,1,,TL120,TUE,15:15
+"O Neill, Sinead M,",2792,syst-0023 l01 Systems Analysis Design,49,L,KINFT_D_Y1,kinft_d1-W_W,1,,TL120,TUE,16:15
+"O Neill, Sinead M,",2792,ee authorised ins NUIST,1,AI,AIP-EE,EE Authourised Instit,1,_MC,AA Office-SP,WED,09:15
+"O Neill, Sinead M,",2792,lear-0042 l05 Learning to Learn,5,P,NGENN_B_Y1,ngenn_b1-W_A,1,,IT222,WED,13:15
+"O Neill, Sinead M,",2792,lear-0042 l05 Learning to Learn,5,P,NGENN_B_Y1,ngenn_b1-W_B,1,,IT222,WED,13:15
+"O Neill, Sinead M,",2792,lear-0042 l05 Learning to Learn,5,P,NGENN_B_Y1,ngenn_b1-W_C,1,,IT222,WED,13:15
+"O Neill, Sinead M,",2792,lear-0042 l05 Learning to Learn,5,P,NGENN_B_Y1,ngenn_b1-W_G,1,,IT222,WED,13:15
+"O Neill, Sinead M,",2792,lear-0042 l05 Learning to Learn,5,P,NGENN_B_Y1,ngenn_b1-W_H,1,,IT222,WED,13:15
+"O Neill, Sinead M,",2792,comp-0541 l02 Computer Systems I,54,L,KCRCO_B_Y1,kcrco_b1-W_W,1,,C30,WED,15:15
+"O Neill, Sinead M,",2792,comp-0541 l02 Computer Systems I,4,L,KCREA_D_Y1,kcrea_d1-W_W,1,,C30,WED,15:15
+"O Neill, Sinead M,",2792,comp-0541 l02 Computer Systems I,49,L,KINFT_D_Y1,kinft_d1-W_W,1,,C30,WED,15:15
+"O Neill, Sinead M,",2792,syst-0023 l01 Systems Analysis Design,49,L,KINFT_D_Y1,kinft_d1-W_W,1,,TL244(B),THU,09:15
+"O Neill, Sinead M,",2792,lear-0042 l01 Learning to Learn,5,RP,NMENH_B_Y1,nmenh_b1-W_A,1,,ITG01,THU,12:15
+"O Neill, Sinead M,",2792,lear-0042 l01 Learning to Learn,5,RP,NMENH_B_Y1,nmenh_b1-W_B,1,,ITG01,THU,12:15
+"O Neill, Sinead M,",2792,lear-0042 l01 Learning to Learn,5,RP,NMENH_B_Y1,nmenh_b1-W_C,1,,ITG01,THU,12:15
+"O Neill, Sinead M,",2792,lear-0042 l01 Learning to Learn,5,RP,NMENH_B_Y1,nmenh_b1-W_D,1,,ITG01,THU,12:15
+"O Neill, Sinead M,",2792,lear-0042 l01 Learning to Learn,5,RP,NMENH_B_Y1,nmenh_b1-W_E,1,,ITG01,THU,12:15
+"O Neill, Sinead M,",2792,comp-0541 l01 Computer Systems I,26,RL,KACMI_B_Y1,kacmi_b1-W_W,1,,NUIST,FRI,09:15
+"O Neill, Sinead M,",2792,comp-0541 l01 Computer Systems I,26,RL,KSOFE_B_Y1,ksofe_b1_w,1,,NUIST,FRI,09:15
+"O Neill, Sinead M,",2792,comp-0541 l01 Computer Systems I,36,RL,EINFE_B_Y1,einfe_b1_W,1,,NUIST,FRI,10:15
+"Power, Clodagh",2195,comp-0001 p01 Intro. to ICT for scientists,4,P,SPHSC_B_Y1,sphsc_b1_W_K,1,,IT220,MON,09:15
+"Power, Clodagh",2195,comp-0001 p01 Intro. to ICT for scientists,2,P,SPHSC_B_Y1,sphsc_b1_W_L,1,,IT220,MON,09:15
+"Power, Clodagh",2195,comp-0001 p02 Intro. to ICT for scientists,4,P,SPHSC_B_Y1,sphsc_b1_W_K,1,,IT220,MON,10:15
+"Power, Clodagh",2195,comp-0001 p02 Intro. to ICT for scientists,2,P,SPHSC_B_Y1,sphsc_b1_W_L,1,,IT220,MON,10:15
+"Power, Clodagh",2195,comp-0001 p03 Intro. to ICT for scientists,4,P,SPHSC_B_Y1,sphsc_b1_W_K,1,,IT220,MON,11:15
+"Power, Clodagh",2195,comp-0001 p03 Intro. to ICT for scientists,2,P,SPHSC_B_Y1,sphsc_b1_W_L,1,,IT220,MON,11:15
+"Power, Clodagh",2195,comp-0661 p04 NoSQL Databases,9,P,KCMSC_B_Y3,kcmsc_b3-W_W1,1,,IT101,TUE,11:15
+"Power, Clodagh",2195,comp-0661 p04 NoSQL Databases,7,P,KCOFO_B_Y3,kcofo_b3-W_W1,1,,IT101,TUE,11:15
+"Power, Clodagh",2195,comp-0661 p03 NoSQL Databases,9,P,KCMSC_B_Y3,kcmsc_b3-W_W1,1,,IT101,TUE,12:15
+"Power, Clodagh",2195,comp-0661 p03 NoSQL Databases,7,P,KCOFO_B_Y3,kcofo_b3-W_W1,1,,IT101,TUE,12:15
+"Power, Clodagh",2195,comp-0628 l03 Computer Security,54,L,KCRCO_B_Y4,kcrco_b4-W_W,1,,F23,TUE,14:15
+"Power, Clodagh",2195,comp-0661 l01 NoSQL Databases,9,L,KCMSC_B_Y3,kcmsc_b3-W_W,1,,FTG14,WED,09:15
+"Power, Clodagh",2195,comp-0661 l01 NoSQL Databases,3,L,KCOFO_B_Y3,kcofo_b3-W_W,1,,FTG14,WED,09:15
+"Power, Clodagh",2195,heal-0107 p01 Int to Healthcare Informatics,42,P,HHSCM_B_Y1,hhscm_b1-W_E,1,,ITG01,WED,12:15
+"Power, Clodagh",2195,heal-0107 p01 Int to Healthcare Informatics,42,P,HHSCM_B_Y1,hhscm_b1-W_F,1,,ITG01,WED,12:15
+"Power, Clodagh",2195,heal-0107 p01 Int to Healthcare Informatics,42,P,HHSCM_B_Y1,hhscm_b1-W_G,1,,ITG01,WED,12:15
+"Power, Clodagh",2195,heal-0107 p01 Int to Healthcare Informatics,42,P,HHSCM_B_Y1,hhscm_b1-W_H,1,,ITG01,WED,12:15
+"Power, Clodagh",2195,comp-0628 l01 Computer Security,54,L,KCRCO_B_Y4,kcrco_b4-W_W,1,,IT201,WED,13:15
+"Power, Clodagh",2195,comp-0661 l02 NoSQL Databases,9,L,KCMSC_B_Y3,kcmsc_b3-W_W,1,,E07,WED,15:15
+"Power, Clodagh",2195,comp-0661 l02 NoSQL Databases,3,L,KCOFO_B_Y3,kcofo_b3-W_W,1,,E07,WED,15:15
+"Power, Clodagh",2195,heal-0107 p01 Int to Healthcare Informatics,42,P,HHSCM_B_Y1,hhscm_b1-W_I,1,,IT222,THU,12:15
+"Power, Clodagh",2195,heal-0107 p01 Int to Healthcare Informatics,42,P,HHSCM_B_Y1,hhscm_b1-W_J,1,,IT222,THU,12:15
+"Power, Clodagh",2195,heal-0107 p01 Int to Healthcare Informatics,42,P,HHSCM_B_Y1,hhscm_b1-W_K,1,,IT222,THU,12:15
+"Power, Clodagh",2195,heal-0107 p01 Int to Healthcare Informatics,42,P,HHSCM_B_Y1,hhscm_b1-W_L,1,,IT222,THU,12:15
+"Power, Clodagh",2195,heal-0107 p01 Int to Healthcare Informatics,8,P,NHEAL_D_Y1,nheal_d1-W_A,1,,IT101,THU,14:15
+"Power, Clodagh",2195,heal-0107 p01 Int to Healthcare Informatics,8,P,NHEAL_D_Y1,nheal_d1-W_B,1,,IT101,THU,14:15
+"Power, Clodagh",2195,comp-0628 l02 Computer Security,54,P,KCRCO_B_Y4,kcrco_b4-W_W,1,,IT103,THU,15:15
+"Power, Clodagh",2195,comp-0628 l04 Computer Security,54,P,KCRCO_B_Y4,kcrco_b4-W_W,1,,IT103,THU,16:15
+"Power, Clodagh",2195,comp-0661 p02 NoSQL Databases,9,P,KCMSC_B_Y3,kcmsc_b3-W_W2,1,,IT220,FRI,09:15
+"Power, Clodagh",2195,comp-0661 p02 NoSQL Databases,7,P,KCOFO_B_Y3,kcofo_b3-W_W2,1,,IT220,FRI,09:15
+"Power, Clodagh",2195,comp-0661 p01 NoSQL Databases,9,P,KCMSC_B_Y3,kcmsc_b3-W_W2,1,,IT220,FRI,10:15
+"Power, Clodagh",2195,comp-0661 p01 NoSQL Databases,7,P,KCOFO_B_Y3,kcofo_b3-W_W2,1,,IT220,FRI,10:15
+"Power, David",2194,comm-0064 l01 Wireless Communications,3,L,KCMSC_B_Y3,kcmsc_b3-W_CLN,1,,IT102,MON,10:15
+"Power, David",2194,comp-0580 l01 Computational Environments,3,L,KPHTE_B_Y3,kphte_b3 W_W,1,,D04,MON,13:15
+"Power, David",2194,comp-0580 p01 Computational Environments,3,P,KPHTE_B_Y3,kphte_b3 W_W,1,,D04,MON,14:15
+"Power, David",2194,comp-0542 p08 Physics 1,4,P,KCMSC_B_Y1,kcmsc_b1-W_P4,1,,W05,MON,15:15
+"Power, David",2194,comp-0542 p08 Physics 1,5,P,KCOFO_B_Y1,kcofo_b1-W_P4,1,,W05,MON,15:15
+"Power, David",2194,comp-0542 p10 Physics 1,4,P,KCMSC_B_Y1,kcmsc_b1-W_P4,1,,W05,MON,16:15
+"Power, David",2194,comp-0542 p10 Physics 1,5,P,KCOFO_B_Y1,kcofo_b1-W_P4,1,,W05,MON,16:15
+"Power, David",2194,comm-0064 p02 Wireless Communications,3,P,KCMSC_B_Y3,kcmsc_b3-W_CLN,1,,D04,TUE,09:15
+"Power, David",2194,comm-0064 p01 Wireless Communications,3,P,KCMSC_B_Y3,kcmsc_b3-W_CLN,1,,D04,TUE,10:15
+"Power, David",2194,comp-0637 p04 Computer Networks,6,P,KCOMC_D_Y2,kcomc_d2-W_W1,1,,D04,TUE,11:15
+"Power, David",2194,comp-0637 p04 Computer Networks,6,P,KDEVP_B_Y2,kdevp_b2-W_W1,1,,D04,TUE,11:15
+"Power, David",2194,comp-0637 p05 Computer Networks,6,P,KCOMC_D_Y2,kcomc_d2-W_W1,1,,D04,TUE,12:15
+"Power, David",2194,comp-0637 p05 Computer Networks,6,P,KDEVP_B_Y2,kdevp_b2-W_W1,1,,D04,TUE,12:15
+"Power, David",2194,comp-0637 l01 Computer Networks,18,L,KCOMC_D_Y2,kcomc_d2-W_W,1,,C26,TUE,13:15
+"Power, David",2194,comp-0637 l01 Computer Networks,18,L,KDEVP_B_Y2,kdevp_b2-W_W,1,,C26,TUE,13:15
+"Power, David",2194,comp-0637 l01 Computer Networks,28,L,KINFT_D_Y2,kinft_d2-W_W,1,,C26,TUE,13:15
+"Power, David",2194,comp-0637 p04 Computer Networks,28,P,KINFT_D_Y2,kinft_d2-W_W,1,,D04,TUE,15:15
+"Power, David",2194,comp-0637 p04 Computer Networks,28,P,KINFT_D_Y2,kinft_d2-W_W,1,,D04,TUE,16:15
+"Power, David",2194,comp-0637 l03 Computer Networks,18,L,KCOMC_D_Y2,kcomc_d2-W_W,1,,F27,THU,14:15
+"Power, David",2194,comp-0637 l03 Computer Networks,18,L,KDEVP_B_Y2,kdevp_b2-W_W,1,,F27,THU,14:15
+"Power, David",2194,comp-0637 l03 Computer Networks,28,L,KINFT_D_Y2,kinft_d2-W_W,1,,F27,THU,14:15
+"Power, David",2194,comm-0064 l02 Wireless Communications,3,L,KCMSC_B_Y3,kcmsc_b3-W_CLN,1,,D16,THU,15:15
+"Power, David",2194,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,THU,16:15
+"Power, David",2194,comp-0637 l02 Computer Networks,18,L,KCOMC_D_Y2,kcomc_d2-W_W,1,,E15,FRI,10:15
+"Power, David",2194,comp-0637 l02 Computer Networks,18,L,KDEVP_B_Y2,kdevp_b2-W_W,1,,E15,FRI,10:15
+"Power, David",2194,comp-0637 l02 Computer Networks,28,L,KINFT_D_Y2,kinft_d2-W_W,1,,E15,FRI,10:15
+"Power, David",2194,phyi-0001 p05 Introductory Physics,18,P,SSCCM_B_Y1,ssccm_b1-W_D,1,,W05,FRI,11:15
+"Power, David",2194,phyi-0001 p04 Introductory Physics,18,P,SSCCM_B_Y1,ssccm_b1-W_D,1,,W05,FRI,12:15
+"Power, David",2194,comp-0637 p04 Computer Networks,6,P,KCOMC_D_Y2,kcomc_d2-W_W2,1,,D04,FRI,14:15
+"Power, David",2194,comp-0637 p04 Computer Networks,6,P,KDEVP_B_Y2,kdevp_b2-W_W2,1,,D04,FRI,14:15
+"Power, David",2194,comp-0637 p04 Computer Networks,6,P,KCOMC_D_Y2,kcomc_d2-W_W2,1,,D04,FRI,15:15
+"Rellis, John",12537,comp-0541 l01 Computer Systems I,52,L,KCOMC_D_Y1,kcomc_d1-W_W,1,,C30,TUE,09:15
+"Rellis, John",12537,comp-0541 l01 Computer Systems I,52,L,KDEVP_B_Y1,kdevp_b1-W_W,1,,C30,TUE,09:15
+"Rellis, John",12537,comp-0517 l01 Web Development,1,RL,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,WED,12:15
+"Rellis, John",12537,comp-0517 l02 Web Development,1,RL,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,WED,13:15
+"Rellis, John",12537,comp-0517 p01 Web Development,1,RP,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,WED,14:15
+"Rellis, John",12537,comp-0517 p02 Web Development,1,RP,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,WED,15:15
+"Rellis, John",12537,comp-0541 p07 Computer Systems I,52,P,KCOMC_D_Y1,kcomc_d1-W_W,1,,D04,THU,09:15
+"Rellis, John",12537,comp-0541 p07 Computer Systems I,52,P,KDEVP_B_Y1,kdevp_b1-W_W,1,,D04,THU,09:15
+"Rellis, John",12537,comp-0541 p08 Computer Systems I,52,P,KCOMC_D_Y1,kcomc_d1-W_W,1,,D04,THU,10:15
+"Rellis, John",12537,comp-0541 p08 Computer Systems I,52,P,KDEVP_B_Y1,kdevp_b1-W_W,1,,D04,THU,10:15
+"Rellis, John",12537,comp-0541 p09 Computer Systems I,52,P,KCOMC_D_Y1,kcomc_d1-W_W,1,,D04,THU,11:15
+"Rellis, John",12537,comp-0541 p09 Computer Systems I,52,P,KDEVP_B_Y1,kdevp_b1-W_W,1,,D04,THU,11:15
+"Robson, Morgan",12663,mthe-0055 l02 Fundamental Eng Maths,1,L,EMANF_D_Y1,emanf_d1-W_W,1,,C26,MON,14:15
+"Robson, Morgan",12663,mthe-0055 l02 Fundamental Eng Maths,6,L,EMECH_C_Y1,emech_c1-MP1_W,1,,C26,MON,14:15
+"Robson, Morgan",12663,mthe-0055 l02 Fundamental Eng Maths,22,L,EMECH_D_Y1,emech_d1_W,1,,C26,MON,14:15
+"Robson, Morgan",12663,mthe-0055 p02 Fundamental Eng Maths,1,P,EMANF_D_Y1,emanf_d1-W_W,1,,C26,MON,15:15
+"Robson, Morgan",12663,mthe-0055 p02 Fundamental Eng Maths,6,P,EMECH_C_Y1,emech_c1-MP1_W,1,,C26,MON,15:15
+"Robson, Morgan",12663,mthe-0055 p02 Fundamental Eng Maths,22,P,EMECH_D_Y1,emech_d1_W,1,,C26,MON,15:15
+"Robson, Morgan",12663,dequ-0001 t01 Differential Equations,3,T,EMANF_D_Y3,emanf_d3-W_W,1,,C42,WED,11:15
+"Robson, Morgan",12663,dequ-0001 t01 Differential Equations,7,T,EMECH_D_Y3,emech_d3_W,1,,C42,WED,11:15
+"Robson, Morgan",12663,dequ-0001 l01 Differential Equations,3,L,EMANF_D_Y3,emanf_d3-W_W,1,,C42,WED,12:15
+"Robson, Morgan",12663,dequ-0001 l01 Differential Equations,7,L,EMECH_D_Y3,emech_d3_W,1,,C42,WED,12:15
+"Robson, Morgan",12663,dequ-0001 l02 Differential Equations,3,L,EMANF_D_Y3,emanf_d3-W_W,1,,FTG11,THU,11:15
+"Robson, Morgan",12663,dequ-0001 l02 Differential Equations,7,L,EMECH_D_Y3,emech_d3_W,1,,FTG11,THU,11:15
+"Robson, Morgan",12663,dequ-0001 l03 Differential Equations,3,L,EMANF_D_Y3,emanf_d3-W_W,1,,FTG11,THU,12:15
+"Robson, Morgan",12663,dequ-0001 l03 Differential Equations,7,L,EMECH_D_Y3,emech_d3_W,1,,FTG11,THU,12:15
+"Robson, Morgan",12663,mthe-0055 l02 Fundamental Eng Maths,1,L,EMANF_D_Y1,emanf_d1-W_W,1,,C26,THU,16:15
+"Robson, Morgan",12663,mthe-0055 l02 Fundamental Eng Maths,6,L,EMECH_C_Y1,emech_c1-MP1_W,1,,C26,THU,16:15
+"Robson, Morgan",12663,mthe-0055 l02 Fundamental Eng Maths,22,L,EMECH_D_Y1,emech_d1_W,1,,C26,THU,16:15
+"Robson, Morgan",12663,mthe-0055 p03 Fundamental Eng Maths,1,P,EMANF_D_Y1,emanf_d1-W_W,1,,C42,FRI,11:15
+"Robson, Morgan",12663,mthe-0055 p03 Fundamental Eng Maths,6,P,EMECH_C_Y1,emech_c1-MP1_W,1,,C42,FRI,11:15
+"Robson, Morgan",12663,mthe-0055 p03 Fundamental Eng Maths,22,P,EMECH_D_Y1,emech_d1_W,1,,C42,FRI,11:15
+"Robson, Morgan",12663,flum-0001 l01 Fluid Mechanics,7,L,EMECH_D_Y3,emech_d3_W,1,,F06,FRI,14:15
+"Roche, Siobhan",9157,comp-0008 l04 Programming Fundamentals I,26,L,KCMSC_B_Y1,kcmsc_b1-W_W3/W,1,,E07,MON,11:15
+"Roche, Siobhan",9157,comp-0008 l04 Programming Fundamentals I,5,L,KCOFO_B_Y1,kcofo_b1-W_W3/W4,1,,E07,MON,11:15
+"Roche, Siobhan",9157,comp-0008 p01 Programming Fundamentals I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W3,1,,IT119,WED,09:15
+"Roche, Siobhan",9157,comp-0008 p01 Programming Fundamentals I,5,P,KCOFO_B_Y1,kcofo_b1-W_W3,1,,IT119,WED,09:15
+"Roche, Siobhan",9157,comp-0008 p02 Programming Fundamentals I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W3,1,,IT119,WED,10:15
+"Roche, Siobhan",9157,comp-0008 p02 Programming Fundamentals I,5,P,KCOFO_B_Y1,kcofo_b1-W_W3,1,,IT119,WED,10:15
+"Roche, Siobhan",9157,comp-0008 p04 Programming Fundamentals I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W4,1,,IT101,THU,15:15
+"Roche, Siobhan",9157,comp-0008 p04 Programming Fundamentals I,5,P,KCOFO_B_Y1,kcofo_b1-W_W4,1,,IT101,THU,15:15
+"Roche, Siobhan",9157,comp-0008 l03 Programming Fundamentals I,26,L,KCMSC_B_Y1,kcmsc_b1-W_W3/W,1,TLG21,AUD,FRI,09:15
+"Roche, Siobhan",9157,comp-0008 l03 Programming Fundamentals I,5,L,KCOFO_B_Y1,kcofo_b1-W_W3/W4,1,TLG21,AUD,FRI,09:15
+"Roche, Siobhan",9157,comp-0008 p04 Programming Fundamentals I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W4,1,,IT120,FRI,10:15
+"Roche, Siobhan",9157,comp-0008 p04 Programming Fundamentals I,5,P,KCOFO_B_Y1,kcofo_b1-W_W4,1,,IT120,FRI,10:15
+"Roche, Siobhan",9157,comp-0008 p04 Programming Fundamentals I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W4,1,,IT120,FRI,11:15
+"Roche, Siobhan",9157,comp-0008 p04 Programming Fundamentals I,5,P,KCOFO_B_Y1,kcofo_b1-W_W4,1,,IT120,FRI,11:15
+"Roche, Siobhan",9157,comp-0008 p03 Programming Fundamentals I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W3,1,,IT221,FRI,12:15
+"Roche, Siobhan",9157,comp-0008 p03 Programming Fundamentals I,5,P,KCOFO_B_Y1,kcofo_b1-W_W3,1,,IT221,FRI,12:15
+"Sexton, Brenda",4637,comp-0638 p04 Relational Databases,25,P,KCMSC_B_Y2,kcmsc_b2-X_W1,1,,IT119,MON,09:15
+"Sexton, Brenda",4637,comp-0638 p04 Relational Databases,3,P,KCOFO_B_Y2,kcofo_b2-W_W1,1,,IT119,MON,09:15
+"Sexton, Brenda",4637,comp-0638 p06 Relational Databases,25,P,KCMSC_B_Y2,kcmsc_b2-X_W1,1,,IT119,MON,10:15
+"Sexton, Brenda",4637,comp-0638 p06 Relational Databases,3,P,KCOFO_B_Y2,kcofo_b2-W_W1,1,,IT119,MON,10:15
+"Sexton, Brenda",4637,comp-0638 p02 Relational Databases,25,P,KCMSC_B_Y2,kcmsc_b2-X_W3,1,,IT220,MON,15:15
+"Sexton, Brenda",4637,comp-0638 p02 Relational Databases,3,P,KCOFO_B_Y2,kcofo_b2-W_W3,1,,IT220,MON,15:15
+"Sexton, Brenda",4637,comp-0638 p03 Relational Databases,25,P,KCMSC_B_Y2,kcmsc_b2-X_W3,1,,IT220,MON,16:15
+"Sexton, Brenda",4637,comp-0638 p03 Relational Databases,3,P,KCOFO_B_Y2,kcofo_b2-W_W3,1,,IT220,MON,16:15
+"Sexton, Brenda",4637,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,TUE,15:15
+"Sexton, Brenda",4637,data-0016 l02 Data Analytics Essentials,13,L,KDEVP_B_Y4,kdevp_b4-W_W,1,,D11,WED,11:15
+"Sexton, Brenda",4637,comp-0638 p01 Relational Databases,25,P,KCMSC_B_Y2,kcmsc_b2-X_W2,1,,IT119,WED,15:15
+"Sexton, Brenda",4637,comp-0638 p01 Relational Databases,3,P,KCOFO_B_Y2,kcofo_b2-W_W2,1,,IT119,WED,15:15
+"Sexton, Brenda",4637,comp-0638 p05 Relational Databases,25,P,KCMSC_B_Y2,kcmsc_b2-X_W2,1,,IT119,WED,16:15
+"Sexton, Brenda",4637,comp-0638 p05 Relational Databases,3,P,KCOFO_B_Y2,kcofo_b2-W_W2,1,,IT119,WED,16:15
+"Sexton, Brenda",4637,data-0016 p04 Data Analytics Essentials,13,P,KDEVP_B_Y4,kdevp_b4-W_W,1,,ITG18,THU,13:15
+"Sexton, Brenda",4637,comp-0638 l02 Relational Databases,17,L,KCMSC_B_Y2,kcmsc_b2-X_W,1,,FTG14,THU,14:15
+"Sexton, Brenda",4637,comp-0638 l02 Relational Databases,5,L,KCOFO_B_Y2,kcofo_b2-W_W,1,,FTG14,THU,14:15
+"Sexton, Brenda",4637,data-0016 p03 Data Analytics Essentials,13,P,KDEVP_B_Y4,kdevp_b4-W_W,1,,IT118,FRI,13:15
+"Sexton, Brenda",4637,data-0016 p03 Data Analytics Essentials,13,P,KDEVP_B_Y4,kdevp_b4-W_W,1,,IT118,FRI,14:15
+"Sexton, Brenda",4637,comp-0638 l01 Relational Databases,17,L,KCMSC_B_Y2,kcmsc_b2-X_W,1,,F01,FRI,15:15
+"Sexton, Brenda",4637,comp-0638 l01 Relational Databases,5,L,KCOFO_B_Y2,kcofo_b2-W_W,1,,F01,FRI,15:15
+"Shanahan, Rosemary",2358,resa_0172 p03 IT & Research Skills,40,P,HRECL_D_Y1,hrecl_d1-W_W,1,,ITG03,TUE,13:15
+"Shanahan, Rosemary",2358,resa_0172 p03 IT & Research Skills,15,P,HRECR_B_Y1,hrecr_b1-W_W,1,,ITG03,TUE,13:15
+"Shanahan, Rosemary",2358,resa_0172 p03 IT & Research Skills,40,P,HRECL_D_Y1,hrecl_d1-W_W,1,,ITG03,TUE,14:15
+"Shanahan, Rosemary",2358,resa_0172 p03 IT & Research Skills,15,P,HRECR_B_Y1,hrecr_b1-W_W,1,,ITG03,TUE,14:15
+"Shanahan, Rosemary",2358,resa_0172 p01 IT & Research Skills,40,P,HRECL_D_Y1,hrecl_d1-W_W,1,,IT201,THU,11:15
+"Shanahan, Rosemary",2358,resa_0172 p01 IT & Research Skills,15,P,HRECR_B_Y1,hrecr_b1-W_W,1,,IT201,THU,11:15
+"Shanahan, Rosemary",2358,comp-0983 l01 Bus Systems & Software Eng,8,RL,KBUSY_G_Y5,kbusy_g5-W_W,1,_SP,Online,THU,12:15
+"Shanahan, Rosemary",2358,comp-0983 l01 Bus Systems & Software Eng,8,RL,KBUSY_G_Y5,kbusy_g5-W_W,1,_SP,Online,THU,13:15
+"Shanahan, Rosemary",2358,lawh-0227 p01 Legal Skills 1,51,P,HLEST_B_Y1,hlest_b1-W_A,1,,HA 22,THU,15:15
+"Shanahan, Rosemary",2358,lawh-0227 p02 Legal Skills 1,51,P,HLEST_B_Y1,hlest_b1-W_B,1,,HA 22,THU,16:15
+"Shanahan, Rosemary",2358,comm-0075 p02 Communication Skills for Agri,8,P,SAGUL_B_Y1,sagul_b1-W_A,1,,ITG01,FRI,12:15
+"Shanahan, Rosemary",2358,comm-0075 p02 Communication Skills for Agri,8,P,SAGUL_B_Y1,sagul_b1-W_B,1,,ITG01,FRI,12:15
+"Shanahan, Rosemary",2358,comm-0075 p02 Communication Skills for Agri,8,P,SAGUL_D_Y1,sagul_d1-W_A,1,,ITG01,FRI,12:15
+"Shanahan, Rosemary",2358,comm-0075 p02 Communication Skills for Agri,7,P,SAGUL_D_Y1,sagul_d1-W_B,1,,ITG01,FRI,12:15
+"Shanahan, Rosemary",2358,comm-0075 p04 Communication Skills for Agri,8,P,SAGUL_B_Y1,sagul_b1-W_A,1,,ITG01,FRI,13:15
+"Shanahan, Rosemary",2358,comm-0075 p04 Communication Skills for Agri,8,P,SAGUL_B_Y1,sagul_b1-W_B,1,,ITG01,FRI,13:15
+"Shanahan, Rosemary",2358,comm-0075 p04 Communication Skills for Agri,8,P,SAGUL_D_Y1,sagul_d1-W_A,1,,ITG01,FRI,13:15
+"Shanahan, Rosemary",2358,comm-0075 p04 Communication Skills for Agri,7,P,SAGUL_D_Y1,sagul_d1-W_B,1,,ITG01,FRI,13:15
+"Shanahan, Rosemary",2358,lawh-0227 p02 Legal Skills 1,51,P,HLEST_B_Y1,hlest_b1-W_C,1,,HA 22,FRI,15:15
+"Shanahan, Rosemary",2358,lawh-0227 p02 Legal Skills 1,51,P,HLEST_B_Y1,hlest_b1-W_D,1,,HA 22,FRI,16:15
+"Sheppard, John",5885,comp-0973 p02 Information Security,32,P,KCESS_R_Y5,kcess_r_y5_W,1,,D05,MON,12:15
+"Sheppard, John",5885,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,WED,09:15
+"Sheppard, John",5885,comp-0119 l01 File System Forensics,2,L,KCMSC_B_Y2,kcmsc_b2-X_FOR1,1,,IT102,THU,09:15
+"Sheppard, John",5885,comp-0119 l01 File System Forensics,5,L,KCOFO_B_Y2,kcofo_b2-W_W,1,,IT102,THU,09:15
+"Sheppard, John",5885,comp-0119 p01 File System Forensics,2,P,KCMSC_B_Y2,kcmsc_b2-X_FOR1,1,,IT102,THU,10:15
+"Sheppard, John",5885,comp-0119 p01 File System Forensics,5,P,KCOFO_B_Y2,kcofo_b2-W_W,1,,IT102,THU,10:15
+"Sheppard, John",5885,comp-0129 l01 Network Forensics,3,L,KCMSC_B_Y3,kcmsc_b3-W_CLN,1,,IT102,FRI,11:15
+"Sheppard, John",5885,comp-0129 l01 Network Forensics,4,L,KCMSC_B_Y3,kcmsc_b3-W_FOR,1,,IT102,FRI,11:15
+"Sheppard, John",5885,comp-0129 l01 Network Forensics,3,L,KCOFO_B_Y3,kcofo_b3-W_W,1,,IT102,FRI,11:15
+"Sheppard, John",5885,comp-0129 p02 Network Forensics,3,P,KCMSC_B_Y3,kcmsc_b3-W_CLN,1,,IT102,FRI,12:15
+"Sheppard, John",5885,comp-0129 p02 Network Forensics,4,P,KCMSC_B_Y3,kcmsc_b3-W_FOR,1,,IT102,FRI,12:15
+"Sheppard, John",5885,comp-0129 p02 Network Forensics,3,P,KCOFO_B_Y3,kcofo_b3-W_W,1,,IT102,FRI,12:15
+"Tabassum, Mujahid",12670,comp-0673 p01 Online Forensics,3,P,KACCM_B_Y4,kaccm_b4-W_ FOR,1,,IT103,MON,09:15
+"Tabassum, Mujahid",12670,comp-0673 p01 Online Forensics,2,P,KCOFO_B_Y4,kcofo_b4-W_W,1,,IT103,MON,09:15
+"Tabassum, Mujahid",12670,comp-0673 p03 Online Forensics,3,P,KACCM_B_Y4,kaccm_b4-W_ FOR,1,,IT103,MON,10:15
+"Tabassum, Mujahid",12670,comp-0673 p03 Online Forensics,2,P,KCOFO_B_Y4,kcofo_b4-W_W,1,,IT103,MON,10:15
+"Tabassum, Mujahid",12670,comp-0672 l02 Network and System Security,3,L,KACCM_B_Y4,kaccm_b4-W_ FOR,1,,E19A,MON,15:15
+"Tabassum, Mujahid",12670,comp-0672 l02 Network and System Security,5,L,KACCM_B_Y4,kaccm_b4-W_CLN,1,,E19A,MON,15:15
+"Tabassum, Mujahid",12670,comp-0672 l02 Network and System Security,2,L,KCOFO_B_Y4,kcofo_b4-W_W,1,,E19A,MON,15:15
+"Tabassum, Mujahid",12670,comp-0672 l01 Network and System Security,3,L,KACCM_B_Y4,kaccm_b4-W_ FOR,1,,E19A,MON,16:15
+"Tabassum, Mujahid",12670,comp-0672 l01 Network and System Security,5,L,KACCM_B_Y4,kaccm_b4-W_CLN,1,,E19A,MON,16:15
+"Tabassum, Mujahid",12670,comp-0672 l01 Network and System Security,2,L,KCOFO_B_Y4,kcofo_b4-W_W,1,,E19A,MON,16:15
+"Tabassum, Mujahid",12670,comp-0379 l01 Operating Systems,4,L,KCMSC_B_Y2,kcmsc_b2-X_CLN,1,,TL159,TUE,09:15
+"Tabassum, Mujahid",12670,comp-0379 l01 Operating Systems,5,L,KCOFO_B_Y2,kcofo_b2-W_W,1,,TL159,TUE,09:15
+"Tabassum, Mujahid",12670,prog mgt Prog Mgt: NUISTWI-KDEVP-1,1,M,PM TASKS-SP,SP Prog Managemen,1,_MC,AA Office-SP,TUE,11:15
+"Tabassum, Mujahid",12670,prog mgt Prog Mgt: NUISTWI-KDEVP-1,1,M,PM TASKS-SP,SP Prog Managemen,1,_MC,AA Office-SP,TUE,12:15
+"Tabassum, Mujahid",12670,prog mgt Prog Mgt: NUISTWI-KDEVP-1,1,M,PM TASKS-SP,SP Prog Managemen,1,_MC,AA Office-SP,TUE,13:15
+"Tabassum, Mujahid",12670,prog mgt Prog Mgt: NUISTWI-KDEVP-1,1,M,PM TASKS-SP,SP Prog Managemen,1,_MC,AA Office-SP,TUE,14:15
+"Tabassum, Mujahid",12670,comp-0672 p02 Network and System Security,3,P,KACCM_B_Y4,kaccm_b4-W_ FOR,1,,D04,WED,13:15
+"Tabassum, Mujahid",12670,comp-0672 p02 Network and System Security,2,P,KCOFO_B_Y4,kcofo_b4-W_W,1,,D04,WED,13:15
+"Tabassum, Mujahid",12670,comp-0672 p01 Network and System Security,3,P,KACCM_B_Y4,kaccm_b4-W_ FOR,1,,D04,WED,14:15
+"Tabassum, Mujahid",12670,comp-0672 p01 Network and System Security,2,P,KCOFO_B_Y4,kcofo_b4-W_W,1,,D04,WED,14:15
+"Tabassum, Mujahid",12670,comp-0672 p02 Network and System Security,5,P,KACCM_B_Y4,kaccm_b4-W_CLN,1,,D04,WED,15:15
+"Tabassum, Mujahid",12670,comp-0672 p02 Network and System Security,5,P,KACCM_B_Y4,kaccm_b4-W_CLN,1,,D04,WED,16:15
+"Tabassum, Mujahid",12670,comp-0673 l01 Online Forensics,3,L,KACCM_B_Y4,kaccm_b4-W_ FOR,1,,IT103,THU,09:15
+"Tabassum, Mujahid",12670,comp-0673 l01 Online Forensics,2,L,KCOFO_B_Y4,kcofo_b4-W_W,1,,IT103,THU,09:15
+"Tabassum, Mujahid",12670,comp-0673 p02 Online Forensics,3,L,KACCM_B_Y4,kaccm_b4-W_ FOR,1,,IT103,THU,10:15
+"Tabassum, Mujahid",12670,comp-0673 p02 Online Forensics,2,L,KCOFO_B_Y4,kcofo_b4-W_W,1,,IT103,THU,10:15
+"Tabassum, Mujahid",12670,comp-0379 p02 Operating Systems,4,P,KCMSC_B_Y2,kcmsc_b2-X_CLN,1,,IT222,FRI,09:15
+"Tabassum, Mujahid",12670,comp-0379 p02 Operating Systems,5,P,KCOFO_B_Y2,kcofo_b2-W_W,1,,IT222,FRI,09:15
+"Tabassum, Mujahid",12670,comp-0379 p03 Operating Systems,4,P,KCMSC_B_Y2,kcmsc_b2-X_CLN,1,,IT222,FRI,10:15
+"Tabassum, Mujahid",12670,comp-0379 p03 Operating Systems,5,P,KCOFO_B_Y2,kcofo_b2-W_W,1,,IT222,FRI,10:15
+"Vereker, Ann",0568,comp-0658 l01 Network Theory Fundamental,28,L,KINFT_D_Y2,kinft_d2-W_W,1,,FTG20,MON,11:15
+"Vereker, Ann",0568,comp-0658 l02 Network Theory Fundamental,28,L,KINFT_D_Y2,kinft_d2-W_W,1,,FTG20,MON,12:15
+"Vereker, Ann",0568,mths-0051 l01 Mathematics Fundamentals,52,L,KCOMC_D_Y1,kcomc_d1-W_W,1,,F09,MON,13:15
+"Vereker, Ann",0568,mths-0051 l01 Mathematics Fundamentals,52,L,KDEVP_B_Y1,kdevp_b1-W_W,1,,F09,MON,13:15
+"Vereker, Ann",0568,mths-0001 t03 Introductory Mathematics,18,T,SSCCM_B_Y1,ssccm_b1-W_C,1,,ITG03,MON,15:15
+"Vereker, Ann",0568,mths-0001 t03 Introductory Mathematics,18,T,SSCCM_B_Y1,ssccm_b1-W_D,1,,ITG03,MON,15:15
+"Vereker, Ann",0568,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,TUE,09:15
+"Vereker, Ann",0568,mths-0051 l02 Mathematics Fundamentals,52,L,KCOMC_D_Y1,kcomc_d1-W_W,1,,F04,TUE,10:15
+"Vereker, Ann",0568,mths-0051 l02 Mathematics Fundamentals,52,L,KDEVP_B_Y1,kdevp_b1-W_W,1,,F04,TUE,10:15
+"Vereker, Ann",0568,mths-0001 l02 Introductory Mathematics,4,L,SPHSC_B_Y1,sphsc_b1_W_W,1,,FTG15,TUE,14:15
+"Vereker, Ann",0568,mths-0001 l02 Introductory Mathematics,18,L,SSCCM_B_Y1,ssccm_b1-W,1,,FTG15,TUE,14:15
+"Vereker, Ann",0568,mths-0001 t01 Introductory Mathematics,4,T,SPHSC_B_Y1,sphsc_b1_W_K,1,,IT220,TUE,15:15
+"Vereker, Ann",0568,mths-0001 t01 Introductory Mathematics,2,T,SPHSC_B_Y1,sphsc_b1_W_L,1,,IT220,TUE,15:15
+"Vereker, Ann",0568,mths-0001 l01 Introductory Mathematics,4,L,SPHSC_B_Y1,sphsc_b1_W_W,1,,FTG23,WED,10:15
+"Vereker, Ann",0568,mths-0001 l01 Introductory Mathematics,18,L,SSCCM_B_Y1,ssccm_b1-W,1,,FTG23,WED,10:15
+"Vereker, Ann",0568,mths-0051 t01 Mathematics Fundamentals,52,T,KCOMC_D_Y1,kcomc_d1-W_W,1,,F20,WED,11:15
+"Vereker, Ann",0568,mths-0051 t01 Mathematics Fundamentals,52,T,KDEVP_B_Y1,kdevp_b1-W_W,1,,F20,WED,11:15
+"Vereker, Ann",0568,comp-0658 t01 Network Theory Fundamental,28,T,KINFT_D_Y2,kinft_d2-W_W,1,,IT119,WED,12:15
+"Vereker, Ann",0568,mths-0051 p02 Mathematics Fundamentals,52,P,KCOMC_D_Y1,kcomc_d1-W_W,1,,IT221,WED,13:15
+"Vereker, Ann",0568,mths-0051 p02 Mathematics Fundamentals,52,P,KDEVP_B_Y1,kdevp_b1-W_W,1,,IT221,WED,13:15
+"Vereker, Ann",0568,mths-0001 t02 Introductory Mathematics,18,T,SSCCM_B_Y1,ssccm_b1-W_A,1,,IT222,WED,15:15
+"Vereker, Ann",0568,mths-0001 t02 Introductory Mathematics,18,T,SSCCM_B_Y1,ssccm_b1-W_B,1,,IT222,WED,15:15
+"Vereker, Ann",0568,mths-0001 l03 Introductory Mathematics,4,L,SPHSC_B_Y1,sphsc_b1_W_W,1,,FTG23,THU,12:15
+"Vereker, Ann",0568,mths-0001 l03 Introductory Mathematics,18,L,SSCCM_B_Y1,ssccm_b1-W,1,,FTG23,THU,12:15
+"Vereker, Ann",0568,comp-0658 p01 Network Theory Fundamental,28,P,KINFT_D_Y2,kinft_d2-W_W,1,,IT101,THU,16:15
+"Walid, Abdul",12921,prog mgt Prog Mgt: NUISTWI-KINTT-1/,1,M,PM TASKS-SP,SP Prog Managemen,1,_MC,AA Office-SP,THU,15:15
+"Walid, Abdul",12921,prog mgt Prog Mgt: NUISTWI-KINTT-1/,1,M,PM TASKS-SP,SP Prog Managemen,1,_MC,AA Office-SP,THU,16:15
+"Walid, Abdul",12921,prog mgt Prog Mgt: NUISTWI-KINTT-1/,1,M,PM TASKS-SP,SP Prog Managemen,1,_MC,AA Office-SP,FRI,09:15
+"Walid, Abdul",12921,prog mgt Prog Mgt: NUISTWI-KINTT-1/,1,M,PM TASKS-SP,SP Prog Managemen,1,_MC,AA Office-SP,FRI,10:15
+"Walsh, Frank W",4958,comp-0620 p03 Computer Security & Forensic,1,RP,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,MON,09:15
+"Walsh, Frank W",4958,comp-0620 p04 Computer Security & Forensic,1,RP,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,MON,10:15
+"Walsh, Frank W",4958,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,TUE,13:15
+"Walsh, Frank W",4958,comp-0620 l01 Computer Security & Forensic,1,RL,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,WED,13:15
+"Walsh, Frank W",4958,comp-0620 l02 Computer Security & Forensic,1,RL,KCOSC_G_Y5,zkcosc_g5,1,_SP,Online,WED,14:15
+"Walsh, Sinead R.",4238,prog-0093 l02 Programming Concepts,49,L,KINFT_D_Y1,kinft_d1-W_W,1,,E19A,MON,13:15
+"Walsh, Sinead R.",4238,prog-0093 l01 Programming Concepts,49,L,KINFT_D_Y1,kinft_d1-W_W,1,,E19A,MON,14:15
+"Walsh, Sinead R.",4238,comp-0378 l02 Programming Fundamentals II,28,L,KINFT_D_Y2,kinft_d2-W_W,1,,E04,MON,16:15
+"Walsh, Sinead R.",4238,comp-0378 l01 Programming Fundamentals 2,28,L,KINFT_D_Y2,kinft_d2-W_W,1,,C29,WED,11:15
+"Walsh, Sinead R.",4238,prog-0093 p01 Programming Concepts,49,P,KINFT_D_Y1,kinft_d1-W_W,1,,IT118,WED,12:15
+"Walsh, Sinead R.",4238,prog-0093 p02 Programming Concepts,49,P,KINFT_D_Y1,kinft_d1-W_W,1,,IT118,WED,13:15
+"Walsh, Sinead R.",4238,prog-0093 p03 Programming Concepts,49,P,KINFT_D_Y1,kinft_d1-W_W,1,,IT118,WED,14:15
+"Walsh, Sinead R.",4238,comp-0378 p01 Programming Fundamentals II,28,P,KINFT_D_Y2,kinft_d2-W_W,1,,IT120,THU,11:15
+"Walsh, Sinead R.",4238,comp-0378 p02 Programming Fundamentals II,28,P,KINFT_D_Y2,kinft_d2-W_W,1,,IT120,THU,12:15
+"Walsh, Sinead R.",4238,comp-0378 p03 Programming Fundamentals II,28,P,KINFT_D_Y2,kinft_d2-W_W,1,,IT120,THU,13:15
+"White, Lucy",5576,comp-0637 p04 Computer Networks,25,P,KCMSC_B_Y2,kcmsc_b2-X_W2,1,,D04,MON,09:15
+"White, Lucy",5576,comp-0637 p04 Computer Networks,3,P,KCOFO_B_Y2,kcofo_b2-W_W2,1,,D04,MON,09:15
+"White, Lucy",5576,comp-0637 p06 Computer Networks,25,P,KCMSC_B_Y2,kcmsc_b2-X_W2,1,,D04,MON,10:15
+"White, Lucy",5576,comp-0637 p06 Computer Networks,3,P,KCOFO_B_Y2,kcofo_b2-W_W2,1,,D04,MON,10:15
+"White, Lucy",5576,comp-0637 l01 Computer Networks,17,L,KCMSC_B_Y2,kcmsc_b2-X_W,1,,FTG23,MON,13:15
+"White, Lucy",5576,comp-0637 l01 Computer Networks,5,L,KCOFO_B_Y2,kcofo_b2-W_W,1,,FTG23,MON,13:15
+"White, Lucy",5576,comp-0637 p05 Computer Networks,25,P,KCMSC_B_Y2,kcmsc_b2-X_W1,1,,D04,MON,15:15
+"White, Lucy",5576,comp-0637 p05 Computer Networks,3,P,KCOFO_B_Y2,kcofo_b2-W_W1,1,,D04,MON,15:15
+"White, Lucy",5576,comp-0637 p01 Computer Networks,25,P,KCMSC_B_Y2,kcmsc_b2-X_W1,1,,D04,MON,16:15
+"White, Lucy",5576,comp-0637 p01 Computer Networks,3,P,KCOFO_B_Y2,kcofo_b2-W_W1,1,,D04,MON,16:15
+"White, Lucy",5576,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,TUE,16:15
+"White, Lucy",5576,comp-0637 p03 Computer Networks,25,P,KCMSC_B_Y2,kcmsc_b2-X_W3,1,,D04,WED,09:15
+"White, Lucy",5576,comp-0637 p02 Computer Networks,25,P,KCMSC_B_Y2,kcmsc_b2-X_W3,1,,D04,WED,10:15
+"White, Lucy",5576,proj-0167 l01 Project 1 (Research),26,RL,KACMI_B_Y4,kacmi_b4-W_W,1,,NUIST,WED,13:15
+"White, Lucy",5576,proj-0167 l01 Project 1 (Research),26,RL,KSOFE_B_Y4,ksofe_b4_W,1,,NUIST,WED,13:15
+"White, Lucy",5576,comp-0637 l03 Computer Networks,17,L,KCMSC_B_Y2,kcmsc_b2-X_W,1,,F27,THU,13:15
+"White, Lucy",5576,comp-0637 l03 Computer Networks,5,L,KCOFO_B_Y2,kcofo_b2-W_W,1,,F27,THU,13:15
+"White, Lucy",5576,comp-0637 l02 Computer Networks,17,L,KCMSC_B_Y2,kcmsc_b2-X_W,1,,F01,FRI,14:15
+"White, Lucy",5576,comp-0637 l02 Computer Networks,5,L,KCOFO_B_Y2,kcofo_b2-W_W,1,,F01,FRI,14:15
+"Windle, Peter",6957,comp-0592 p04 Audio Production,54,P,KCRCO_B_Y2,kcrco_b2-W_W,1,,IT101,MON,09:15
+"Windle, Peter",6957,comp-0592 p04 Audio Production,34,P,KCREA_D_Y2,kcrea_d2-W_W,1,,IT101,MON,09:15
+"Windle, Peter",6957,comp-0592 p03 Audio Production,54,P,KCRCO_B_Y2,kcrco_b2-W_W,1,,IT101,MON,10:15
+"Windle, Peter",6957,comp-0592 p03 Audio Production,34,P,KCREA_D_Y2,kcrea_d2-W_W,1,,IT101,MON,10:15
+"Windle, Peter",6957,lear-0074 p01 Learning to Learn,8,P,NHEAL_D_Y1,nheal_d1-W_A,1,,230,MON,15:15
+"Windle, Peter",6957,lear-0074 p01 Learning to Learn,8,P,NHEAL_D_Y1,nheal_d1-W_B,1,,230,MON,15:15
+"Windle, Peter",6957,lear-0074 p01 Learning to Learn,8,P,NHEAL_D_Y1,nheal_d1-W_C,1,,230,MON,15:15
+"Windle, Peter",6957,lear-0074 p01 Learning to Learn,8,P,NHEAL_D_Y1,nheal_d1-W_D,1,,230,MON,15:15
+"Windle, Peter",6957,lear-0074 p02 Learning to Learn,42,P,HHSCM_B_Y1,hhscm_b1-W_E,1,,ITG03,MON,16:15
+"Windle, Peter",6957,lear-0074 p02 Learning to Learn,42,P,HHSCM_B_Y1,hhscm_b1-W_F,1,,ITG03,MON,16:15
+"Windle, Peter",6957,lear-0074 p02 Learning to Learn,42,P,HHSCM_B_Y1,hhscm_b1-W_G,1,,ITG03,MON,16:15
+"Windle, Peter",6957,lear-0074 p02 Learning to Learn,42,P,HHSCM_B_Y1,hhscm_b1-W_H,1,,ITG03,MON,16:15
+"Windle, Peter",6957,comp-0375 l02 The Computer Industry,26,L,KCMSC_B_Y1,kcmsc_b1-W_W3/W,1,,TL245,TUE,10:15
+"Windle, Peter",6957,comp-0375 l02 The Computer Industry,5,L,KCOFO_B_Y1,kcofo_b1-W_W3/W4,1,,TL245,TUE,10:15
+"Windle, Peter",6957,comp-0375 l04 The Computer Industry,26,L,KCMSC_B_Y1,kcmsc_b1-W_W3/W,1,,TL245,TUE,11:15
+"Windle, Peter",6957,comp-0375 l04 The Computer Industry,5,L,KCOFO_B_Y1,kcofo_b1-W_W3/W4,1,,TL245,TUE,11:15
+"Windle, Peter",6957,lear-0042 p01 Learning to Learn,5,P,NGENN_B_Y1,ngenn_b1-W_D,1,,230,WED,09:15
+"Windle, Peter",6957,lear-0042 p01 Learning to Learn,5,P,NGENN_B_Y1,ngenn_b1-W_E,1,,230,WED,09:15
+"Windle, Peter",6957,lear-0042 p01 Learning to Learn,5,P,NGENN_B_Y1,ngenn_b1-W_F,1,,230,WED,09:15
+"Windle, Peter",6957,lear-0042 p01 Learning to Learn,5,P,NMENH_B_Y1,nmenh_b1-W_F,1,,230,WED,09:15
+"Windle, Peter",6957,lear-0074 p01 Learning to Learn,42,P,HHSCM_B_Y1,hhscm_b1-W_I,1,,230,WED,10:15
+"Windle, Peter",6957,lear-0074 p01 Learning to Learn,42,P,HHSCM_B_Y1,hhscm_b1-W_J,1,,230,WED,10:15
+"Windle, Peter",6957,lear-0074 p01 Learning to Learn,42,P,HHSCM_B_Y1,hhscm_b1-W_K,1,,230,WED,10:15
+"Windle, Peter",6957,lear-0074 p01 Learning to Learn,42,P,HHSCM_B_Y1,hhscm_b1-W_L,1,,230,WED,10:15
+"Windle, Peter",6957,comp-0991 l01 Mainframe Technologies,32,RL,KCESS_R_Y5,kcess_r_y5_W,1,_SP,Online,WED,15:15
+"Windle, Peter",6957,comp-0991 l01 Mainframe Technologies,32,RL,KMTEC_MA_Y1,kmetc_ma_y1,1,_SP,Online,WED,15:15
+"Windle, Peter",6957,comp-0991 p01 Mainframe Technologies,32,RP,KCESS_R_Y5,kcess_r_y5_W,1,_SP,Online,WED,16:15
+"Windle, Peter",6957,comp-0991 p01 Mainframe Technologies,32,RP,KMTEC_MA_Y1,kmetc_ma_y1,1,_SP,Online,WED,16:15
+"Windle, Peter",6957,comp-0592 p02 Audio Production,54,P,KCRCO_B_Y2,kcrco_b2-W_W,1,,IT101,THU,10:15
+"Windle, Peter",6957,comp-0592 p02 Audio Production,34,P,KCREA_D_Y2,kcrea_d2-W_W,1,,IT101,THU,10:15
+"Windle, Peter",6957,comp-0375 l03 The Computer Industry,26,L,KCMSC_B_Y1,kcmsc_b1-W_W3/W,1,TLG21,AUD,THU,11:15
+"Windle, Peter",6957,comp-0375 l03 The Computer Industry,5,L,KCOFO_B_Y1,kcofo_b1-W_W3/W4,1,TLG21,AUD,THU,11:15
+"Windle, Peter",6957,comp-0592 p01 Audio Production,54,P,KCRCO_B_Y2,kcrco_b2-W_W,1,,IT101,FRI,14:15
+"Windle, Peter",6957,comp-0592 p01 Audio Production,34,P,KCREA_D_Y2,kcrea_d2-W_W,1,,IT101,FRI,14:15
+"Woods, Jacqueline",3380,comp-0541 p01 Computer Systems I,54,P,KCRCO_B_Y1,kcrco_b1-W_W,1,,IT118,MON,09:15
+"Woods, Jacqueline",3380,comp-0541 p01 Computer Systems I,4,P,KCREA_D_Y1,kcrea_d1-W_W,1,,IT118,MON,09:15
+"Woods, Jacqueline",3380,comp-0541 p06 Computer Systems I,54,P,KCRCO_B_Y1,kcrco_b1-W_W,1,,IT118,MON,10:15
+"Woods, Jacqueline",3380,comp-0541 p06 Computer Systems I,4,P,KCREA_D_Y1,kcrea_d1-W_W,1,,IT118,MON,10:15
+"Woods, Jacqueline",3380,comp-0541 p05 Computer Systems I,54,P,KCRCO_B_Y1,kcrco_b1-W_W,1,,IT118,MON,11:15
+"Woods, Jacqueline",3380,comp-0541 p05 Computer Systems I,4,P,KCREA_D_Y1,kcrea_d1-W_W,1,,IT118,MON,11:15
+"Woods, Jacqueline",3380,comp-0632 l01 Advanced Media Production,13,P,KCRCO_B_Y4,kcrco_b4-W_MED,1,,IT103,MON,13:15
+"Woods, Jacqueline",3380,comp-0632 l04 Advanced Media Production,13,P,KCRCO_B_Y4,kcrco_b4-W_MED,1,,IT103,MON,14:15
+"Woods, Jacqueline",3380,academicadvisor Academic Advisor,1,A,-AcademicAdvisor,Academic Advisor,1,,_MC Office,MON,16:15
+"Woods, Jacqueline",3380,comp-0541 p11 Computer Systems I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W4,1,,IT119,TUE,14:15
+"Woods, Jacqueline",3380,comp-0541 p11 Computer Systems I,5,P,KCOFO_B_Y1,kcofo_b1-W_W4,1,,IT119,TUE,14:15
+"Woods, Jacqueline",3380,comp-0541 p05 Computer Systems I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W4,1,,IT119,TUE,15:15
+"Woods, Jacqueline",3380,comp-0541 p05 Computer Systems I,5,P,KCOFO_B_Y1,kcofo_b1-W_W4,1,,IT119,TUE,15:15
+"Woods, Jacqueline",3380,comp-0541 p03 Computer Systems I,4,P,KCMSC_B_Y1,kcmsc_b1-W_W4,1,,IT119,TUE,16:15
+"Woods, Jacqueline",3380,comp-0541 p03 Computer Systems I,5,P,KCOFO_B_Y1,kcofo_b1-W_W4,1,,IT119,TUE,16:15
+"Woods, Jacqueline",3380,comp-0632 l02 Advanced Media Production,54,P,KCRCO_B_Y4,kcrco_b4-W_W,1,,IT120,WED,09:15
+"Woods, Jacqueline",3380,comp-0632 l03 Advanced Media Production,54,P,KCRCO_B_Y4,kcrco_b4-W_W,1,,IT120,WED,10:15

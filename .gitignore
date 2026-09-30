@@ -1,0 +1,8 @@
+.streamlit/secrets.toml
+.github/
+__pycache__/
+EDA.ipynb
+extract_timetables.py
+README.md
+requirements.txt
+SP_Staff_18_Sept.pdf
