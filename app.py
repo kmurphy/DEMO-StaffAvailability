@@ -5,11 +5,13 @@ from __future__ import annotations
 import csv
 import hmac
 import io
+import re
 from collections import defaultdict
 from datetime import datetime, timedelta
 from math import ceil
 from pathlib import Path
 
+import pandas as pd
 import streamlit as st
 
 
@@ -31,6 +33,20 @@ def load_timetable(contents: bytes) -> list[dict[str, str]]:
 
 def normalise_day(value: str) -> str:
     return value.strip().upper()[:3]
+
+
+def staff_initials(name: str) -> str:
+    surname, separator, given_names = name.partition(",")
+    ordered_name = f"{given_names} {surname}" if separator else name
+    return "".join(part[0].upper() for part in re.findall(r"[A-Za-z]+", ordered_name))
+
+
+def availability_cell_style(value: str, busy_cutoff: int) -> str:
+    if value == "Free":
+        return "background-color: #d1e7dd; color: #0f5132"
+    if len(value.split(", ")) <= busy_cutoff:
+        return "background-color: #fff3cd; color: #664d03"
+    return "background-color: #f8d7da; color: #842029"
 
 
 def require_password() -> None:
@@ -117,7 +133,13 @@ def main() -> None:
         {
             "Time": time,
             **{
-                day: "Free" if not occupied[(day, time)] else "Busy"
+                day: (
+                    "Free"
+                    if not occupied[(day, time)]
+                    else ", ".join(
+                        sorted(staff_initials(name) for name in occupied[(day, time)])
+                    )
+                )
                 for day in DAYS
             },
         }
@@ -125,8 +147,29 @@ def main() -> None:
     ]
 
     st.metric("Common free slots", f"{len(free_slots)} of {len(DAYS) * len(TIMES)}")
+    if (
+        "busy_cutoff" in st.session_state
+        and st.session_state.busy_cutoff > len(selected_staff)
+    ):
+        st.session_state.busy_cutoff = len(selected_staff)
+    busy_cutoff = st.slider(
+        "Busy staff cutoff",
+        min_value=0,
+        max_value=len(selected_staff),
+        value=min(1, len(selected_staff)),
+        help="Busy cells are yellow at or below this number of busy staff and red above it.",
+        key="busy_cutoff",
+    )
     st.subheader("Weekly availability")
-    st.dataframe(availability_grid, hide_index=True, use_container_width=True)
+    availability_frame = pd.DataFrame(availability_grid)
+    st.dataframe(
+        availability_frame.style.map(
+            lambda value: availability_cell_style(value, busy_cutoff),
+            subset=list(DAYS),
+        ),
+        hide_index=True,
+        use_container_width=True,
+    )
     st.subheader("Common free slots")
     st.dataframe(free_slots, hide_index=True, use_container_width=True)
 
